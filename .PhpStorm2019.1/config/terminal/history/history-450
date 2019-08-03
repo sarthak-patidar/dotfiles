@@ -1,0 +1,1000 @@
+clear
+php artisan tinker
+clear
+sudo nano ~/.bashrc 
+clear
+vi ~/.bash_aliases
+clear
+vi ~/.bash_aliases
+clear
+activate-env 
+clear
+show-memory 
+clear
+ls
+clear
+l
+clear
+activate-env 
+clear
+sudo nano ~/.bash_aliases 
+vi ~/.bash_aliases 
+clear
+exec bash
+activate-env 
+clear
+activate-env ../translator/venv/
+clear
+activate-env "../translator/venv/"
+clear
+vi ~/.bash_aliases 
+clear
+exec bash
+clear
+suod
+clear
+suod
+clear
+ls
+clear
+ls
+grep -r "$match" .
+clear
+grep -r "$match" app/
+clear
+grep -r "$match" app/Services/
+clear
+grep -r "match" app/Services/
+clear
+ls -l | wc -l
+clear
+wc -l
+ls -l | wc
+clear
+php artisan tinker
+clear
+composer
+composer validate
+$COMPOSER_HOME
+clear
+echo $COMPOSER_HOME
+clear
+ls -al | wc -al
+ls -al | wc -l
+clear
+ls -l
+clear
+ls -a
+clear
+ls -a | wc -l
+clear
+ls -l
+clear
+ls -a
+clear
+ls -l
+clear
+sudo chown
+clear
+grep
+clear
+cd /etc/
+ls
+vi environment 
+clear
+ls -l
+clear
+ls -l
+vi vtrgb 
+clear
+cd ../var/www/newsbytes/stats-updater
+ls
+clear
+ls -l
+clear
+ls -l
+clear
+sudo su root
+clear
+clear this shit
+clear
+proc
+sl
+ls
+clea
+clear
+l
+la
+ls -laF
+cd vendor
+ls
+cd ../
+ls
+clear
+//use App\Models\Country;
+//use App\Models\ParticipantPlayer;
+use App\Models\ParticipantPlayerCapped;
+use App\Models\Player;
+clear
+sudo nano /etc/hosts
+clear
+stop
+clear
+cat /proc/sys/kernel/hostname
+clear
+composer dump-autoload
+clear
+show-memory 
+clear
+show-memory 
+clear
+sudo su root this shot
+clear
+xdg-settings 
+clear
+xdg-openq
+clean
+clear
+bash exec
+clear
+vi ~/.bash_aliases 
+clear
+bash exec
+clear
+exec bash
+clear
+restart-bash
+clearr
+clear
+vi ~/.bash_aliases 
+clear
+exec bash
+restart-bash 
+redis-cli 
+clear
+show-memory 
+clear
+php artisan tinker
+clear
+show-memory 
+clear
+show-memory 
+clear
+cd ../CPP
+grep -r "findall" .
+php artisan tinker
+cd ../stats-updater
+clear
+php artisan tinker
+clear
+ls -l
+clear
+tail .env
+clear
+tail accesstoken.txt 
+tail public/accesstoken.txt 
+clear
+tail public/accesstoken.txt 
+php artisan tinker
+clear
+stats-updaaaaaaaaaaater
+clear
+init app
+clear
+init
+init --help
+halt --help
+clear
+show-memory 
+clear
+show-memory m
+clear
+ls -a
+clear
+ls
+clear
+git status
+clear
+git status
+git log -2
+git log
+clear
+git diff
+clear
+vi
+clear
+sudo apt install vim
+clear
+sudo apt update
+clea
+clear
+show-memory 
+lcear
+clear
+git status
+clear
+git status
+clear
+grep -r "formatDate" ./app/
+clear
+grep -r "formatDate" .
+clear
+scp
+clear
+scp --help
+scp -h
+clear
+ssh
+ssh 192.168.0.100
+ssh 192.168.0.101
+ssh http://192.168.0.101
+ssh ftp://192.168.0.101
+ssh 192.168.0.101
+clear
+git diff app/Services/DBHandlerService.php
+clear
+ls
+clear
+sudo nano package.json 
+clear
+show-memory 
+clear
+show-memory
+clear
+sync; echo 1 > /proc/sys/vm/drop_caches
+sudo sync; echo 1 > /proc/sys/vm/drop_caches
+sudo su
+clear
+show-memory 
+clear
+show-memory 
+clear
+show-memory 
+clear
+exit
+show-memory 
+clear
+exit
+show-memory 
+sudo apt update
+sudo apt upgrade
+exit
+show-memory 
+clear
+exit
+show-memory 
+clear
+activate-env ../translator/
+activate-env ../translator/venv
+deactivate
+clear
+vi ~/.bash_aliases 
+restart-bash 
+clear
+activate-env ../translator
+deactivate 
+clear
+vi ~/.bash_aliases 
+restart-bash 
+clear
+activate-env ../translator venv
+activate-env ../translator ./venv
+vi ~/.bash_aliases 
+activate-env
+vi ~/.bash_aliases 
+clear
+restart-bash 
+show-memory 
+clear
+exit
+show-memory 
+clear
+php artisan clear-compiled
+show-memory 
+clear
+show-memory 
+vi ~/.bash_aliases 
+nano ~/.bash_aliases 
+vi ~/.bash_aliases 
+restart-bash 
+ping 192.168.100.32
+curl 192.168.100.32
+clear
+exit
+clear
+ls -l
+vi /etc/host
+vi /etc/hosts
+clear
+ls
+cd sftwrs_src_bld/
+ls
+d re
+cd redis-src/
+ls
+cd redis-5.0.5/
+ls
+ls -a
+cd src/
+ls
+nano adlist.
+nano adlist.c
+nano redis-cli
+xdg-open redis-cli
+nano redis-cli.c 
+nano redis-cli.o
+cd 
+ls
+clear
+cd IDE/
+ls
+ls -a
+cd Phpstorm/
+ls
+ls -a
+cd bin/
+ls
+nano log.xml 
+clear
+exit
+show-memory 
+exit
+show-memory 
+clear
+exit
+clear
+xdg-open ../translator/translate.py 
+clear
+git status
+git add app/Http/Controllers/
+git status
+git add app/Http/Controllers/
+git status
+git add app/Models/
+git status 
+git app/Services/ApiHandlerService.php app/Services/CacheService.php app/Services/DBHandlerService.php app/Services/ResponseProcessorService.php
+git add app/Services/ApiHandlerService.php app/Services/CacheService.php app/Services/DBHandlerService.php app/Services/ResponseProcessorService.php
+git status
+clear
+git commit
+git push origin master
+clear
+grep -r "dd(" .
+grep -r "dd(" ./app/
+grep -r "dd(" ./app/Http/
+grep -r "dd(" ./app/Services/
+clear
+git status
+git add app/Http/Controllers/FullScoreCardController.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+git status
+git add app/Models/PlayerStats.php app/Models/ParticipantPlayerCapped.php app/Services/DBHandlerService.php 
+git status
+git commit --amend --no-edit
+git push origin master
+git push -f origin master
+clear
+git add app/Services/DBHandlerService.php 
+git commit --amend --no-edit
+git push -f origin master
+git status
+git diff
+clear
+git diff
+clear
+git log
+clear
+git remote show origin
+git stash list
+clear
+git status 
+cd app/Jobs/
+git status 
+cd ../../
+clear
+git remote show origin
+git log -2
+git log
+grep -r "//" ./app/Http/
+grep -r "//" ./app/Http/Controllers/
+clear
+git diff
+clear
+git status
+git add app/Http/Controllers/
+git status
+git add app/Services/DBHandlerService.php 
+git commit --amend --no-edit 
+git status
+git push -f origin master
+clear
+git status
+clear
+git status
+git add app/Services/CacheService.php 
+git commit --amend --no-edit
+clear
+git push -f origin master
+clear
+git status
+clear
+git log
+clear
+git status
+clear
+git status -uno
+clear
+git status --help
+git status -unormal
+clear
+git status -uno
+git status -u
+clear
+git status -u
+git status -uno
+clear
+show-memory 
+exit
+clear
+clear
+vi ~/.karen.sh 
+clear
+restart-bash 
+show-memory 
+clear
+show-memory 
+clear
+exit
+git status  -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git diff app/Http/Controllers/LiveScoreCardWidgetController.php
+git diff
+clear
+git add app/Http/Controllers/LiveScoreCardWidgetController.php app/Http/Controllers/FullScoreCardController.php app/Services/DBHandlerService.php 
+git status
+clear
+git commit --amend --no-edit 
+git push -f origin master
+clear
+git status -uno
+git status -u
+git status shit
+git status 
+git status -u
+clear
+sudo su shoot
+clear
+sudo apt --help
+apt
+apt update --help
+clear
+ls -l
+sudo nano routes
+clear
+vi routes/web.php 
+clear
+vim this-shit-sucks
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on bitchnithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on!
+clear
+exit
+git add app/Http/Controllers/FullScoreCardController.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+git status -uno
+git log -2
+git remote show origin
+git stash
+cd ../
+ls
+cd stats-updater-jobs/
+ls
+clear
+cd ../
+ls
+clear
+ls
+mkdir stats-updater-bkp
+cd stats-updater-bkp/
+ls
+clear
+git clone https://github.com/sarthak-patidar/stats-updater.git
+ls
+cd stats-updater/
+ls
+mv * ../
+ls
+ls -a
+mv .* ../
+ls -a
+clear
+cd ../
+ls
+rm -r stats-updater/
+ls
+clear
+ls
+cp ../stats-updater/.env .
+ls
+ls -a
+clear
+touch public/accesstoken.txt
+sudo chmod 777 public/accesstoken.txt 
+ll
+sudo chown www-data:www-data storage/
+ls -l
+cd storage/
+l
+ls -l
+cd ../
+sudo chown www-data:www-data -R storage/
+cd storage/
+ls
+ls -l
+clear
+cd ../
+ls
+clear
+sudo chmod 777 -R storage/
+ls
+cd public/
+l
+sls
+clear
+ls
+clear
+cd ../../
+l
+cd translator/
+ls
+clear
+cd ../stats-updater/
+ls
+clear
+sudo nano package.json 
+vi package.json 
+clear
+vi package.json 
+clear
+show-memory 
+clear
+sync
+clear
+show-memory 
+git status
+clear
+git status -uno
+git diff
+clear
+]
+clear
+git status -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+git log 
+clear
+show-memory 
+git diff
+clear
+git status -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git status
+git add app/Http/Controllers/FullScoreCardController.php app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+git status -uno
+clear
+show-memory 
+clear
+show-memory 
+clear
+git add app/Services/CacheService.php 
+git commit --amend --no-edit 
+git push -f origin master
+clear
+git status -uno
+gti add app/Services/ResponseProcessorService.php 
+git add app/Services/ResponseProcessorService.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+cd ../stats-updater-bkp/
+git pull origin master
+rm app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php app/Services/CacheService.php app/Http/Controllers/FullScoreCardController.php 
+git pull origin master
+git status
+cd ../
+sudo rm -r stats-updater-bkp/
+mkdir stats-updater-bkp
+clear
+cd stats-updater-bkp/
+ls
+clear
+git clone https://github.com/sarthak-patidar/stats-updater.git .
+ls
+touch public/accesstoken.txt
+sudo chmod 777 public/accesstoken.txt 
+clear
+cp ../stats-updater/.env .
+ls
+clear
+ls -l
+clear
+ls -a
+clear
+sudo chown :www-data -R storage/
+ls
+ls -a
+ls -l
+clear
+sudo chown www-data:www-data -R storage/
+sudo chmod 777 -R storage/
+ls
+clear
+cd ../stats-updater
+ls
+clear
+ls -a
+clear
+show-memory 
+clear
+whereis swapfile
+clear
+find swapfile
+find swapfile /
+find --help
+clear
+locate
+locate swapfile .
+clear
+ifconfig
+iwconfig
+sudo apt install net-tools
+ifconfig
+clear
+iconfig
+sudo apt install ipmiutil
+clear
+ls -a
+clear
+vi phpunit.xml 
+clear
+sudo ror
+clear
+karen
+clear
+$PATH
+cd ~/bin/
+ls
+vi vault 
+clear
+cd /var/www/newsbytes/stats-updater
+ls
+clear
+susu
+clear
+ping 192.168.0.100
+clear
+ls
+vi readme.md 
+clear
+iv
+clear
+show-memory 
+clear
+this shit fills up my memory so quickly
+clear
+exit
+cd ../sports/
+php artisan schedule:run
+clear
+cd ../stats-updater
+clear
+show-memory 
+clear
+clear
+<?php
+namespace App\Services;
+use Carbon\Carbon;
+use Illuminate\Support\Facades\Cache;
+class CacheService
+{     public function updateOrSetDayWiseMatchSchedule($sport_slug, $listOfMatches, $date){
+clear
+show-memory 
+clear
+sudo apt update
+sudo apt update && sudo apt upgrade
+clear
+redis-cli 
+show-memory 
+clear
+show-memory 
+exit
+show-memory 
+clear
+show-memory 
+php artisan make:command UpdateSportsSchedule
+php artisan make:job UpdateSportsSchedule
+sudo chmod 777 -R storage/
+clear
+php artisan make:job UpdateSportsSchedule
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+git status -uno
+git add app/Http/Controllers/ app/Services/ApiHandlerService.php 
+git status -uno
+git commit 
+clear
+git status -uno
+clear
+git status
+git push origin master
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+cd app/Jobs/
+ls
+cp Job.php SportsJob/
+ls
+cd SportsJob/
+ls
+clear
+cd ../
+mv SportsJob/ SportsJobs/
+clear
+cd SportsJobs/
+ls
+clear
+cd ../../../
+php artisan schedule:run
+cd app/Jobs/
+mv SportsJobs/ Sports/
+clear
+php artisan schedule:run
+cd ../../
+php artisan schedule:run
+mv app/Jobs/Sports/LiveScoreCardBuildJob.php app/Jobs/Sports/LiveScoreCardBuild.php 
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+show-memory 
+clear
+php artisan schedule:run
+php artisan tinker
+clear
+php artisan schedule:run
+clear
+php artisan tinker
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+claer
+clear
+show-memory 
+clear
+git status
+git add app/Http/Controllers/
+git add app/Jobs/Sports/
+git status
+git add app/Console/
+git status
+git add app/Services/ApiHandlerService.php app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php 
+git commit
+clear
+git log
+clear
+git push origin master
+clear
+ls -a
+clear
+php artisan schedule:run
+crontab -e
+clear
+sudo service cron restart 
+clear
+redis-cli 
+clear
+php artisan schedule:run
+redis-cli 
+clear
+git add app/Jobs/Sports/Job.php 
+git status -uno
+clear
+git commit --amend --no-edit
+clear
+git push -f origin master
+clear
+git log
+clear
+git add .env.example 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status -uno
+clear
+show-memory 
+clear
+cd  ../sports/
+ls
+clear
+git branch
+git checkout master
+git diff
+git stash
+git status
+git status -uno
+clear
+git branch
+git checkout master
+git branch
+clear
+git pull origin master
+clear
+git log -2
+clear
+git branch
+clear 
+git branch -a
+git pull
+clear
+git branch -a
+git checkout player-career-amp 
+git branch -a
+clear
+git branch master
+git checkout master
+clear
+git branch --help
+git branch stats-automater
+git branch -a
+git checkout stats-automater 
+clear
+vi .env
+clear
+vi .env.example 
+clear
+npm run dev
+clear
+vi .env.example 
+tail .env
+vi .env.example 
+clear
+git status
+clear
+cd app/Services/
+ls
+cd ../
+ls
+cd ../
+cd app/
+ls
+cd Console/
+ls
+clear
+vi Kernel.php 
+clear
+show-
+show-memory 
+clear
+ls
+cd ../../
+clear
+ls
+clear
+cd app/J
+cd app/
+ls
+mkdir Jobs
+clear
+cd ../
+git status -uno
+git status
+clear
+mkdir automater
+clear
+cd ../
+ls
+sudo cp stats-updater sports/automater/
+sudo cp -r stats-updater sports/automater/
+clear
+cd sports/automater/
+ls
+cd stats-updater/
+ls
+cd ../
+rm -r stats-updater/
+sudo rm -r stats-updater/
+clear
+ls
+cd ../../
+cd stats-updater
+clear
+ls
+sudo cp -r app/ ../sports/automater/
+sudo cp -r routes/ ../sports/automater/
+sudo cp -r composer.json/ ../sports/automater/
+sudo cp composer.json/ ../sports/automater/
+sudo cp composer.json ../sports/automater/
+clear
+cd ../sports
+clear

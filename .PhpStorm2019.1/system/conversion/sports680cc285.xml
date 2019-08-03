@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/www/newsbytes/sports/.idea/dataSources/f5a69ba9-9320-4d06-807d-9d760573025f.xml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/dictionaries/sarthak.xml" timestamp="1562853886000" />
+    <file path="/var/www/newsbytes/sports/.idea/inspectionProfiles/Project_Default.xml" timestamp="1562767656000" />
+    <file path="/var/www/newsbytes/sports/.idea/misc.xml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/modules.xml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/php.xml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/sports.iml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/vcs.xml" timestamp="1562766985000" />
+    <file path="/var/www/newsbytes/sports/.idea/workspace.xml" timestamp="1562929925000" />
+  </project-files>
+</conversion>
+

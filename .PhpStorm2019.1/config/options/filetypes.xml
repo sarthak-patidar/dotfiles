@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_month" type="PLAIN_TEXT" />
+      <mapping pattern=".accesstoken.txt.swp" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

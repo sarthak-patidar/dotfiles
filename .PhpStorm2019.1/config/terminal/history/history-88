@@ -1,0 +1,1000 @@
+cd /var/www/vitaldocz/blog/
+ls
+exit
+cd Programming/gmail-automater/ap
+cd Programming/gmail-automater/api/
+git status
+git diff dev-and-release-protocol.md
+git diff .gitignore
+clear
+ls
+nano token.json 
+clear
+ls
+nano credentials.json 
+clear
+ls -l
+clea
+clear
+ls -l
+cd node_modules/
+l
+cd .../
+cd ../
+ls
+clear
+git status
+git log
+clear
+cd ../
+ls
+cd nlp-engine/
+ls
+clear
+git log
+git pull
+ls
+git checkout develop 
+ls
+clear
+ls
+sudo nano testing_api.py 
+ls -l
+sudo chmod 755 *
+ls
+nano my_model.py 
+clear
+ls
+clear
+ls
+sudo nano subject_spam.csv 
+ls -alF
+ls -ALF
+ls -AlF
+clear
+ls -al
+clear\
+clear
+cd ../../
+ls
+clear
+d
+cd
+clear
+vim
+sudo apt install vim
+clear
+vim
+clear
+vim
+clear
+ls
+clear
+sudo apt install libapache2-mod-wsgi
+sudo a2enmod wsgi 
+clear
+sudo service apache2 restart 
+clear
+cd /var/www/vitaldocz/
+cd blog/
+ls
+vim blog.wsgi
+ls
+vim blog.wsgi
+ls
+cd blog/
+cd ../
+nano blog
+nano blog.wsgi 
+cd /etc/apache2/sites-available/
+vi blog.vitaldocz.test.conf
+sudo vi blog.vitaldocz.test.conf
+clear
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo service apache2 restart 
+journalctl -xe
+ls
+sudo vi blog.vitaldocz.test.conf 
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo service apache2 start 
+sudo nano /etc/hosts
+clear
+sudo nano blog.vitaldocz.test.conf 
+sudo nano stats-updater.test.conf 
+exit
+sudo nano blog.vitaldocz.test.conf 
+clear
+ls
+clear
+sudo a2ensite blog.vitaldocz.test.conf 
+cd /var/log/apache2/
+ls
+cd /etc/apache2/sites-enabled/
+ls
+sudo nano blog.vitaldocz.test.conf 
+ls
+sudo nano blog.vitaldocz.test.conf 
+sudo service apache2 stop 
+sudo service apache2 start 
+ls
+cd /var/log/apache2/
+ls
+sudo nano blog.vitaldocz.test_error.log 
+sudo apt install build-essential python-dev
+sudo apt install build-essential python3-dev
+clear
+source ~/.bash_profile
+clear
+ls /var/www/vitaldocz/blog/venv/
+ls /var/www/vitaldocz/blog/venv/lib/
+ls
+sudo nano blog.vitaldocz.test_error.log 
+sudo a2enconf wsgi
+clear
+sudo nano blog.vitaldocz.test_error.log 
+clear
+sudo nano blog.vitaldocz.test_error.log 
+cd /etc/apache2/
+ls
+cd conf-
+cd conf-available/
+ls
+cd ../conf-enabled/
+ls
+cd ../mods-available/
+ls
+sudo nano wsgi.load 
+sudo service apache2 restart 
+journalctl -xe
+sudo nano wsgi.load 
+sudo service apache2 restart 
+journalctl -xe
+sudo nano wsgi.load 
+sudo service apache2 restart 
+clear
+cd /var/log/apache2/
+sudo nano blog.vitaldocz.test_
+sudo nano blog.vitaldocz.test_error.log 
+clear
+exit
+cd /var/www/vitaldocz/
+ls
+cd blog/
+ls
+clear
+ls
+vi blog
+vi blog.wsgi 
+sudo service apache2 restart 
+vi blog.wsgi 
+cd venv/bin/
+ls
+nano activate
+./activate
+clear
+cd ../../
+ls
+sudo nano blog
+sudo nano blog.wsgi 
+sudo apt remove libapache2-mod-wsgi 
+source venv/bin/activate
+clear
+pip install mod-wsgi
+sudo a2enmod wsgi 
+sudo service apache2 restart 
+journalctl -xe
+lear
+clear
+cd venv/lib/python3.6/site-packages/
+ls
+cd mod_wsgi
+ls
+cd server/
+;s
+ls
+cd ../../../../
+ls
+cd ../../
+ls
+sudo nano blog.wsgi 
+exit
+cd /var/www/vitaldocz/blog/blog/blog/
+ls
+clear
+sudo nano /var/log/apache2/blog.vitaldocz.test_error.log 
+sudo nano wsgi.py 
+fg
+sudo nano wsgi.py 
+kill -9 15955
+pgrep nano
+sudo nano wsgi.py 
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+sudo service apache2 restart 
+sudo nano /var/log/apache2/blog.vitaldocz.test_error.log 
+clear
+exit
+cd /var/www/vitaldocz/blog/
+ls
+cd blog/
+ls
+clear
+cd ../
+ls
+clear
+sudo nano mkdir static
+mkdir static
+ls
+sudo nano blog/blog/settings.py 
+python blog/blog/settings.py 
+ls
+rm static/
+ls
+rm -r static/
+ls
+cd blog/
+ls
+clear
+cd ~/Programming/VitalDocz/
+ls
+cd blog/
+ls
+cd src/
+ls
+clear
+cd /var/www/vitaldocz/blog/
+ls
+cd blog/
+ls
+clear
+mkdir static
+sudo nano blog/settings.py 
+clear
+python manage.py collectstatic
+source ../venv/bin/activate
+python manage.py collectstatic
+ls
+rm -r static/
+clear
+ls -l
+cd ../
+ls -l
+clear
+sudo chown www-data:www-data .
+ls -l
+cd ../
+ls -l
+python blog/blog/manage.py collectstatic
+clear
+cd blog/blog/
+ls
+sudo python manage.py collectstatic
+cd ../../
+ls
+ls -l
+sudo chown sarthak:sarthak blog/
+ll
+clear
+cd blog/
+sudo groupadd varwwwusers
+sudo addusers www-data varwwwusers
+sudo adduser www-data varwwwusers
+sudo chgrp -R varwwwusers /var/www/
+sudo chmod 760 -R /var/www/
+python blog/manage.py collectstatic
+clear
+members varwwwusers
+sudo apt install members
+members varwwwusers
+sudo adduser sarthak varwwwusers
+members varwwwusers
+clear
+ls -l
+clear
+python blog/manage.py collectstati
+python blog/manage.py collectstatic
+mkdir static
+cd blog/
+mkdir static
+ls
+cd ../
+ls
+cd blog/
+ls
+cd blog/
+ls
+clear
+cd ../
+ls
+clear
+python manage.py collectstatic
+sudo python manage.py collectstatic
+clear
+sudo su
+clear
+ls
+sudo apt autoremove
+clear
+ls
+cd static/
+ls
+cd  ../static/
+ls
+cd
+cd /var/www/vitaldocz/blog/
+ls
+cd blog/
+ls
+cd static/
+ls
+cd ../
+ls
+sudo nano blog/settings.py 
+clear
+cd ../
+ls
+cd blog/
+ls
+python manage.py collectstatic
+cd static/
+ls
+cd ../../
+ls
+rm -r static/
+;s
+ls
+clear
+ls
+rm blog
+rm blog.wsgi 
+ls
+clear
+la
+sls
+ls
+clear
+ls -l
+cd ../
+ls
+cd ../
+ls
+ls -l
+sudo nano 755 -R *
+sudo chmod 755 -R *
+ls -l
+clar
+clear
+ls -l
+exit
+cd /media/
+ls
+ls -a
+clear
+cd sr
+cd sarthak/
+cd ../../home/
+ls
+ls -l
+cd lost+found/
+sudo su
+clear
+ls
+cd sarthak/
+ls
+ls -a
+cd .mozilla/
+ls
+ls -a
+ls -l
+cd extensions/
+ls
+ls -a
+cd ../
+lsl -a
+clear
+ls
+cd firefox/
+s
+ls
+exit
+show-memory 
+clear
+exit
+ls
+ls -l
+sudo chmod 777 -R storage/
+ls
+clear
+ls -al
+clear
+ls
+cd public/
+ls
+ls al
+ls -al
+sudo chmod 777 -R accesstoken.txt 
+redis-cli
+clear
+git remote show origin
+clear
+cd ../../
+ls
+mv stats-updater/ stats-updater-jobs/
+ls
+mkdir stats-update
+ls
+mv stats-update/ stats-updater/
+ls
+cd stats-updater
+ls
+clear
+git pull https://github.com/sarthak-patidar/stats-updater.git
+git clone https://github.com/sarthak-patidar/stats-updater.git
+ls
+cd stats-updater/
+;s
+ls
+cd ../
+ls
+ls -a
+clear
+st
+cd stats-updater/
+ls
+ls -a
+clear
+mv * ../
+ls
+ls -a
+mv .* ../
+ls -a
+clear
+cd ../
+ls
+ls -a
+clear
+rm -r stats-updater/
+ls
+ls -a
+clear
+ls -l
+sudo chmod 777 -R storage/
+cd ../
+ls
+cd stats-updater-jobs/
+ls
+cp .env ../stats-updater/.env
+ls
+cd ../
+cd stats-updater
+ls
+ls -a
+clear
+sudo nano /var/log/apache2/newsbytes_error.log
+composer install
+clear
+sudo apt install wget php-cli php-zip unzip
+ls -a
+clear
+cd ../
+ls
+cd stats-updater-jobs/
+cp -r vendor/ ../stats-updater/vendor
+ls
+cd ../
+ls
+cd stats-updater
+ls
+cd bootstrap/
+cd ../vendor/
+ls
+ls -a
+clear
+cd ../
+l
+cd ../stats-updater-jobs/bootstrap/
+ls -l
+cd ../../stats-updater/
+ls
+ls -l
+clear
+cd bootstrap/
+ls
+ls -l
+sudo chmod 755 app.php 
+ls -l
+clear
+sudo chmod 777 -R cache/
+ls
+cd ..
+ls
+clear
+ls
+touch accesstoken.txt
+ls
+clear
+sudo chmod 777 accesstoken.txt 
+cd public/
+ls
+ls -a
+ls -l
+clear
+touch accesstoken.txt && sudo chmod 777 accesstoken.txt
+ks
+ls
+clear
+sudo apt install wget php-cli php-zip unzip
+clear
+cd
+mkdir cookies
+cd cookies/
+mkdir fb
+vi fb_cookies.json
+ls
+mv fb_cookies.json fb/
+ls
+cd fb/
+ls
+cd ../../
+ls
+sudo chmod 600 cookies/
+ls
+cd cookies/
+ls
+cd /var/www/newsbytes/stats-updater
+ls
+clear
+ls
+vi composer.json 
+ls
+clear
+sudo nano .styleci.yml 
+clear
+git status
+clear
+git diff
+exit
+cd /etc/apache2/sites-enabled/
+ls
+sudo nano blog.vitaldocz.test.conf 
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo service apache2 restart 
+sudo apt update
+apt list --upgradable
+sudo apt upgrade
+clear
+cd ~/
+ls
+cd sftwrs_src_bld/
+ls
+mkdir composer
+ls
+cd composer/
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ls
+php -r "if (hash_file('sha384', 'composer-setup.php') === '48e3236262b34d30969dca3c37281b3b4bbe3221bda826ac6a9a62d6444cdb0dcd0615698a5cbe587c3f0fe57a54d8f5') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php 
+ls
+sudo apt install zlibc
+clear
+php composer-setup.php 
+ls
+clear
+sudo nano composer-setup.php 
+clear
+php composer-setup.php 
+clear
+ls
+rm composer-temp.phar 
+ls
+clear
+php composer-setup.php -vvv
+ls
+php composer.phar 
+clear
+composer
+clear
+sudo apt install composer
+composer
+clear
+ls
+clear
+cd ../
+rm -r composer/
+ls
+clear
+cd /var/www/newsbytes/stats-updater
+ls
+composer
+clear
+composer install
+clear
+composer dumpa-autoload
+composer dump-autoload
+clear
+redis-cli 
+clear
+ls
+clear
+sudo
+clear
+sudo apt install --fix-missing
+sudo apt upgrade --fix-missing
+clear
+ls
+clear
+exit
+show-memory 
+clear
+exit
+cd /etc/apache2/sites-available/
+ls
+sudo nano home.public
+ls
+cp live-scorecard.generator.conf sarthak-home.public.conf
+sudo cp live-scorecard.generator.conf sarthak-home.public.conf
+ls
+clear
+sudo nano sarthak-home.public.conf 
+sudo nano /etc/hosts
+sudo a2ensite sarthak-home.public.conf 
+sudo service apache2 restart 
+sudo nano /etc/hosts
+sudo mv sarthak-home.public.conf sarthak-home.com.conf 
+clear
+sudo ls
+sudo nano sarthak-home.com.conf 
+clear
+sudo a2dissite sarthak-home.public.conf 
+sudo a2ensite sarthak-home.com.conf 
+sudo service apache2 restart 
+cd 
+ls -l
+clear
+cd /home/
+ls
+cd sarthak/
+ls
+ls -l
+cd ../
+ls
+ls -l
+ls -l /var/www/newsbytes/
+ls -l
+sudo chmod 775 -R sarthak/
+ls -l
+clear
+sudo chmod 755 -R sarthak/
+clear
+sudo nano /etc/hosts
+ls
+clear
+sudo nano /etc/apache2/sites-enabled/sarthak-home.com.conf 
+clear
+ls
+cd
+ls
+ls -l
+clear
+sudo nano /etc/hosts
+sudo a2dissite sarthak-home.com.conf 
+clear
+sudo service apache2 restart 
+sudo rm /etc/apache2/sites-available/sarthak-home.com.conf 
+ks
+ls
+clear
+cd ../stats-updater
+ls
+sudo nano composer.json 
+clear
+exit
+i[
+ip
+ip addr show
+clear
+ls
+cd ../stats-updater
+ls
+clear
+sudo nano .env
+clear
+php artisan cache:clear
+composer dump-autoload
+clear
+ls
+mv vendor/ vendor_back
+clear
+ls
+clear
+composer install
+clear
+rm -r vendor/
+clear
+sudo rm -r vendor
+ls
+sudo mv vendor_back/ vendor/
+ls
+clear
+composer dump-autoload
+sudo chmod 777 -R storage/
+composer dump-autoload
+ls
+cd vendor/
+ls
+cd ../
+ls
+celar
+clear
+cd vendor/
+ls
+cd l
+cd laravel/
+ls
+clear
+cd ../../
+ls
+composer dump-autoload
+sudo nano composer.json 
+ls
+clear
+ls
+sudo nano .env
+clear
+ls
+clear
+cd vendor/nesbot/
+ls
+cd carbon/
+ls
+ls -a
+cd ../
+ls
+ls -a
+clear
+cd ../
+sudo rm -r nesbot/
+cd ../
+clear
+composer install
+clear
+ls
+cd vendor/nesbot/
+ls
+cd carbon/
+ls
+cd src/
+ls
+clear
+cd Carbon/
+ls
+cd ../../../../
+cd ../
+ls
+clear
+usod
+clear
+sudo nano sudo
+clear
+rm -r sudo 
+ls
+clear
+ls
+clear
+cd ../live-scorecard/
+ls
+sudo chmod 777 -R storage/
+cd public/
+ls
+ls -l
+clear
+sudo chmod 775 accesstoken.txt 
+sudo chmod 757 accesstoken.txt 
+cd ../../
+cd sports/
+ls
+clear
+cd ../stats-updater
+ls
+clear
+cd public/
+ls
+ls -l
+clear
+cd ../
+ls
+clear
+cd bootstrap/
+ls
+cd .../
+ls
+cd ../
+clear
+ls -l
+clear
+sudo nano server.php e
+sudo nano server.php
+clear
+vi .env
+clear
+ls -l
+clear
+ls -l
+clear
+ls -la
+lce
+show-memory
+clear
+ls
+cd app/
+ls
+cd Services/
+ls
+clear
+sudo nano ApiHandlerService.php 
+nano ApiHandlerService.php 
+clear
+nano ApiHandlerService.php 
+clear
+cd ../
+ls
+cd Exceptions/
+ls
+nano Handler.php 
+clear
+ls -al
+clear
+cd ../../
+ls
+cd config/
+ls
+sudo nano database.php 
+clear
+cd ../../sports/config/
+sudo nano database.php 
+clear
+cd ../../stats-updater
+ls
+clear
+grep env
+clear
+grep env
+clear
+ls
+cd bootstrap/
+ls
+nano app.php 
+clear
+cd cache/
+ls
+nano packages.php 
+nano services.php 
+clear
+ls -al
+clear
+cd ../../
+ls
+clear
+members sarthak
+members *
+members --all
+members --all sarthak
+members --all root
+clear
+ls
+cd vendor
+ls
+ls ../vendor_back/
+clear
+cd .ls
+ls
+clear
+ls -l
+clear
+sudo nano install
+clear
+cd ../
+ls
+show-memory 
+ls
+clear
+watch -n 5 free -m
+clear
+wath -n 5 free -m
+watch -n 5 free -m
+watch free -m
+clear
+watch
+watch -cd 
+watch -c -d
+watch -c -d free -n
+watch -c -d free
+clear
+watch -cdn free -m
+clear
+cd vendor
+ls
+clear
+curl https://stats-updater.test
+curl http://stats-updater.test
+wget http://stats-updater.test
+clear
+curl
+curl --help
+curl --post http://stats-updater.dev
+curl --post301 http://stats-updater.dev
+clear
+curl --post301 http://stats-updater.test
+curl --post301 --post302 --post303 http://stats-updater.test
+ls
+clear
+ls -a
+ls -l
+cleaar
+clear
+cd ../
+ls
+clear
+KEYS *
+redis-cli
+php artisan tinker
+clear
+php artisan ticker
+clear
+ls -l
+sudo chown www-data:www-data storage/
+;s
+ls
+clear
+ls
+ls -l
+clear
+ls
+cd storage/
+ls
+cd logs/
+la
+ls
+sudo nano laravel-2019-06-19.log 
+clear
+cd ../../
+clear
+php artisan cache:clear
+clear
+cd storage/logs/
+ls
+sudo rm -r *
+ls
+clear
+cd ../../
+ls
+clear
+cd storage/logs/
+ls
+ls -a
+clear
+cd ../
+ls
+cd framework/
+;s
+ls
+cd ../../
+ls
+clear
+sudo nano /var/log/apache2/newsbytes_
+sudo nano /var/log/apache2/newsbytes_error.log
+sudo nano /var/log/apache2/newsbytes_access.log
+clear
+ls
+clear
+php artisan serve
+clear
+cd ../sports/
+ls
+sudo nano .env
+clear
+ls
+ls -l
+clear
+sudo chmod 777 -R storage/
+php artisan cache:clear
+clear

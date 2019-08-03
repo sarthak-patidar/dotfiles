@@ -1,0 +1,1000 @@
+clear
+show-memory 
+celar
+clear
+sudo su this shit
+clear
+sudo apt update
+sudo apt upgrade
+clear
+exit
+ssh ecellnewdev@dev.ecell-iitkgp.org
+clear
+exit
+show-memory 
+clear
+crontab -e 
+clear
+sudo service cron restart
+clear
+exit
+clear
+php artisan queue:listen
+clear
+php artisan view:clear
+php artisan
+php artisan clear-compiled
+composer dump-autoload
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan
+php artisan -V
+clear
+php artisan
+php artisan view:clear
+php artisan clear-compiled
+composer dump-autoload
+clear
+redis-cli
+clear
+exit
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+lear
+clear
+php artisan tinker
+clear
+php artisan tinker
+ckear
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+exit
+ls
+clear
+ls
+clear
+git status
+clear
+exit
+redis-cli 
+clear
+ls
+clear
+cd app/Http/Controllers/
+ls
+clear
+ls
+clear
+ls ../../../../
+sudo rm -r ../../../../sports_new/
+clear
+rm -r ScheduleController.php FullScoreCardController.php 
+clear
+cd ../../../../
+clear
+cd sports
+clear
+git status -uno
+git diff app/Services/
+clear
+grep -r "ApiHand" app/Http/Controllers/
+grep -r "CacheSe" app/Http/Controllers/
+grep -r "apiService" app/Http/Controllers/
+grep -r "cacheService" app/Http/Controllers/
+clear
+grep -r "dbService" app/Http/Controllers/
+grep -r "responseService" app/Http/Controllers/
+clear
+grep -r "cacheService" app/Http/Controllers/
+clear
+grep -r "cacheService" app/Http/Controllers/
+clear
+grep -r "cacheService" app/Http/Controllers/
+clear
+grep -r "dbService" app/Http/Controllers/
+clear
+git status -uno
+grep -r "Job" app/
+grep -r "Job" app/Http/Controllers/
+grep -r "Jobs\Sports" app/Http/Controllers/
+grep -r "Jobs*Sports" app/Http/Controllers/
+clear
+grep -r "Jobs" app/Http/Controllers/
+grep -r "Jobs" app/Console/
+grep -r "Jobs" app/Jobs/Sports/
+clear
+git push origin stats-automater
+clear
+exit
+git status -uno
+redis-cli 
+clear
+php artisan schedule:run
+sudo service cron restart
+clear
+sudo service cron restart
+git status -uno
+clear
+grep -r "Controller" app/Jobs/Sports/
+clear
+php artisan tinker
+clear
+git status -uno
+grep -r "Jobs" app/
+clear
+php artisan tinker
+clear
+redis-cli 
+clear
+git status
+git status -uno
+clear
+grep -r "Jobs" app/
+show-memory 
+clear
+show-memory 
+clear
+git branch -a
+git status -uno
+clear
+git status -uno
+git diff app/Services/DBHandlerService.php
+cler
+clear
+git status
+clear
+git status
+git status -uno
+git add app/Http/Controllers/
+git status -uno
+clear
+git add app/Jobs/Sports/
+git status -uno
+git add app/Services/
+git status 
+git commit
+cd app/
+ls -l Jobs/Sports/
+ls -l Http/Controllers/
+clear
+cd ../
+clear
+git status -uno
+clear
+grep -r "Jobs" app/Http/Controllers/
+grep -r "Jobs" app/
+clear
+grep -r "Jobs" app/Http/
+grep -r "Sports" app/Http/
+clear
+grep -r "Sport" app/Http/
+clear
+grep -r "Sports" app/Http/
+grep -r "Sports" app/Jobs/
+git status -uno
+cd ../sports_bkp/
+ls
+mkdir bkp_1
+mv * bkp_1/
+clear
+ls
+ls -a
+clear
+mv .* bkp_1/
+clear
+ls
+ls -a
+clear
+cd bkp_1/
+ls
+ls -a
+clear
+cd ../
+mkdir bkp_2
+clear
+ls
+cp ../sports/* bkp_2/
+cp -r ../sports/* bkp_2/
+cd bkp_2/
+;s
+ls
+cclear
+clear
+ls -a
+clear
+sudo cp -r ../../sports/.* ./
+clear
+ls -a
+clear
+cd ../../sports
+clear
+ls
+clear
+git status -uno
+git status
+git add app/Console/
+git add app/Jobs/
+clear
+git status -uno
+git status
+php artisan clear-compiled
+clear
+composer dump-autoload
+git status -uno
+git add app/Http/ app/Services/
+clear
+git status
+clear
+git status -uno
+git push origin stats-automater
+clear
+git status -uno
+git add app/Jobs/
+clear
+git status
+git commit
+clear
+git push origin stats-automater
+clear
+git status
+clear
+exit
+clear
+apt update
+c.ear
+cclear
+clear
+exit
+git log 
+clear
+git statu s-uno
+git status -uno
+git status -u
+clear
+git status 
+grep -r "config('services" app/
+clear
+git status
+git add config/api.php 
+git add app/Services/ApiHandlerService.php 
+clear
+git status -uno
+git add .env.example 
+clear
+git status -uno
+git diff app/Jobs/Sports/Job.php
+clear
+git add app/Jobs/Sports/Job.php 
+clear
+git status
+git commit
+clear
+git log -2
+clear
+git status
+clear
+git status -uno
+clear
+git diff app/Jobs/Sports/UpdateMatchScoreCard.php
+git diff app/Jobs/Sports/UpdateSportsSchedule.php
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan clear-compiled
+clear
+composer dump-autoload
+clear
+php artisan queue:listen
+clear
+php artisan clear-compiled
+clear
+composer dump-autoload
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan clear-compiled
+composer dumpa-autoload
+composer dump-autoload
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+cd app/Jobs/Sports/
+ls -a
+clear
+mv * ../
+ls
+clear
+cd ../
+ls
+rm -r Sports/
+clear
+mkdir Sports
+clear
+ls
+mv *.php Sports/
+ls
+clear
+cd Sports/
+ls
+clear
+cp * ../
+clear
+cd ../../../
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+git status -uno
+clear
+php artisan queue:work
+clear
+hp artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+sudo rm storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-1
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+grep -r "Notif" app/
+clear
+php artisan clear-compiled
+composer dump-autoload
+tail -f storage/logs/laravel-2019-07-11.log 
+clear
+tail -f storage/logs/laravel-2019-07-11.log 
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+git status
+git stash list
+git stash
+clear
+git stash pop
+clear
+git status -uno
+clear
+git status
+clear
+git status
+clear
+git status
+git status -uno
+clear
+git status
+git diff app/Jobs/Job.php
+clear
+sudo su sarthak
+clear
+apt update
+clear
+sudo apt update
+clear
+apt list --upgradable
+apt upgrade
+sudo apt upgrade
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+grep -r "Log::error" app/
+clear
+grep -r "Log::error" app/
+clear
+sudo chmod 777 -R storage/
+clear
+git status -uno
+git status 
+clear
+git status -uno
+git add .env.example app/Jobs/ config/app.php 
+clear
+git status 
+clear
+git commit
+clear
+git status
+clear
+sudo service cron restart
+crontab -e
+clear
+sudo service cron stop
+sudo service cron start
+clear
+git status
+git status app/
+git diff app/Jobs/Job.php
+clear
+git status
+php artisan tinker
+clear
+git status
+git add app/Services/
+git add app/Jobs/
+git status
+git commit
+clear
+git push origin stats-automater
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+sudo chmod 777 -R storage/logs/laravel-2019-07-12.log 
+clear
+php artisan queue:listen
+clear
+cd ../CricketPlayerDataScrapper/
+ls
+clear
+ls
+cd scraper/scraper/
+vi spiders/statsupdaterbot.py 
+cd ../CricketPlayerDataScrapper/
+activate-env 
+clear
+exit
+clear
+exit
+clear
+cd ../
+cd sports
+lc
+clear
+ls
+clear
+exit
+cd ../sports
+clear
+exit
+exit
+exit
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan tinker
+clear
+git status
+clear
+git add app/Jobs/UpdateMatchScoreCard.php 
+git status -uno
+git commit 
+clear
+git status -uno
+clear
+git status
+git add app/Jobs/UpdateMatchScoreCard.php 
+clear
+git status -uno
+clear
+git commit
+clear
+scrapy crawl statsupdaterbot
+cler
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl statsupdaterbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+scrapy crawl statsupdaterbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+scrapy crawl statsupdaterbot
+clear
+deactivate
+clear
+cd ../../
+clear
+redis-cli 
+clear
+git status -uno
+clear
+git status -uno
+cd /media/
+ls
+cd sarthak/
+ls
+cd UBUNTU\ 16_0/
+ls
+cd /var/www/newsbytes/sports
+clear
+ls
+clear
+git status -uno
+clear
+git status -uno
+clear
+git status -uno
+clear
+git status -uno
+git status app/ -uno
+git status app/ config/ -uno
+git status -uno
+clear
+git status -uno
+clear
+git status app/
+clear
+git status -uno
+clear
+php artisan tinker
+clear
+git status -uno
+git commit
+clear
+git status -uno
+clear
+suits season 8
+clear
+karen download suits season 8
+clear
+karen download suits --season=8
+clear
+git status -uno
+clear
+sudo su roots
+clear
+git status -uno
+clear
+git status -uno
+clear
+cclear
+clear
+git status -uno
+clear
+php artisan tinker
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+git status -uno
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan clear-compiled
+composer dump-autoload
+clear
+php artisan queue:listen
+clear
+git status -uno
+git add .env.example app/Jobs/Job.php app/Services/ config/
+git status -uno
+clear
+git commit
+git push origin stats-automater
+clear
+git add app/Services/NotificationService.php 
+CLEAR
+clear
+git add app/Services/NotificationService.php 
+git add .env.example config/app.php 
+git status -uno
+clear
+git commit --amend --no-edit
+php artisan tinker
+clear
+git add app/Services/NotificationService.php 
+git commit --amend --no-edit
+git push -f origin stats-automater
+clear
+git status
+clear
+cd ~/Downloads/
+ls
+clear
+ls player*
+rm player_stats.sql 
+mv player_stats\ \(2\).sql player_stats.sql
+clear
+ls
+clear
+cd /var/www/newsbytes/sports
+clear
+git status
+c;ear
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+tail -f storage/logs/laravel-2019-07-12.log 
+clear
+grep -r "App\Jobs\Sports" ./
+grep -r "LiveScoreCardBuild" app/
+clear
+php artisan
+grep -r "LiveScoreCard" app/
+grep -r "LiveScoreCard" ./
+clear
+php artisan tinker
+clear
+git status -uno
+clear
+git add .env.example config/queue.php app/Jobs/
+clear
+git status =uno
+clear
+git status -uno
+clear
+git stash 
+git status -uno
+git checkout master
+git checkout job-switch
+git branch job-switch
+git branch -a
+git checkout job-switch 
+clear
+git stasah list
+git stash list
+git stash pop
+clear
+git stash list
+git stash pop
+git stash list
+git checkout job-switch 
+clear
+git branch -a
+clear
+git stash list
+git stash pop
+git checkout master
+clear
+git status
+clear
+git checkout master
+clear
+git stash list
+clear
+git checkout stats-automater 
+clear
+git branch -a
+clear
+cd ../
+ls
+cd sports_bkp/
+ls
+mkdir latest
+cd latest/
+clear
+mkdir
+clear
+kls
+clear
+ls
+clear
+git clone https://__sarthak__@bitbucket.org/newsbytesapp/sports.git
+clear
+git clone https://__sarthak__@bitbucket.org/newsbytesapp/sports.git .
+clear
+ls
+nano .env.example 
+clear
+cd config/
+vi queue.php 
+clear
+cd ../app/Jobs/
+vi Job.php 
+clear
+vi LiveScoreCardBuild.php 
+clear
+git status
+clear
+ls
+vi UpdateSportsSchedule.php 
+clear
+vi UpdateMatchScoreCard.php 
+clear
+git status
+cd ../../
+clear
+git status
+clear
+git add *
+clear
+git status
+clear
+git reset HEAD app/Jobs/* config/queue.php
+git status
+clear
+git branch -a
+clear
+git branch job-dispatch-switch
+git checkout job-dispatch-switch 
+clear
+git status
+clear
+git add *
+clear
+git status
+clear
+git add .env.example 
+clear
+git commit
+clear
+git status
+clear
+git checkout master 
+git status
+clear
+git branch -a
+clear
+git status 
+clear
+git checkout job-dispatch-switch 
+git status
+clear
+vi app/Jobs/LiveScoreCardBuild.php 
+clear
+git add app/Jobs/LiveScoreCardBuild.php
+git status 
+clear
+git commit --amend --no-edit 
+clear
+git status
+clear
+git push origin job-dispatch-switch
+clear
+cd ../spo
+cd ../../sports
+clear
+ls
+clear
+git status
+clear
+git stash list
+clear
+git branch -a
+clear
+git checkout stats-automater 
+git checkout master
+clear
+git branch -a
+clear
+cd .git/
+ls
+cd branches/
+ls
+cd ../
+clear
+ls
+cd info/
+ls
+cd ../
+clear
+vi index 
+ls
+cd ../
+clear
+git checkout stats-automater 
+git pull
+clear
+ls
+clear
+sudo rm -r app/ config/ .git/
+clear
+ls
+cd ../sports_bkp/latest/
+ls
+clear
+ls
+cp -r app/ ../../sports
+cp -r config/ ../../sports
+sudo cp -r .git/ ../../.git
+ls
+clear
+cd ../../sports
+ls
+clear
+git status
+ls -la
+cd ../
+clear
+ls -la
+sudo mv .git/ sports/
+ls -la
+clear
+cd sports
+ls
+clear
+git status
+clear
+git branch -a
+clear
+ls
+clear
+git log
+clear
+git status
+clear
+git status -uno
+git add app/Jobs/UpdateMatchScoreCard.php 
+sudo chmod 777 -R .git/
+clear
+git add app/Jobs/UpdateMatchScoreCard.php 
+git commit
+git push origin job-dispatch-switch 
+clear
+git status -uno
+clear
+git add app/Console/ app/Jobs/
+clear
+git status -uno
+clear
+git commit --amend --no-edit
+git push -f origin job-dispatch-switch 
+clear
+redis-cli 

@@ -1,0 +1,143 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="/var/www/newsbytes/sports" />
+        <option value="/var/www/newsbytes/translator" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/var/www/newsbytes/sports" />
+      </list>
+    </option>
+    <option name="lastPath" value="/var/www/newsbytes/sports" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Programming/StatsUpdater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-181.5281.35" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558693807491" />
+              <option name="buildTimestamp" value="1529009210354" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/busigence">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-181.5281.35" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556272711972" />
+              <option name="buildTimestamp" value="1529009217810" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/laravel-modular-boilerplate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558768300801" />
+              <option name="buildTimestamp" value="1557314794462" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/statsUpdater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-181.5281.35" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558699710615" />
+              <option name="buildTimestamp" value="1529009205031" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/stats-updater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560838284857" />
+              <option name="buildTimestamp" value="1557314760931" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/stats-updater-copy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1559141025799" />
+              <option name="buildTimestamp" value="1557314817751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/sports">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562932303501" />
+              <option name="buildTimestamp" value="1557314798678" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/stats-update-automater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560597322470" />
+              <option name="buildTimestamp" value="1557314779450" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/stats-updater">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561701856466" />
+              <option name="buildTimestamp" value="1557314788422" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/stats-updater-jobs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561643453308" />
+              <option name="buildTimestamp" value="1557314765068" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/translator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-191.7141.52" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561355110879" />
+              <option name="buildTimestamp" value="1557314809853" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Programming" />
+  </component>
+</application>

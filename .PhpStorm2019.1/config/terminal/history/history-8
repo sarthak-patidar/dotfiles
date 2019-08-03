@@ -1,0 +1,1000 @@
+ll ../
+clear
+cd ../../../
+cd ../../
+cd public/
+sudo rm -r accesstoken.txt 
+clear
+ls
+ll
+sudo chmod 755 accesstoken.txt 
+udo chmod 777 accesstoken.txt 
+clear
+ls -l
+sudo chmod 777 accesstoken.txt 
+ll
+clear
+composer module:update ApiHandler
+php ../artisan module:update ApiHandler
+cd ..
+clear
+php artisan serve
+clear
+php artisan serve
+clear
+composer dump-autoload
+clear
+composer require --dev "xethron/migrations-generator"
+composer dump-autoload
+ckear
+clear
+php artisan
+clear
+php artisan migrate:generate
+clear
+composer dump-autoload
+clear
+composer dump-autoload
+composer require krlove/eloquent-model-generator --dev
+clear
+composer dump-autoload
+php artisan krlove:generate:model Players
+clear
+php artisan krlove:generate:model Players
+clear
+php artisan krlove:generate:model Players --table-name=players
+php artisan krlove:generate:model PlayerStats --table-name=player_stats
+clear
+cd resources/views/
+cp test.blade.php update_match_stats.blade.php
+clear
+cd ../../
+clear
+sudo chmod 777 -R public/uploads/
+clear
+sudo chmod 755 public/new_files/
+clear
+sudo chmod a+rwx public/uploads/
+ll
+clear
+ll public/uploads/
+sudo chmod a+rwx public/uploads/
+ll public/uploads/
+clear
+sudo chmod 777 -R public/uploads/
+clear
+cd Programming/CricketPlayerDataScrapper/
+cd scraper/scraper/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+source ../../venv/bin/activate
+scrapy crawl cricketbot
+rm -r __pycache__/ spiders/__pycache__/
+nano spiders/cricketbot.py 
+ls
+cd ../
+ls
+cd crawlData/
+nano countries.py 
+nano players.json 
+cd ../scraper/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+celar
+clear
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+cd ../crawlData/
+ls
+cd i
+cd india/
+ls
+cd players/
+ls
+cd ../
+ls
+nano crawled_list.json 
+clear
+cd ../../scraper/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+memory
+lmemory
+clear
+ls -a
+clear
+ls
+ll
+clear
+exit
+git status
+cd api/
+clear
+git status
+git loh
+git log
+lear
+clear
+npm init
+clear
+npm install googleapis@39 --save
+clear
+node
+clear
+cd
+cd Downloads/
+ls
+mv credentials.json ~/Programming/gmail-automater/api/
+clear
+cd ~/Programming/gmail-automater/api/
+clear
+node index.js 
+clear
+node index.js 
+clear
+cd Programming/CricketPlayerDataScrapper/
+ls
+celar
+clear
+cd scraper/scraper/
+nano spiders/cricketbot.py 
+CLEAR
+clear
+source ../../venv/bin/activate
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+nano spiders/cricketbot.py 
+clear
+nano spiders/cricketbot.py 
+clear
+cd ../crawlData/
+ls
+nano players.json 
+nano countries.py 
+clear
+cd ../scraper/
+scrapy crawl cricketbot
+clear
+nano spiders/cricketbot.py 
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+nano spiders/cricketbot.py 
+clear
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+rm -r __pycache__/ spiders/__pycache__/
+clear
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+exit
+cd Programming/CricketPlayerDataScrapper/
+ls
+cd scraper/crawlData/
+nano players.json 
+clear
+exit
+cd Programming/CricketPlayerDataScrapper/scraper/scraper/
+source ../../venv/bin/activate
+clear
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+rm -r __pycache__/ spiders/__pycache__/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+nano spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+exit
+sudo chmod 777 -R public/uploads/*
+clear
+cd public/
+ll
+sudo chmod 777 new_files/
+clear
+sudo rm new_files/*
+clear
+rm new_files/*
+clear
+sudo rm new_files/*
+clear
+cd ../../
+ls
+cd ../
+ls
+clear
+cp stats-updater/ stats-updater-cpoy/
+ls
+clear
+cp -r stats-updater/ stats-updater-copy/
+cd stats-updater-copy/
+ls
+clear
+git init
+git add *
+cd ../stats-updater
+git inii
+git init
+clear
+git add *
+git status
+git commit
+git remote add origin https://bitbucket.org/newsbytesapp/cms-sports.git
+git push -u origin master
+git commit --ammend
+git commit --amend
+ls
+cd src/
+ls
+clear
+git remote remove origin
+cd ../../stats-updater-copy/
+git status
+clear
+rm -r .git/
+sudo rm -r .git/
+git status
+clear
+cp -r src/ src-copy/
+cd src
+git status
+clear
+ls
+clear
+git init
+git add *
+git status
+clear
+ls
+clear
+git add .env.example
+git status
+clear
+git commit
+git remote add origin https://bitbucket.org/newsbytesapp/cms-sports.git
+git log -2
+git push -u origin master
+git push -u origin master -f
+git log -2
+clear
+ls
+cd ../src-copy/
+ls
+clear
+git status
+clear
+cd ../src
+clear
+ls
+git status
+git log
+git status
+clear
+ls
+clear
+cd ../../
+ls
+clear
+cd stats-updater
+clear
+ls
+cd src/
+ls
+php artisan serve
+clear
+sudo nano /etc/hosts
+clear
+git status
+clear
+cd ../
+git status
+clear
+sudo rm -r .git/
+git status
+clear
+cd src/
+ls
+clear
+nano gulpfile.js 
+clear
+ls
+php artisan
+php artisan make:migrations --help
+php artisan make:migration --help
+php artisan make:migration 
+clear
+php artisan make:migration create_mapping_table
+php artisan make:migration --help
+php artisan make:migration create_mapping_table --path=modules/DbHandler/Database/models
+php artisan make:migration create_mapping_table --path=./modules/DbHandler/Database/models
+clear
+php artisan make:migration --help
+php artisan make:migration create_mapping_table --table=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+composer dump-autoload
+clear
+php artisan make:migration create_mapping_table --table=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+php artisan make:migration create_mapping_table --create=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+php artisan make:migration create_api_mapping_table --create=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+clear
+composer dump-autoload
+clear
+php artisan make:migration create_api_mapping_table --create=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+php artisan migrate
+php artisan make:migration create_mapping_table --create=./modules/DbHandler/Database/models/PlayerApiMapModel.php
+composer dump-autoload
+clear
+php artisan migrate
+clear
+cd public/uploads/
+ls
+clear
+sudo rm *
+ls
+clear
+cd ../new_files/
+ls
+clear
+ls
+sudo rm England-*
+ls
+sudo rm Roya*
+ls
+clear
+sudo rm Sout*
+ls
+clear
+sudo rm Sun*
+ls
+clear
+cd ../uploads/
+sudo rm *
+clear
+ls
+sudo rm *
+clear
+ls
+clear
+cd ../..
+cd ../../
+cd stats-updater-copy/src
+nano app/Http/Controllers/CoreController.php 
+clear
+ls
+clear
+cd /etc/apache2/sites-enabled/
+ls
+nano laravel.conf 
+fg
+sudo nano laravel.conf 
+clear
+sudo service apache2 restart
+cd ~/Downloads/
+ls | more
+ls newsbytes_sports*
+mv newsbytes_sports\ \(1\).sql newsbytes_sports_1.sql
+mysql -u root -p
+clear
+nano /etc/hosts
+clear
+sudo nano /etc/hosts
+clear
+exit
+ls
+clear
+git status
+clear
+cd src-copy/
+ls
+clear
+git log
+clear
+cd ../src
+ls
+clea
+clear
+git log
+clear
+ls -a
+clear
+sudo cp -r .git ../src-copy/.git 
+sudo rm -r .
+sudo rm -r *
+ls
+ls -a
+clear
+sudo cp -r ../../stats-updater/src/ ./
+ls
+sudo mv src/* . 
+ls
+cd src/
+ls
+ls -a
+cd ../
+rm -r src/
+lear
+clear
+sudo rm -r src/
+ls -a
+clear
+sudo chmod 777 -R ./
+clear
+git log
+clear
+git status
+git statu
+git status
+clear
+git status
+clear
+git add .
+git commit
+git remote
+git remote origin HEAD
+git remote HEAD
+clear
+git remote show origin
+clear
+git push orgin master
+git push origin master
+git log
+clear
+cd ../src-copy/
+git
+clear
+git log
+clear
+sudo rm -r .git/
+git
+clear
+git status
+clear
+cd ../
+cd src
+clear
+ls
+clear
+cd /etc/hosts
+nano /etc/hosts
+sudo nano /etc/hosts
+clear
+cd /etc/apache2/
+cd sites-available/
+ls
+sudo nano 000-default.conf
+sudo a2ensite 000-default.conf
+sudo service apache2 restart
+lcear
+clear
+sudo nano /etc/hosts
+clear
+git diff
+cd
+cd /var/www/html/stats-updater-copy/src
+git diff
+clear
+git status
+git diff
+git status
+clear
+git status
+clear
+git add .
+git commit
+git status 
+git push origin master 
+clear
+sudo nano /etc/host
+sudo nano /etc/hosts
+sudo service apache2 restart
+sudo nano /etc/hosts
+clear
+sudo service apache2 restart
+sudo nano /etc/hosts
+clear
+sudo nano /etc/hosts
+clear
+git log
+gti diff
+git diff
+clear
+l
+ll
+clear
+sudo nano gulpfile.js 
+clear
+git status
+git diff
+clear
+git stash
+git status
+clear
+git checkout -b live-scorecard
+git status
+clear
+git stash pop
+git status
+clear
+git checkout master
+clear
+git status
+git checkout live-scorecard 
+clear
+git status
+git stash list
+clear
+git stash
+git stash list
+clear
+git stash list
+git stash pop
+clear
+git checkout master
+clear
+git status
+clear
+git log
+git checkout 3322
+git status
+clear
+git status
+git checkout .env.example
+git status
+git checkout app/Http/routes.php
+git checkout app/Http/Controllers/CoreController.php
+clear
+git status
+clear
+git checkout resources/views/download_processed_files.blade.php
+git checkout resources/views/index.blade.php
+git checkout resources/views/match_response.blade.php
+git status
+git checkout resources/views/match_response.blade.php
+git status
+git checkout modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php
+git status
+clear
+git log
+clear
+git checkout live-scorecard 
+clear
+git status
+clear
+git src
+git describe
+clear
+git describe --help
+git describe 3322
+git log
+clear
+git status
+clear
+git log
+clear
+git status
+clear
+git checkout master
+cler
+clear
+git status
+clear
+git branch -d live-scorecard 
+git branch -a
+clear
+git checkout -b live-scorecard
+git statjus
+git status
+clear
+git status
+clear
+git checkout master 
+git status
+git diff master live-scorecard 
+clear
+git diff
+clear
+git diff
+echo public/accesstoken.txt >> .gitignore 
+git diff public/accesstoken.txt
+clear
+git diff public/accesstoken.txt
+clear
+git status
+clear
+git diff
+clear
+git diff public/accesstoken.txt
+clear
+echo .gitignore 
+echo ./.gitignore 
+clear
+git status
+clear
+git status
+clear
+git diff .gitignore
+clear
+git status
+git diff
+clear
+git log
+git HEAD
+clear
+cd .git/
+ls
+nano HEAD 
+cd refs/heads/
+ls
+nano master 
+nano live-scorecard 
+clear
+git diff live-scorecard origin/master
+ls
+clear
+cd
+cd /var/www/html/stats-updater-copy/src/
+git diff live-scorecard origin/master 
+clear
+git diff master origin/master 
+git diff master live-scorecard 
+clear
+git diff .env
+git diff .env.example
+clear
+git
+git help -a
+git commit-tree
+git commit-tree --help
+git check-ignore
+git check-ignore ./
+git check-ignore .gitignore
+clear
+git status --ignored
+git check-ignore *
+git check-ignore -V *
+git check-ignore -v *
+clear
+git ref
+clear
+git greo
+git grep
+git grep access
+.gitignore
+clear
+./.gitignore 
+clear
+git ls-files -i
+git ls-files -i acc
+git ls-files -i help
+git ls-files -i --help
+clear
+git diff app/Http/Controllers/CoreController.php
+jarvis
+clear
+friday
+karen
+clear
+gunjan
+clear
+karen
+clear
+redis
+clear
+sudo apt update
+sudo apt upgrade
+sudo apt install redis-server
+clear
+composer require predis/predis
+clear
+sudo rm storage/framework/views/*
+clear
+php artisan serve
+clear
+composer dump-autoload
+clear
+git status
+git diff app/Http/Controllers/CoreController.php
+clear
+git diff modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php
+clear
+git diff
+git status
+git add app/Http/Controllers/CoreController.php modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+git status
+clear
+git commit
+cler
+clear
+git status
+clear
+git log
+git branch list
+git branch
+git branch -d list 
+git branch -d live-scorecard 
+git branch
+clear
+git status
+clear
+git push origin master
+clear
+git status
+clear
+git log
+clear
+redia
+redis
+clear
+git branch
+clear
+git fetch remote
+clear
+git remote fetch origin
+clear
+git remote
+git remote show
+git remote show origin
+clear
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/stats-updater.dev -out
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/stats-updater.dev.key -out /etc/ssl/certs/stats-updater.dev.crt
+sudo nano /etc/apache2/sites-available/laravel.conf 
+clear
+sudo apachestl configtest
+sudo apachectl configtest
+sudo a2enmod ssl
+sudo service apache2 restart
+sudo nano /etc/apache2/sites-available/laravel.conf 
+cler
+clear
+sudo service apache2 restart
+sudo nano /etc/hosts
+sudo nano /etc/apache2/sites-available/laravel.conf 
+clear
+sudo nano /etc/apache2/sites-available/laravel.conf 
+sudo a2ensite laravel.conf 
+clear
+sudo service apache2 restart
+clear
+sudo nano /etc/apache2/sites-enabled/laravel.conf 
+clear
+sudo service apache2 restart
+sudo nano /etc/apache2/sites-enabled/laravel.conf 
+clear
+cd ../../
+ls
+cd ../
+ls
+clear
+cd newsbytes/
+ls
+cd sports/
+ls
+clear
+cd ../
+ls
+cd ../html/
+ls
+clear
+mv newsbytes_sports.sql ../newsbytes/
+ls
+mv newsbytes_sports\(1\).sql ../newsbytes/
+cd ../newsbytes/
+ls
+cd ../html/
+ls newsbytes-sports/
+rm newsbytes-sports/
+clear
+rm -r newsbytes-sports/
+sudo rm -r newsbytes-sports/
+ls
+clear
+ll
+sudo chmod 755 stats-updater/
+ll
+sudo chmod 755 stats-updater-copy/
+clear
+ls
+mv stats-updater-copy/ ../newsbytes/stats-updater
+ls
+sudo rm -r cocorico/ php-memcached/ router/
+ls
+cd ../newsbytes/
+ls
+cd stats-updater/
+;ls
+ls
+sudo chmod 755 src/
+ls
+clear
+sudo nano /etc/apache2/sites-enabled/laravel.conf 
+clear
+cd /var/www/html/
+ls
+clear
+sudo mkdir newsbytes-sports
+cd newsbytes-sports/
+cd ..
+ls
+ls  ../
+cd ..
+ll
+sudo mkdir newsbytes
+ll
+sudo chown sarthak:www-data newsbytes
+ll
+chmod 775 newsbytes
+ll
+cd newsbytes/
+git clone https://bitbucket.org/newsbytesapp/sports.git
+cd sports/
+composer install
+ll
+cp .env.example .env
+php artisan key:generate
+vim .env
+sudo apt-get install vim
+sudo apt-get update
+lsb_release -a
+nano .env
+sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/sports.newsbytesapp.test.conf
+sudo nano /etc/apache2/sites-available/sports.newsbytesapp.test.conf
+sudo a2ensite sports.newsbytesapp.test.conf 
+sudo service apache2 reload
+sudo vim /etc/hosts
+sudo nano /etc/hosts
+ll
+chmod 775 -R storage bootstrap/cache
+chown :www-data -R .
+sudo chown :www-data -R .
+npm install
+clear
+npm run prod
+npm run dev
+ls
+clear
+git status
+git checkout -b livescorecard-backend
+clear
+sudo nano /etc/apache2/sites-enabled/laravel.conf 
+clear
+sudo service apacheche2 restart
+sudo service apache2 restart
+exit
+cd app/
+ls
+cd Services/
+ls
+clear
+mv CricApiService.php CricketApiService.php
+clear
+cd ../../
+ls
+composer require PhpCricket/PhpCricLib
+clear
+composer require roanuz/php-cricket
+composer dump-autoload
+clear
+composer dump autoload
+composer dump-autoload
+clear
+sudo rm -r storage/framework/views/*
+ls -a storage/framework/views/
+clear
+grep app/ ConverterService
+grep -i "ConverterService" app/
+grep -s "ConverterService" app/
+clear
+php artisan
+php artisan route:list
+sudo chmod 777 storage/logs/*
+php artisan route:list
+clear
+php artisan route:list
+clear
+php artisan route:list
+php artisan route:list -v
+sudo chmod 777 -R public/accesstoken.txt 
+php artisan route:list -v
+clear
+php artisan route:list
+clear
+php artisan route:list
+clear
+celar
+clear
+php artisan route:list
+clear
+php artisan route:list
+sudo chmod 755 accesstoken.txt 
+clear
+ls
+clear
+ls
+clear
+cp accesstoken.txt public/
+ls
+clear
+ls
+ll
+clear
+sudo chmod 777 -R public/accesstoken.txt 
+clear
+sudo nano /etc/apache2/sites-enabled/laravel.conf 
+sudo nano /etc/apache2/sites-enabled/sports.newsbytesapp.test.conf 
+clear
+sudo service apache2 restart 
+sudo chmod 777 -R public/accesstoken.txt 
+clear
+ls
+clear
+redis
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+ls
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+ckear
+clear
+exit
