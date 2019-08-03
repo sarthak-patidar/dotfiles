@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/CricketPlayerDataScrapper.iml" timestamp="1557731098637" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/dataSources.local.xml" timestamp="1557928370953" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/dataSources.xml" timestamp="1557821953157" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/dataSources/ebfba80c-277c-470c-bd9d-ddef65cde695.xml" timestamp="1557821955565" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/dictionaries/sarthak.xml" timestamp="1558016435965" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/encodings.xml" timestamp="1558438003849" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/inspectionProfiles/Project_Default.xml" timestamp="1558161291005" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/misc.xml" timestamp="1557992352149" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/modules.xml" timestamp="1557731036841" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/vcs.xml" timestamp="1557928606561" />
+    <file path="/home/sarthak/Programming/CricketPlayerDataScrapper/.idea/workspace.xml" timestamp="1558595745445" />
+  </project-files>
+</conversion>
+

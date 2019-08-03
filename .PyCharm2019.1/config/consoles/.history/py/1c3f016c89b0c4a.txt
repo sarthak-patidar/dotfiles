@@ -1,0 +1,178 @@
+exir
+-. . -..- - / . -. - .-. -.--
+wxit
+-. . -..- - / . -. - .-. -.--
+exit
+-. . -..- - / . -. - .-. -.--
+ls
+-. . -..- - / . -. - .-. -.--
+exit()
+-. . -..- - / . -. - .-. -.--
+print(data)
+-. . -..- - / . -. - .-. -.--
+print(cls_instance.data)
+-. . -..- - / . -. - .-. -.--
+df = cls_instance.data
+-. . -..- - / . -. - .-. -.--
+print(df[df.name == 'Aamer Sohail'])
+-. . -..- - / . -. - .-. -.--
+runfile('/var/www/newsbytes/CPP/filter.py', wrdir='/var/www/newsbytes/CPP')
+-. . -..- - / . -. - .-. -.--
+import sys
+-. . -..- - / . -. - .-. -.--
+print(sys.getsizeof("str"))
+-. . -..- - / . -. - .-. -.--
+print(sys.getsizeof("string"))
+-. . -..- - / . -. - .-. -.--
+print(sys.getsizeof("s"))
+-. . -..- - / . -. - .-. -.--
+print(sys.getsizeof("st"))
+-. . -..- - / . -. - .-. -.--
+print(sys.getsizeof(""))
+-. . -..- - / . -. - .-. -.--
+runfile('/var/www/newsbytes/CPP/filter.py', wdir='/var/www/newsbytes/CPP')
+-. . -..- - / . -. - .-. -.--
+print(5)
+-. . -..- - / . -. - .-. -.--
+name = 'Martin'
+-. . -..- - / . -. - .-. -.--
+name.isupper()
+-. . -..- - / . -. - .-. -.--
+name = 'Martin-shane Guptill'
+-. . -..- - / . -. - .-. -.--
+name.split(' ', '-')
+-. . -..- - / . -. - .-. -.--
+import re
+-. . -..- - / . -. - .-. -.--
+print re.findall(r"[\w']+", name)
+-. . -..- - / . -. - .-. -.--
+print(re.findall(r"[\w']+", name))
+-. . -..- - / . -. - .-. -.--
+obj = {
+    "name": [12, 15],
+    "class": [23, 20]
+}
+-. . -..- - / . -. - .-. -.--
+df = pd.DataFrame(obj)
+-. . -..- - / . -. - .-. -.--
+obj_dict = df.to_dict()
+-. . -..- - / . -. - .-. -.--
+print(obj.dict)
+-. . -..- - / . -. - .-. -.--
+print(obj_dict)
+-. . -..- - / . -. - .-. -.--
+'A'.tolower()
+-. . -..- - / . -. - .-. -.--
+'A'.lower()
+-. . -..- - / . -. - .-. -.--
+findall(r"[\w']+",  "sarthak.patidar_aayushi0308__")
+-. . -..- - / . -. - .-. -.--
+from re import findall
+-. . -..- - / . -. - .-. -.--
+findall(r"[\w']+",  "sarthak.patidar aayushi0308-_")
+-. . -..- - / . -. - .-. -.--
+findall(r"[\w']+",  "Jean-Paul Duminy")
+-. . -..- - / . -. - .-. -.--
+print(len('JP'))
+-. . -..- - / . -. - .-. -.--
+names = findall(r"[\w']+", 'Jean-Paul Duminy')
+-. . -..- - / . -. - .-. -.--
+del names[-1]
+-. . -..- - / . -. - .-. -.--
+iterate_range = min(len(names), len('JP'))
+-. . -..- - / . -. - .-. -.--
+p_name = 'JP'
+-. . -..- - / . -. - .-. -.--
+for i in range(iterate_range):
+    c1 = p_name[i].lower()
+    c2 = names[i].lower()
+    
+    if c1 != c2:
+        print("Doesn't match ")
+        break
+
+-. . -..- - / . -. - .-. -.--
+p_name = 'JP'
+
+-. . -..- - / . -. - .-. -.--
+name = ['Jean', 'Paul']
+iter_range = 2
+-. . -..- - / . -. - .-. -.--
+for i in range(iter_range):
+    c1 = p_name[i].lower()
+    tmp = name[i]
+    c2 = tmp[0].lower()
+    print(c1, c2)
+    
+    if c1 != c2:
+        print("Doesn't match")
+        break
+
+-. . -..- - / . -. - .-. -.--
+list(2)
+-. . -..- - / . -. - .-. -.--
+a = [5, 5, 2, 7, 2, 6, 6]
+-. . -..- - / . -. - .-. -.--
+b = list(dict(a))
+-. . -..- - / . -. - .-. -.--
+b = list(set(a))
+-. . -..- - / . -. - .-. -.--
+import pandas as pd
+-. . -..- - / . -. - .-. -.--
+a = {}
+-. . -..- - / . -. - .-. -.--
+a.update({"name": [15, 25], "test": [17, 23, 20]})
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+a["name"] = [15, 25, 30]
+-. . -..- - / . -. - .-. -.--
+df = pd.DataFrame(a)
+-. . -..- - / . -. - .-. -.--
+df
+-. . -..- - / . -. - .-. -.--
+for index, row in df.iterrows():
+    print(row)
+
+-. . -..- - / . -. - .-. -.--
+for index, row in df.iterrows():
+    print(row['name'], row['test'])
+
+-. . -..- - / . -. - .-. -.--
+lis = [2, 26349, 66990, 66991, 66992, 66993]
+-. . -..- - / . -. - .-. -.--
+lis.remove(2)
+-. . -..- - / . -. - .-. -.--
+lis
+-. . -..- - / . -. - .-. -.--
+l1 = [3, 5]
+-. . -..- - / . -. - .-. -.--
+l2 = [8, 6]
+-. . -..- - / . -. - .-. -.--
+l = l1 + l2
+-. . -..- - / . -. - .-. -.--
+print(l)
+-. . -..- - / . -. - .-. -.--
+runfile('/var/www/newsbytes/CPP/filter_partial_name_match.py', wdir='/var/www/newsbytes/CPP')
+-. . -..- - / . -. - .-. -.--
+clear
+-. . -..- - / . -. - .-. -.--
+dic = dict({"name": "Sarthak", "type": "test"})
+-. . -..- - / . -. - .-. -.--
+string = str(dic)
+-. . -..- - / . -. - .-. -.--
+string = string.replace("\''", '"')
+-. . -..- - / . -. - .-. -.--
+print(string)
+-. . -..- - / . -. - .-. -.--
+str2 = str(dic)
+-. . -..- - / . -. - .-. -.--
+print(str2)
+-. . -..- - / . -. - .-. -.--
+dic1 = dict({"name": "Sarthak"})
+-. . -..- - / . -. - .-. -.--
+dic2 = dict({"test": "type"})
+-. . -..- - / . -. - .-. -.--
+dic = dic1.update(dic2)
+-. . -..- - / . -. - .-. -.--
+runfile('/var/www/newsbytes/CPP/remove_duplicates.py', wdir='/var/www/newsbytes/CPP')

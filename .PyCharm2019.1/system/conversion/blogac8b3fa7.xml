@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/blog.iml" timestamp="1546020991944" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/dataSources.local.xml" timestamp="1546427876268" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/dataSources.xml" timestamp="1546427768024" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/dataSources/3066c5cc-3680-40b2-bd05-38ed1e60fc0f.xml" timestamp="1546427769256" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/dataSources/3d637c50-ecb3-4b6f-a10f-5fc846f2aa11.xml" timestamp="1546263372184" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/inspectionProfiles/Project_Default.xml" timestamp="1546428039676" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/misc.xml" timestamp="1546003209040" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/modules.xml" timestamp="1545989068053" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/vcs.xml" timestamp="1545989253025" />
+    <file path="/home/sarthak/Programming/VitalDocz/blog/.idea/workspace.xml" timestamp="1547663205692" />
+  </project-files>
+</conversion>
+

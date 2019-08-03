@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sarthak/Programming/PythonProjects/codevita/.idea/codevita.iml" timestamp="1562996261597" />
+    <file path="/home/sarthak/Programming/PythonProjects/codevita/.idea/misc.xml" timestamp="1562996261689" />
+    <file path="/home/sarthak/Programming/PythonProjects/codevita/.idea/modules.xml" timestamp="1562996261733" />
+    <file path="/home/sarthak/Programming/PythonProjects/codevita/.idea/workspace.xml" timestamp="1563010544406" />
+  </project-files>
+</conversion>
+

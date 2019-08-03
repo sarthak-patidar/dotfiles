@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-05-15T19:24:22</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
+    <property name="modified">2019-05-15T19:41:34</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="659c6b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

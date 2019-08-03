@@ -1,0 +1,100 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="17-38-40-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7486842" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.712743" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="unresolved reference&#10;reference&#10;module not&#10;dial&#10;spe" />
+    <property name="MYSQL_RESTORE_KEY_VARIANTS_-2069723376" value="--help -I --auto-rehash --disable-auto-rehash --skip-auto-rehash -A --no-auto-rehash --auto-vertical-output -B --batch --silent --bind-address= -b --binary-as-hex --character-sets-dir= --column-type-info -c --comments --skip-comments -C --compress -# --debug --debug-check -T --debug-info -D --database= --default-character-set= --delimiter= --enable-cleartext-plugin -e --execute= --force -E --vertical -f --histignore= -G --named-commands --disable-named-commands -i --ignore-spaces --init-command= --local-infile --no-beep -h --host= -H --html -X --xml --line-numbers --skip-line-numbers -L -n --unbuffered --column-names --skip-column-names -N --sigint-ignore -o --one-database --pager --disable-pager -p --password -P --port= --prompt= --protocol= -q --quick -r --raw --reconnect --disable-reconnect --skip-reconnect -s -S --socket= --server-public-key-path= --get-server-public-key --ssl-mode= --ssl-ca= --ssl-capath= --ssl-cert= --ssl-cipher= --ssl-key= --ssl-crl= --ssl-crlpath= --tls-version= --ssl-fips-mode= -t --table --tee= --disable-tee -u --user= -U --safe-updates --i-am-a-dummy -v --verbose -V --version -w --wait --connect-timeout= --max-allowed-packet= --net-buffer-length= --select-limit= --max-join-size= --show-warnings -j --syslog --plugin-dir= --default-auth= --binary-mode --connect-expired-password" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="django&#10;paya&#10;pytz" />
+    <property name="PLUGIN_FILTER" value="mysqlclient" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="`&#10;z&#10;co`&#10;'" />
+    <property name="SettingsSearchHistory" value="code style&#10;index&#10;insp&#10;upda&#10;venv" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TextEditorWithPreviewLayout" value="Editor only" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.6557377" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="database.data.paste.format" value="format:Comma-separated (CSV)_id" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt.181" value="164426e98cd" />
+    <property name="evlsprt2.181" value="163e4c63f2d" />
+    <property name="evlsprt3.181" value="19" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="evlsprt3.191" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Programming/PythonProjects/battleship&#10;/home/sarthak/Programming/PythonProjects&#10;/var/www/newsbytes/sports/link_checker.py&#10;/var/www/newsbytes/CricketPlayerDataScrapper&#10;/var/www/newsbytes/translator&#10;/var/www/newsbytes/CPP/csvs/final_filters&#10;/var/www/newsbytes/CPP/csvs/duplicates_with_name_country_full_data.csv&#10;/var/www/newsbytes/CPP/data_filterer&#10;/var/www/newsbytes/CPP/csvs&#10;/var/www/newsbytes/CPP&#10;/home/sarthak/Programming/VitalDocz/blog&#10;/home/sarthak/Programming/CricketPlayerDataScrapper/scraper/scraper/spiders/cricketbot2.py&#10;/home/sarthak/.PyCharm2018.2/config/codestyles&#10;/home/sarthak/.PyCharm2018.2/config&#10;/home/sarthak/Programming/fyle&#10;/home/sarthak/Programming/VitalDocz/blog/src/blog/settings.py&#10;/home/sarthak/Programming/VitalDocz/blog/src&#10;/home/sarthak/Programming/VitalDocz/blog/venv/bin/python3.6&#10;/home/sarthak/Programming/VitalDocz/CodeBase&#10;/home/sarthak/Programming/VitalDocz&#10;/home/sarthak/VitalDocz&#10;/home/sarthak/ges_tmp/mad.studio/static/js/vendor.f1360f351f6067507859.js&#10;/home/sarthak/VitalDocz/vitaldocz_blog&#10;/home/sarthak/DjangoProjects/regportal&#10;/home/sarthak/DjangoProjects&#10;/home/sarthak/DjangoProjects/django2_env/bin/python&#10;/home/sarthak/DjangoProjects/django2_env&#10;/home/sarthak/regportal&#10;/home/sarthak/VitalDocz/template/wp-json/index.html&#10;/home/sarthak/DjangoProjects/vitaldocz_blog_api" />
+    <property name="file.gist.reindex.count" value="164816" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="lastTip" value="2" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="selected.color.option.type" value="TYPO" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.5043157" />
+    <property name="vcs.log.details.splitter.proportion" value="0.92805755" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/local/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/regportal/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/CricketPlayerDataScrapper/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/PythonProjects/CG-Accumulator/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python3.6" value="false" />
+        <entry key="/var/www/newsbytes/CPP/venv/bin/python" value="false" />
+        <entry key="/var/www/newsbytes/CricketPlayerDataScrapper/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/local/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/regportal/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/PythonProjects/CG-Accumulator/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python3.6" value="false" />
+        <entry key="/var/www/newsbytes/CricketPlayerDataScrapper/venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/local/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog-api/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/regportal/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/DjangoProjects/untitled/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/PythonProjects/CG-Accumulator/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog/venv/bin/python3.6" value="false" />
+        <entry key="/var/www/newsbytes/CricketPlayerDataScrapper/venv/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

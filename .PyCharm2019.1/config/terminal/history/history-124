@@ -1,0 +1,260 @@
+clear
+python -V
+python
+clear
+ls
+git
+clear
+sudo apt update
+cd /var/
+sudo mkdir www
+ls
+cd www/
+cd /media/
+ls
+cd sarthak/
+ls
+cd Study\ Materials/
+ls
+cd Ubuntu17_bkp/
+ls
+cd w
+cd www/
+ls
+cd newsbytes/
+ls
+clear
+sudo cp -r CPP/ /var/www/newsbytes
+cd /var/www/newsbytes/
+ls
+mv -r * ./CPP/
+sudo mv * ./CPP/
+sudo mkdir CPP
+sudo mv * ./CPP/
+sudo mv csvs ./CPP/
+ls
+cd CPP/
+ls
+clear
+python
+clear
+git
+clear
+python
+clear
+sudo nano ~/.bashrc
+python
+clear
+exit
+python
+clear
+git
+clear
+ls
+clear
+vim
+clear
+sudo apt install mysql-server
+sudo mysql_secure_installation
+clear
+mysql -u root -p
+sudo mysql -u root -p
+sudo service mysql restart
+mysql -u root -p
+sudo mysql -u root -p
+sudo mysql -u root
+clear
+mysql -u root
+clear
+sudo service mysql restart
+mysql -u root
+mysql -u root -p
+clear
+sudo apt install php libapache2-mod-php
+clear
+sudo service apache2 restart
+sudo apt install phpmyadmin php-mbstring php-gettext
+exit
+nano ~/.bashrc 
+clear
+exit
+nano ~/.bashrc 
+cd IDE/
+ls
+cd Phpstorm/
+ls
+cd bin/
+ls
+cd ../../Pycharm/bin/
+ls
+clear
+cd ../../
+ls
+clear
+nano ~/.bashrc
+exit
+sudo apt upgrade
+sudo apt update
+sudo apt install git
+clear
+sudo apt install apacheche2
+sudo apt install apache2
+clear
+sudo ufw app list
+sudo ufw allow 'Apache'
+sudo ufw status
+sudo service apache2 status
+clear
+cd /media/sarthak/Study\ Materials/
+ls
+cd Ubuntu17_bkp/
+ls
+sudo mv www /var/www/
+clear
+cd /var/www/
+ls
+ls -lk
+cd ../
+ls -l
+sudo chown sarthak:sarthak www/
+cd www/
+ls
+ls -l
+sudo chown sarthak:sarthak html/ newsbytes/
+ls
+ls -l
+sudo chmod 755 www/
+ls
+clear
+cd www/
+ls
+ls -l
+sudo chmod 755 -R *
+ls -l
+mv html/ ../html
+ls
+mv vitaldocz/ ../vitaldocz
+ls
+cd ../
+clear
+ls
+cd www/
+ls
+cd newsbytes/
+ls
+ls -l
+clear
+ls -l
+cd ../
+ls
+cd ../
+ls
+clear
+rm -r newsbytes/
+clear
+ls
+ls -l
+sudo rm -r newsbytes/
+cd www/
+ls
+mv newsbytes/ ../newsbytes
+ls
+cd ../
+ls
+rm www/
+rm -r www/
+ls
+celar
+clear
+ls
+cd newsbytes/
+ls
+cd CPP/
+ls
+clear
+cd ../../
+ls
+cd html/
+ls
+nano info.php
+clear
+nano index.html 
+ls
+rm index.html 
+ls
+cd html/
+ls
+mv * ../
+ls
+cd ../
+ls
+rm -r html/
+ls
+clear
+ls
+sudo phpenmod mbstring
+sudo service apache2 restart
+mysql -u root -p
+clear
+sudo -H gedit /etc/apache2/apache2.conf 
+clear
+sudo service apache2 restart
+sudo apt install build-essential libssl-dev
+pip3 -V
+clear
+sudo apt install python3-pip
+clear
+ls
+clear
+cd ../newsbytes/CPP/
+ls
+celar
+clear
+sudo apt install -y python3-venv
+source venv/bin/activate
+pip freeze
+pip
+pip uninstall django
+pip freeze
+clear
+ls
+mysqldump -u root -p --all-databases > ~/Downloads/localhost.sql 
+mysql -u root -p
+clear
+mysql -u root -p newsbytes_backup_sports_v2 < ~/Downloads/newsbytes_backup_sports_v2.sql 
+nano /var/www/html/bigdump.php 
+ls /var/www/html/
+cp ~/Downloads/newsbytes_backup_sports_v2.sql /var/www/html/
+sudo apt update
+clear
+sudo apt upgrade
+clear
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
+echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt update
+sudo apt install spotify-client
+clear
+sudo apt install gnome-tweak-tool -y
+sudo ufw status
+clear
+sudo ufw enable
+clear
+ls
+cd /media/sarthak/Study\ Materials/
+ls
+cd Ubuntu17_bkp/
+ls
+mv IDE/ /home/sarthak/
+clear
+ls -a
+mv .PyCharm2019.1/ /home/sarthak/
+mv .PhpStorm2019.1/ /home/sarthak/
+mv .WebStorm2019.1/ /home/sarthak/
+cd ~
+ls
+cd IDE/
+ls
+exit
+pycharm 
+clear
+exit

@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="eldarion-ajax" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_eldarion-ajax@0.16.0_js_eldarion-ajax.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_eldarion-ajax@0.16.0_js_eldarion-ajax.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="marked" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_marked_0.4.0_marked.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_marked_0.4.0_marked.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="platform" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/var/www/newsbytes/CricketPlayerDataScrapper/venv/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so = 1.147 1562227062000
+/var/www/newsbytes/CricketPlayerDataScrapper/venv/lib/python3.6/site-packages/MySQLdb/_mysql.cpython-36m-x86_64-linux-gnu.so = 1.147 1562227100000
+/var/www/newsbytes/CricketPlayerDataScrapper/venv/lib/python3.6/site-packages/lxml/builder.cpython-36m-x86_64-linux-gnu.so = 1.147 1562227043000
