@@ -1,0 +1,1000 @@
+ls
+clear
+cd /tmp/
+ls
+sudo mv mozilla_sarthak0/firefox-67.0.1.tar.bz2 ~/
+ls
+sudo rm -r mozilla_sarthak0/
+clear
+cd
+ls
+clear
+ls
+clear
+tar xvjf firefox-67.0.1.tar.bz2 
+clear
+ls
+cd firefox/
+ls
+claer
+clear
+rm -r firefox
+ls
+cd ../
+rm -r firefox
+ls
+clear
+tar xvjf firefox-67.0.1.tar.bz2 
+ls
+rm firefox-67.0.1.tar.bz2 
+sudo rm firefox-67.0.1.tar.bz2 
+ls
+cd firefox/
+ls
+clear
+./updater
+updater
+clear
+ls
+cd browser/
+;s
+ls
+clear
+ls
+cd chrome/
+ls
+cd ../../
+ls
+xdg-open ./updater
+xdg-open firefox
+clear
+./firefox
+exit
+ls
+cd /
+ls
+cd bin/
+ls
+celar
+clear
+ls
+cd ../
+;s
+ls
+cd etc/
+ls
+cd firefox/
+ls
+cd pref/
+ls
+clear
+sudo apt install firefox
+clear
+sudo apt update
+cd ../../../
+cd opt/
+ls
+celar
+clear
+cd ../
+ls
+cd opt/
+ls
+cd
+ls
+sudo mv firefox/ /opt/
+ls
+cd /opt/
+ls
+sudo mv /usr/bin/firefox /usr/bin/firefox-old
+cd firefox/
+ls
+clear
+sudo ln -s /opt/firefox/firefox /usr/bin/firefox
+exit
+pycharm 
+clear
+exit
+cd /var/www/newsbytes/
+ls
+cd CricketPlayerDataScrapper/
+ls
+cd scraper/crawlData/
+ls
+cd nepal/
+ls
+nano crawled_list.json 
+cclear
+clear
+ls
+clear
+exit
+cd ../CricketPlayerDataScrapper/
+ls
+exit
+deactivate
+clear
+python3 -m pip install --upgrade pip
+pip install --upgrade pip
+clear
+pip install jupyter
+clear
+jupyter notebook
+sudo apt install jupyter-core
+clear
+pip freeze
+pip uninstall django
+clear
+whereis jupyter
+pip freeze
+jupyter 
+exit
+jupyter
+clear
+jupyter-core
+clear
+sudo aptitude install jupyter-core
+clear
+ls
+cd /etc/
+ls
+cd yum/
+ls
+clear
+yum
+cd
+clear
+cd /etc/
+ls
+os-release
+./os-release
+ll
+sudo su
+clear
+ls
+cd ..
+ls
+cd lib
+ls
+cd ../
+ls
+ls -a -l etc/os-release 
+cd usr/lib
+ls
+ls -a -l os-release 
+cd
+clear
+exit
+python filter.py 
+pip uninstall mysql-connector
+clear
+pip install MySQL-connector-python
+clear
+python filter.py
+clear
+python filter.py
+exit
+show-memory 
+exir
+exit
+python filter.py 
+clear
+exit
+python filter.py 
+ls
+cd csvs/
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+exir
+exit
+cd csvs/
+ls
+mv name_no_transpose.csv name.csv
+ls
+clear
+ls
+show-memory
+clear
+exit
+show-memory
+clear
+show-memory
+nano ./.bashrc
+nano ~/.bashrc
+watch free -m
+clear
+ls
+clear
+show-memory
+clear
+show-memory 
+ls
+ls csvs/
+cd csvs/
+ls
+clear
+rm name_overall.csv data_overall.csv 
+ls
+clear
+show-memory 
+clear
+pycharm
+clear
+exir
+exit
+show-memory 
+clear
+show-meme
+show-memory 
+clear
+mempry
+memory
+lmempry
+lmemory
+clear
+cler the fuck up
+clear the fuck up
+rm -r newsb
+clear
+ls
+cd ../ clear
+cd ../ 
+ls
+cd venv/lib/python3.6/site-packages/
+ls
+sl
+cd ../../../../
+ls
+clear
+la -l
+cd .idea/
+ls
+cd dataSources/
+ls
+nano ef929caa-93d9-4874-bc4d-c4014f163c4e.xml 
+ls
+nano fa14b359-af7f-4154-b31f-c565b84353ba.xml 
+clear
+ls ../../csvs/
+clear
+cd ../../
+clear
+nano csvs/name_overall.csv 
+ls csvs/
+cler
+clear
+show-memory 
+clear
+show-memory 
+clear
+show-memory
+clear
+ls -a
+ls -a -l
+show-memory
+cler
+clear
+ls -a -l -m
+ls -m
+clear
+ls
+ls -m
+ls -h
+ls --help
+nano ~/.bashrc
+clear
+l
+ls -CLF
+clear
+ll
+clear
+ll cd /
+clearrclear
+clear
+exir
+exit
+sudo a2enmod dav
+sudo a2enmod dav_fs
+sudo service apache2 restart 
+clear
+ping dav://Sarthak-Ubuntu.local
+clear
+ls
+clear
+ls
+touch filter_partial_name_match.py
+ls csvs/
+clear
+ls csvs/filter/
+clear
+ls csvs/partial_name_filter/
+ls
+clear
+ls csvs/partial_name_filter/
+clear
+ls -a -l
+clear
+ls -a -l .idea/
+la -l .idea/
+clear
+to random shit
+clear
+exit
+ls ~/Programming/
+ls
+clear
+ls
+cd ~/Programming/
+ls
+cd PythonProjects/
+ls
+clear
+cd /var/www/newsbytes/CPP/
+ls
+clear
+ls csvs/partial_name_filter/
+clear
+show-memory 
+nano players.json
+ls
+clear
+show-memory 
+clear
+show-memory 
+nano ~/.bashrc
+clear
+cd $HOME/bin
+ls
+cd Sy
+./Sys_log
+ls -a -l
+nano Sys_log 
+rm -r Sys_log 
+ls
+clear
+nano vault 
+clear
+ls
+clear
+sudo nano ~/.bashrc
+exit
+battleship
+clear
+nano ~/.bashrc
+clear
+battleship 
+exit
+battleship
+clear
+show-memory
+clear
+show-memory
+clear
+ls
+clear
+mv players.csv all_players.csv 
+mv ~/Downloads/players.csv .
+ls
+clear
+show-memory 
+clear
+ls
+clear
+sudo su root
+clear
+sudo apt update && sudo apt upgrade
+clear
+ls
+clear
+ls -a -l
+lcear
+clear
+sl
+clear
+ls
+clear
+ls
+clear
+iwconfig
+clear
+ifconfig
+clear
+git
+clear
+apt
+clear
+show-memory 
+clear
+apt
+clear
+cd /
+ls
+ls -a -l
+clear
+ls -l
+ll
+clear
+ls
+clear
+cd
+clear
+ls
+ls -a
+clear
+ll
+clear
+ls -l
+d b
+cd b
+cd bin/
+ls
+cd
+clear
+vault 
+cleaar
+clear
+nano bin/vault 
+clear
+deactivate 
+clear
+source /var/www/newsbytes/CPP/venv/bin/activate
+cd /var/www/newsbytes/CPP/
+clear
+ls -a
+clear
+nano /etc/hosts
+clear
+ls /etc/apache2/sites-enabled/
+clear
+ls
+clear
+ls
+ls -l
+clear
+sudo chown +x *.py
+sudo chmod +x *.py
+ls -l
+clear
+sudo chmod 744 *.py
+ls
+ls -l
+clear
+./filter.py 
+clear
+$DIR
+ls
+ls venv/bin/
+python3.6
+clear
+./python3.6
+clear
+./venv/bin/python3.6 
+clear
+ls
+./filter.py 
+clear
+./filter.py 
+clear
+ls
+ls -l
+sudo chmod 644 *.py
+ls -l
+clear
+show-memory 
+clear
+show-memory -m
+clear
+show-memory
+clear
+show-memory
+clear
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
+echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update
+sudo apt install spotify-client
+clear
+exit
+lsblk
+sudo umount /dev/sdb1
+sudo umount /dev/sdb2
+sudo umount /dev/sdb
+clear
+ls
+clear
+cd /media/sarthak/8A81-18CE/
+ls -l
+clear
+ls
+cd /media/sarthak/8A81-18CE/
+ls
+rm -r *
+ls 
+ls -l
+sudo chmod 777 -R *
+clear
+sudo rm -r *
+clear
+ls
+sudo rm -r bin/
+clear
+cd bin/
+ls
+rm -r vault 
+clear
+cd ../
+clear
+show-memory
+cd /media/sarthak/221A-4FEB/
+ls
+ls -a
+clear
+nano tes
+clear
+show-memory 
+ls
+ls -l
+clear
+ls -l
+lear
+clear
+cd
+cd /var/www/
+ls
+cd
+cd /
+ls
+cd dev/
+ls
+cd ../
+ls
+clear
+ls
+cd usr/
+s
+ls
+cd games/
+l
+cd ../../
+ls
+clear
+ls
+cd lost+found/
+ls -l
+clear
+ls
+cd root/
+ls
+clear
+ls
+sudo cd root/
+clear
+ls
+cd run/
+ls
+cd ../
+clear
+ls
+cd data/
+ls
+cd db/
+;s
+ls
+clear
+ls
+cd ..
+ls
+clear
+ls
+nano swapfile 
+cd snap/
+ls
+cd ../
+cd snap/slack/
+ls
+cd 13
+ls
+cd ../../
+cd ../
+ls
+clear
+ls
+cd usr/
+ls
+cd bin/
+;s
+ls
+cd ../
+ls
+clear
+ls
+cd src/
+ls
+cd linux-headers-4.13.0-4
+cd linux-headers-4.13.0-45
+ls
+cd ../../
+cd ../
+ls
+clear
+cd var/
+ls
+cd backups/
+ls
+cd ../
+ls
+cd lib/
+ls
+clear
+ls
+cd mysql.back/
+ls
+cd mysql/
+ls -l
+clear
+sudo su
+cd ../mysql
+cd ../
+ls
+clear
+ls
+cd python/
+ls
+./python3.6_installed
+clear
+ls -l
+clear
+ls ../
+cd ../mongodb/
+ls
+ls -a
+clear
+cd ../
+ls
+cd phpmyadmin/
+ls
+nano config.inc.php 
+sudo nano config.inc.php 
+sudo nano blowfish_secret.inc.php 
+clear
+ls
+cd tmp/
+ls
+cd ../../
+ls
+cd vim/
+ls
+clear
+vim
+clear
+cd ../
+ls
+clear
+show-memory 
+clear
+cd ../www/newsbytes/CPP/
+clear
+ls
+clear
+ls
+clear
+ls -l
+ll
+clear
+ll
+nano ~/.bashrc 
+clear
+ls -AlF
+clear
+nano ~/.bashrc
+clear
+exit
+show-memory 
+clear
+ls
+rm players.csv 
+mv all_players.csv players.csv
+clear
+show-memory 
+ls
+cd csvs/
+ls
+cd final_filters/
+ls
+clear
+ls
+clear
+show-memory
+ls
+nano probable_name_matches_unfiltered.csv 
+clear
+ls
+clear
+ls
+nano probable_name_matches_unfiltered.csv 
+clear
+nano probable_name_matches_unfiltered.csv 
+clear
+nano probable_name_matches_unfiltered.csv 
+lcear
+clear
+ls
+nano probable_name_matches.csv 
+clear
+ls
+rm probable_name_matches
+rm probable_name_matches.csv 
+ls
+clear
+cd ../
+ls
+clear
+cd final_filters/
+ls
+nano probable_name_matches_unfiltered.csv 
+clear
+ls
+clear
+ls
+clear
+ls
+mv probable_name_matches_unfiltered.csv probable_name_matches_filtered_on_first_letter.csv 
+ls
+clear
+ls
+clear
+sudo service mysql status
+clear
+show-memory 
+clear
+$HOME
+echo $HOME
+clear
+cd $HOME
+clear
+cd /var/www/newsbytes/CPP/
+sl
+clear
+ls
+cd csvs/final_filters/
+ls
+clear
+ls
+nano probable_name_matches
+nano probable_name_matches.csv 
+cler
+clear
+ls
+clear
+ls
+clear
+show-memory 
+clear
+ls
+cls
+ls
+clear
+nano probable_name_matches_test.csv 
+clear
+ls
+clear
+ls
+lear
+clear
+ls
+clear
+nano probable_name_matches_test.csv 
+ls
+clear
+pip freeze
+clear
+ls
+clear
+ls
+clear
+sudo nano this shit
+clear
+sudo nano do-this-shit
+clear
+show-memory 
+ls
+cp probable_name_matches_test.csv probable_name_matches_final.csv
+clear
+ls
+clear
+sudo su root
+clear
+cd /
+ls
+cd b
+cd bin
+ls
+clear
+cd ../
+ls
+cd etc/
+ls
+cd ../
+ls
+lear
+clear
+ls
+du home/
+du -sh home
+clear
+show-memory
+clear
+show-memory
+clear
+cd
+ls
+cd //
+ls
+cd /
+ls
+clear
+ls
+cd /var/www/
+ls
+cd html/
+ls
+cd stats-updater/
+ls
+cd src/
+ls
+clear
+cd ../../
+ls
+clear
+ls
+nano testphp.php 
+rm testphp.php 
+ls
+nano bigdump.php 
+ls
+clear
+ls
+cd js-puzzle/
+ls
+nano index.html 
+nano README.md 
+ls
+nano script.js 
+clear
+cd
+ls
+cd /
+lks
+ls
+cd mnt/
+ls
+cd ../
+ls
+cd media/
+ls
+cd sarthak/
+ls
+cd 8A81-18CE/
+ls
+ls -a
+ls -l
+clear
+ls -l
+sudo chmod 755 -R .
+clear
+ls
+clear
+cd /home/sarthak/
+ls
+cd Programming/
+ls -l
+sudo chown sarthak:sarthak *
+ls
+ls -l
+clear
+cd /media/
+ls -l
+cd sarthak/
+;s
+ls
+clear
+ls -l
+sudo chmod 775 8A81-18CE/
+ls -l
+clear
+ls
+cd
+ls
+cp Web_Templates/ /media/sarthak/8A81-18CE/
+cp -r Web_Templates/ /media/sarthak/8A81-18CE/
+sudo cp -r Web_Templates/ /media/sarthak/8A81-18CE/
+clear
+ls
+cd /media/sarthak/
+ls
+ls -l
+sudo chmod 777 8A81-18CE/
+clear
+sudo mount -o remount,rw 'media/sarthak/8A81-18CE'
+sudo mount -o remount,rw 'media/sarthak'
+ls
+sudo mount -o remount,rw './'
+man mount
+clear
+sudo mount -o remount,rw './ 65gb'
+sudo mount -o remount,rw './ 8A81-18CE'
+sudo mount -o remount,rw '/media/sarthak/8A81-18CE'
+ls
+ls -l
+clear
+ls -l
+clear
+cd 8A81-18CE/
+nano tesr
+ls -l
+rm tesr 
+ls
+clear
+cd
+ls
+zip
+clear
+zip -r home_backup.zip bin/ books/ Downloads/ Documents/ Programming/ Pictures/ realtek_wifi_driver_installer/ redis-source/ sauvik/ Videos/ websites/ Web_Templates/ Web_Tutorials/ kgp.jpg lotus_temple.jpg .PhpStorm2019.1/ .PyCharm2019.1/ .WebStorm2019.1/ .bashrc 
+clear
+ls
+ls -l
+clear
+mv home_backup.zip /media/sarthak/221A-4FEB/
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd var_www_backup/
+ls
+clear
+cd ../
+ls
+clear
+cd var_www_backup/
+ls
+clear
+ls
+zip var_www_backup.zip newsbytes/ html/ vitaldocz/
+cd ../
+ls
+ls -l var_www_backup/
+ll
+exit
+cd 
+ll
+sudo chown sarthak:sarthak ~/var_www_backup/
+cd
+cd var_www_backup/
+zip var_www_backup.zip newsbytes/ html/ vitaldocz/
+ls
+sudo chmod 777 -R *
+sudo chmod 777 -R newsbytes/ html/ vitaldocz/
+zip var_www_backup.zip newsbytes/ html/ vitaldocz/
+ls
+clear
+rm var_www_backup.zip 
+ls
+cd ../
+ls
+ll
+ls -AlF
+sudo chmod 777 -R var_www_backup/
+zip var_www_backup.zip var_www_backup/
+ls
+nano var_www_backup.zip 
+rm var_www_backup.zip 
+clear
+exit

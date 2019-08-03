@@ -1,0 +1,43 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Programming/CppProjects/test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Programming/CppProjects/test" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Programming/CppProjects/test" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Programming/CLionProjects/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7479.33" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563434649978" />
+              <option name="buildTimestamp" value="1559219250217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/CppProjects/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7479.33" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563439404923" />
+              <option name="buildTimestamp" value="1559219263833" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Programming/CLionProjects" />
+  </component>
+</application>

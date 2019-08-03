@@ -1,0 +1,577 @@
+19/06 12:25:22 INFO  Runner.initLogger - --- Updater started ---
+19/06 12:25:22 INFO  Runner.main - args: [install, /home/sarthak/IDE/Phpstorm]
+19/06 12:25:22 INFO  Runner.main - destFolder: /home/sarthak/IDE/Phpstorm, case-sensitive: true
+19/06 12:25:23 INFO  Utils.getTempFile - created working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705
+19/06 12:25:23 INFO  Runner.install - Extracting patch file...
+19/06 12:25:23 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+19/06 12:25:23 INFO  Utils.getZipEntry - entryPath: .patch-info
+19/06 12:25:23 INFO  PatchFileCreator.prepareAndValidate - PhpStorm (build 191.7141.52) -> PhpStorm (build 191.7479.51)
+19/06 12:25:23 INFO  Patch.forEach - Validating installation... [232 actions]
+19/06 12:25:37 INFO  Patch.forEach - Backing up files... [33 actions]
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.3.1.jar to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/tnameserv to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/java to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/java
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/java
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/policytool to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/servertool to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/rmiregistry to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/keytool to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/rmid to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/jjs to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/hsdb to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/clhsdb to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/pack200 to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/jre64/bin/orbd to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/log.xml to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/log.xml
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/log.xml
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.svg
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.svg
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/idea.properties to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/idea.properties
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/idea.properties
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.png
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.png
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/printenv.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/printenv.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/printenv.py
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64 to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/restart.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/restart.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/restart.py
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libdbm64.so
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libdbm64.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/format.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/format.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/format.sh
+19/06 12:25:37 INFO  Patch.forEach - Applying patch... [33 actions]
+19/06 12:25:37 INFO  DeleteAction.doApply - Delete action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  DeleteAction.doApply - Delete: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  DeleteAction.doApply - Delete action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  DeleteAction.doApply - Delete: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+19/06 12:25:37 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+19/06 12:25:37 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.7.1.jar
+19/06 12:25:37 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j-0.7.1.jar
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/tnameserv.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/tnameserv.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/tnameserv
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/java
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/java.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/java
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/java.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/java
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/java
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/policytool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/policytool.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/policytool
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/servertool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/servertool.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/servertool
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmiregistry.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmiregistry.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/keytool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/keytool.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/keytool
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmid.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmid.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/rmid
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/jjs.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/jjs.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/jjs
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/hsdb.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/hsdb.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/hsdb
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/clhsdb.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/clhsdb.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/clhsdb
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/pack200.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/pack200.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/pack200
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/orbd.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/orbd.tmp.0 to /home/sarthak/IDE/Phpstorm/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/jre64/bin/orbd
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libyjpagent-linux.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/log.xml
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/log.xml
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/log.xml.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/log.xml
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm64.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.svg.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/idea.properties.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/idea.properties
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.png.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/printenv.py.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/printenv.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/printenv.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier64.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier64.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libyjpagent-linux64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/inspect.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/inspect.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier-arm.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier-arm.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/restart.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/restart.py.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/restart.py
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/restart.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/restart.py
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/restart.py
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libdbm64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+19/06 12:25:37 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/format.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/format.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/format.sh
+19/06 12:25:37 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/format.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/format.sh
+19/06 12:25:37 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/format.sh
+19/06 12:25:37 INFO  Runner.cleanup - Cleaning up...
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j-0.3.1.jar
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib/org.eclipse.lsp4j.jsonrpc-0.3.0.jar
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/lib
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/format.sh
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/inspect.sh
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.vmoptions
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/restart.py
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.sh
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/log.xml
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.svg
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/printenv.py
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux64.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier-arm
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm.png
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/idea.properties
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libyjpagent-linux.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/phpstorm64.vmoptions
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/fsnotifier64
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin/libdbm64.so
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/bin
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/tnameserv
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/keytool
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/policytool
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmid
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/clhsdb
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/servertool
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/java
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/jjs
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/rmiregistry
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/hsdb
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/pack200
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin/orbd
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64/bin
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0/jre64
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/backup.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libdbm64.so.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libyjpagent-linux.so.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/patch.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/orbd.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/libyjpagent-linux64.so.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/hsdb.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.vmoptions.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm64.vmoptions.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/format.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmiregistry.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/inspect.sh.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/clhsdb.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/log.xml.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier-arm.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/printenv.py.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.svg.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/pack200.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/java.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/keytool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/tnameserv.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/jjs.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/policytool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier64.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/restart.py.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/rmid.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/fsnotifier.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/phpstorm.png.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/idea.properties.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705/servertool.tmp.0
+19/06 12:25:37 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705
+19/06 12:25:37 INFO  Utils.cleanup - deleted working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.1320299166915021705
+20/06 15:51:44 INFO  Runner.initLogger - --- Updater started ---
+20/06 15:51:44 INFO  Runner.main - args: [install, /home/sarthak/IDE/Phpstorm]
+20/06 15:51:44 INFO  Runner.main - destFolder: /home/sarthak/IDE/Phpstorm, case-sensitive: true
+20/06 15:51:45 INFO  Utils.getTempFile - created working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235
+20/06 15:51:45 INFO  Runner.install - Extracting patch file...
+20/06 15:51:45 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+20/06 15:51:45 INFO  Utils.getZipEntry - entryPath: .patch-info
+20/06 15:51:45 INFO  PatchFileCreator.prepareAndValidate - PhpStorm (build 191.7141.52) -> PhpStorm (build 191.7479.51)
+20/06 15:51:46 INFO  Patch.forEach - Validating installation... [232 actions]
+20/06 15:52:20 INFO  Patch.forEach - Backing up files... [19 actions]
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libyjpagent-linux.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/log.xml to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/log.xml
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm64.vmoptions
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.svg
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/idea.properties to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/idea.properties
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.png
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/printenv.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/printenv.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/printenv.py
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64 to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libyjpagent-linux64.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/restart.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/restart.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/restart.py
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.vmoptions
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libdbm64.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/format.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/format.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/format.sh
+20/06 15:52:20 INFO  Patch.forEach - Applying patch... [19 actions]
+20/06 15:52:20 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+20/06 15:52:20 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+20/06 15:52:20 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.7.1.jar
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.7.1.jar
+20/06 15:52:20 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j-0.7.1.jar
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libyjpagent-linux.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/log.xml
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/log.xml
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/log.xml.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/log.xml
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm64.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.svg.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/idea.properties.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/idea.properties
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.png.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/printenv.py.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/printenv.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/printenv.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier64.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier64.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libyjpagent-linux64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/inspect.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/inspect.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier-arm.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier-arm.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/restart.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/restart.py.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/restart.py
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/restart.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/restart.py
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/restart.py
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libdbm64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+20/06 15:52:20 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/format.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/format.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/format.sh
+20/06 15:52:20 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/format.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/format.sh
+20/06 15:52:20 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/format.sh
+20/06 15:52:20 INFO  Runner.cleanup - Cleaning up...
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/format.sh
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/inspect.sh
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.vmoptions
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/restart.py
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.sh
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/log.xml
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.svg
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/printenv.py
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libyjpagent-linux64.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier-arm
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm.png
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/idea.properties
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libyjpagent-linux.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/phpstorm64.vmoptions
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/fsnotifier64
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin/libdbm64.so
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0/bin
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/backup.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libdbm64.so.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libyjpagent-linux.so.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/patch.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/libyjpagent-linux64.so.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.vmoptions.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm64.vmoptions.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/format.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/inspect.sh.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/log.xml.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier-arm.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/printenv.py.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.svg.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier64.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/restart.py.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/fsnotifier.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/phpstorm.png.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235/idea.properties.tmp.0
+20/06 15:52:20 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235
+20/06 15:52:20 INFO  Utils.cleanup - deleted working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.5395261891708984235
+25/06 11:40:36 INFO  Runner.initLogger - --- Updater started ---
+25/06 11:40:36 INFO  Runner.main - args: [install, /home/sarthak/IDE/Phpstorm]
+25/06 11:40:36 INFO  Runner.main - destFolder: /home/sarthak/IDE/Phpstorm, case-sensitive: true
+25/06 11:40:37 INFO  Utils.getTempFile - created working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691
+25/06 11:40:37 INFO  Runner.install - Extracting patch file...
+25/06 11:40:37 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+25/06 11:40:37 INFO  Utils.getZipEntry - entryPath: .patch-info
+25/06 11:40:37 INFO  PatchFileCreator.prepareAndValidate - PhpStorm (build 191.7141.52) -> PhpStorm (build 191.7479.51)
+25/06 11:40:37 INFO  Patch.forEach - Validating installation... [232 actions]
+25/06 11:41:00 INFO  Patch.forEach - Backing up files... [19 actions]
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libyjpagent-linux.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/log.xml to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/log.xml
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm64.vmoptions
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.svg
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/idea.properties to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/idea.properties
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.png
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/printenv.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/printenv.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/printenv.py
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64 to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libyjpagent-linux64.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/restart.py to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/restart.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/restart.py
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.vmoptions
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libdbm64.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/IDE/Phpstorm/bin/format.sh to /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/format.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/format.sh
+25/06 11:41:00 INFO  Patch.forEach - Applying patch... [19 actions]
+25/06 11:41:00 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+25/06 11:41:00 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j.jsonrpc-0.7.1.jar
+25/06 11:41:00 INFO  CreateAction.doApply - Create action. File: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.7.1.jar
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/lib/org.eclipse.lsp4j-0.7.1.jar
+25/06 11:41:00 INFO  Utils.getZipEntry - entryPath: lib/org.eclipse.lsp4j-0.7.1.jar
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libyjpagent-linux.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux.so
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/log.xml
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/log.xml
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/log.xml.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/log.xml
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm64.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm64.vmoptions
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.svg.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.svg
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/idea.properties
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/idea.properties.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/idea.properties
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.png.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.png
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/printenv.py.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/printenv.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/printenv.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/printenv.py
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier64.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier64.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier64
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/phpstorm.sh
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libyjpagent-linux64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libyjpagent-linux64.so
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/inspect.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/inspect.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/inspect.sh
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier-arm.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier-arm.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/fsnotifier-arm
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/restart.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/restart.py.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/restart.py
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/restart.py.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/restart.py
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/restart.py
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.vmoptions.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/phpstorm.vmoptions
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libdbm64.so.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/libdbm64.so
+25/06 11:41:00 INFO  UpdateAction.doApply - Update action. File: /home/sarthak/IDE/Phpstorm/bin/format.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/format.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/IDE/Phpstorm/bin/format.sh
+25/06 11:41:00 INFO  Utils.copy - File: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/format.sh.tmp.0 to /home/sarthak/IDE/Phpstorm/bin/format.sh
+25/06 11:41:00 INFO  Utils.setExecutable - Setting executable permissions for: /home/sarthak/IDE/Phpstorm/bin/format.sh
+25/06 11:41:00 INFO  Runner.cleanup - Cleaning up...
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/format.sh
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/inspect.sh
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.vmoptions
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/restart.py
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.sh
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/log.xml
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.svg
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/printenv.py
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libyjpagent-linux64.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier-arm
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm.png
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/idea.properties
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libyjpagent-linux.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/phpstorm64.vmoptions
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/fsnotifier64
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin/libdbm64.so
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0/bin
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/backup.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libdbm64.so.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libyjpagent-linux.so.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/patch.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/libyjpagent-linux64.so.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.vmoptions.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm64.vmoptions.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/format.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/inspect.sh.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/log.xml.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier-arm.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/printenv.py.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.svg.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier64.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/restart.py.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/fsnotifier.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/phpstorm.png.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691/idea.properties.tmp.0
+25/06 11:41:00 INFO  Utils.tryDelete - deleted: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691
+25/06 11:41:00 INFO  Utils.cleanup - deleted working directory: /home/sarthak/.PhpStorm2019.1/system/log/idea.updater.files.2453228867207888691

@@ -1,0 +1,45 @@
+import json
+-. . -..- - / . -. - .-. -.--
+import io
+-. . -..- - / . -. - .-. -.--
+dir = '/var/www/newsbytes/CricketPlayerDataScraper/scraper/crawlData/updater/'
+-. . -..- - / . -. - .-. -.--
+dir = "/var/www/newsbytes/CricketPlayerDataScrapper/scraper/crawlData/updater/"
+-. . -..- - / . -. - .-. -.--
+crawl_file = dir + "all.json"
+-. . -..- - / . -. - .-. -.--
+db_file = dir + "participant_players.json"
+-. . -..- - / . -. - .-. -.--
+with io.open(db_file, 'r') as db:
+    db = json.load(db)
+
+-. . -..- - / . -. - .-. -.--
+with io.open(crawl_file, 'r') as db:
+    crawl = json.load(db)
+
+-. . -..- - / . -. - .-. -.--
+with io.open(db_file, 'r') as db_file:
+    db = json.load(db_file)
+
+-. . -..- - / . -. - .-. -.--
+diff = list(set(crawl) - set(db))
+-. . -..- - / . -. - .-. -.--
+print(diff)
+-. . -..- - / . -. - .-. -.--
+diff_2 = list(set(db) - set(crawl))
+-. . -..- - / . -. - .-. -.--
+print(diff2)
+-. . -..- - / . -. - .-. -.--
+print(diff_2)
+-. . -..- - / . -. - .-. -.--
+print(diff_2.sort())
+-. . -..- - / . -. - .-. -.--
+diff_2.sort()
+-. . -..- - / . -. - .-. -.--
+diff.sort()
+-. . -..- - / . -. - .-. -.--
+exit()
+-. . -..- - / . -. - .-. -.--
+from sys import path
+-. . -..- - / . -. - .-. -.--
+exit

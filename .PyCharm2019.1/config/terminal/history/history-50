@@ -1,0 +1,1000 @@
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:clear
+php artisan
+php artisan queue:forget
+clear
+php artisan
+php artisan queue:failed
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan queue:listen
+clear
+php artisan queue:failed
+php artisan queue:flush
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+php artisan queue:flush
+php artisan queue:listen
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clea
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+cler
+clear
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan
+php artisan queue:restart
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+ls
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+php artisan queue:flush
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+cler
+clear
+php artisan queue:flush
+php artisan queue:work
+ckear
+clear
+exit
+sudo service apache2 restart 
+git status
+clear
+nano phpunit.xml 
+clear
+php artisan route:clear
+php artisan view:clear
+composer dump-autoload
+clear
+ls -a
+clear
+cd app/
+l -a -l
+cd Traits/
+ls
+nano i
+nano ImageSourceTrait.php 
+clear
+cd ../../
+clear
+locate Controller.php
+locate Controller.php ./
+locate Controller.php ./app/
+clear
+tail accesstoken.txt 
+cat accesstoken.txt 
+lear
+clear
+tail accesstoken.txt 
+clear
+php artisan queue:work
+php artisan make:command InitializeScoreCardBuild scorecard:build:init
+php artisan make:command InitializeScoreCardBuild --command=scorecard:build:init
+clear
+php artisan
+clear
+php artisan make:job CacheLiveScoreCardJob
+ls
+clear
+php artisan schedule:run
+php artisan scorecard:build:init
+clear
+php artisan scorecard:build:init
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+php
+clear
+php --shell
+clear
+php
+clear
+php --help
+clear
+php artisan list
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+./artisan schedule:run
+php artisan schedule:run
+clear
+exit
+redis-lci
+redis-cli
+clear
+exir
+clear
+redis-cli
+clear
+exit
+ls
+clear
+php artisan make:job UpdateLiveScoreCardJob
+clear
+php artisan 
+php artisan event:list
+clear
+ls
+php artisan
+php artisan optimize:clear
+clear
+php artisan make:job DumpFullScoreCardJob
+clear
+exit
+reboot
+ls
+clear
+ls
+ls -a
+cler
+clear
+la -l
+cd Music/
+l
+ls
+cler
+clear
+cd ../
+ls
+nano ./.bashrc
+clear
+ls -a
+ls -a -l .bashrc 
+cler
+clear
+cd Programming/
+ls
+cd VitalDocz/
+ls
+clear
+cd /var/www/
+ls
+mkdir vitaldocz
+clera
+clear
+ls -a
+cd  ../
+ll
+clear
+cd www/
+ls
+sudo mkdir vitaldocz
+ls
+cd vitaldocz/
+ls
+clear
+cd ~/Programming/
+ls
+cd VitalDocz/
+ls
+cd st
+cd ../statsUpdater/
+ls
+ls -a
+clear
+cd ../
+rm -r statsUpdater/
+ls
+cd StatsUpdater/
+ls
+ls -a
+clear
+cd ../
+rm -r StatsUpdater/
+ls
+cd VitalDocz/
+ls
+cd blog/
+ls
+nano requirements.txt 
+clear
+ls -l
+nano TODO.md 
+clear
+git log
+clear
+ls
+clear
+cd /var/www/vitaldocz/
+ls
+clear
+mkdir blog
+clear
+cd ../
+ls
+ls -l
+sudo chown sarthak:sarthak vitaldocz/
+ll
+cd vitaldocz/
+ls
+mkdir blog
+ls
+sudo nano /etc/hosts
+clear
+cd /etc/apache2/sites-available/
+ls
+ll
+clear
+ls
+sudo cp sports.newsbytesapp.test.conf blog.vitaldocz.test.conf
+nano blog.vitaldocz.test.conf 
+sudo nano blog.vitaldocz.test.conf 
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo service apache2 restart
+clear
+curl http://blog.vitaldocz.com
+curl http://blog.vitaldocz.test
+ping
+clear
+ping blog.vitaldocz.test
+ls
+clear
+ls
+nano 000-default.conf.save 
+clear
+ip
+ip address
+curl 127.0.0.1
+ifconfig
+iconfig
+clear
+ls
+d
+cd
+clear
+cd /var/www/vitaldocz/
+ls
+cd blog/
+ls
+clear
+cd ~/Programming/VitalDocz/blog/
+ls
+ls -a -l
+cler
+clear
+ls -A -l
+nano sb
+nano db_setting.sql 
+nano installer.sh 
+ls
+cd static_cdn/
+ls
+ls -a
+clear
+git status
+cd ../
+ls -a
+clear
+git status
+git log
+clear
+git status
+clear
+ls -a
+clear
+nano /var/www/vitaldocz/blog/todo.md
+clear
+ls
+nano TODO.md 
+clear
+cd media_cdn/
+ls
+ls -a
+cler
+clear
+cd ../s
+cd ../static_cdn/
+ls
+clear
+cd ../
+rm -r media_cdn/ static_cdn/
+ls
+cd src/
+ls
+cd home/
+ls
+find __pycache__/
+clear
+l
+sudo nano tests.py 
+clear
+ls
+cd ../
+sl;
+clear
+ls -a 
+sudo nano installer.sh 
+ll -a
+ll -A
+ll --help
+ckear
+clear
+ls -A -L
+nano .git
+nano .gitignore 
+cp .gitignore /var/www/vitaldocz/blog/
+cd /var/www/vitaldocz/blog/
+ls 
+ls -a
+ll
+chmod 644 .gitignore 
+ls
+ls -a
+clear
+nano .gitignore 
+clear
+nano ~/Programming/VitalDocz/blog/installer.sh 
+clear
+python -m virtualenv venv
+clear
+ls 
+cd venv/
+;s
+ls
+cd bin/
+ls
+clear
+cd .../../
+cd ../../
+rm -r venv/
+ls
+clear
+python -m virtualenv venv
+cd venv/
+ls
+cd ../
+source venv/bin/activate
+ls
+clear
+pip install django
+django-admin --version
+clear
+django-admin createproject src
+django-admin startproject src
+ls
+cd src/
+ls
+mv src/ blog
+ls
+cd blog/
+ls
+clear
+cd ../
+ls
+nano manage.py 
+clear
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+curl http://blog.vitaldocz.com
+curl http://blog.vitaldocz.test
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+curl http://blog.vitaldocz.test
+clear
+sudo service apache2 restart
+clear
+ls
+cd ../
+s
+ls
+cd ../
+ls
+cd blog/
+ls
+cd src/
+ls
+cd blog/
+ls
+nano wsgi.py 
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+cd ../../
+ls
+cd venv/
+ls
+cd bin/
+ls
+ls -a
+ll
+clear
+cd ../
+ls
+cd include/
+ls
+cd ../
+cd lib/
+ls
+cd python3.6/
+ls
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+sudo service apache2 restart 
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+cd 
+ls -a
+cd /etc/log
+ls -a
+cd /etc/apache2/
+ls
+sudo nano ports.conf 
+clear
+ls
+cd ../
+ls
+vd /var/log/
+;s
+cd /var/log/
+ls
+cd apache2/
+ls
+clear
+ls
+nano vitaldocz_blog_access.log 
+nano vitaldocz_blog_error.log 
+sudo apt remove libapache2-mod-python libapache2-mod-wsgi
+sudo apt install libapache2-mod-wsgi-py3
+clear
+sudo service apache2 restart 
+nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+cd /var/www/vitaldocz/blog/
+ls
+cd src/
+ls
+cd blog/
+ls
+nano wsgi.py 
+cd ../
+nano
+ls
+cd blog/
+ls
+sudo nano settings.py 
+clear
+nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+cd ../
+ls
+cd ../
+ls
+rm -r src/
+ls
+clear
+django-admin startproject blog
+ls
+mv blog/ src/
+ls
+clear
+nano /var/log/apache2/vitaldocz_blog_error.log 
+cd src/
+ls
+cd blog/
+ls
+nano wsgi.py 
+ls
+nano settings.py 
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+pip install
+clear
+ls
+sudo nano urls.py 
+clear
+python -c 'import sys; print(sys.prefix)'
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+sudo service apache2 restart 
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+sudo service apache2 restart
+sudo su root
+clear
+ls
+nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+ls
+cd ../
+ls
+rm -r venv/
+python -m venv
+python -m venv venv/
+sudo apt install python3-venv
+ls
+cd venv/
+l
+ls
+cd lib
+ls
+cd python3.6/
+ls
+clear
+cd site-packages/
+ls
+clear
+cd ../../../
+clear
+cd ../
+ls
+clear
+django-admin
+clear
+whereis django
+clear
+find django
+find django-admin
+whereis django-admin
+clear
+pip install django
+clear
+rm -r venv/
+ls
+clear
+python3 -m venv
+ls 
+python3 -m venv venv
+ls
+sudo apt update
+clear
+ls
+rm -r venv/
+ls
+clear
+ls
+pyvenv
+sudo apt install python3-venv
+sudo apt update --fix-missing
+sudo apt install --fix-missing
+lcear
+clear
+sudo aptitude install python3-venv
+clear
+python -m virtualenv venv
+ls
+clear
+deactivate
+clear
+source venv/bin/activate
+clear
+ls
+pip install django
+ls
+clear
+ls
+cd src/
+ls
+cd blog/
+ls
+cd ../
+python manage.py runserver
+clear
+cd blog/
+ls
+nano settings.py 
+python manage.py runserver
+python ../manage.py runserver
+python ../manage.py runserver -s
+python ../manage.py runserver --settings
+python ../manage.py runserver --settings DEBUG=False
+clear
+ls -a
+clear
+sudo nano /var/log/apache2/vitaldocz_blog_
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+cd ../../
+mv src/ blog
+ls
+cd blog/
+python manage.py runserver
+clear
+ls
+clear
+cd ..
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+clear
+sudo service apache2 restart 
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+ls
+clear
+cd ../
+cd blog/
+ls
+clear
+rm -r blog/ venv/
+clear
+python3 -m virtualenv venv
+clear
+deactivate 
+source venv/bin/activate
+clear
+ls
+sudo nanooopooopopopopopopopopopopopopopopopopopopooppopopopopopopopopopo
+clear
+sudosu
+clear
+sudoku
+clear sl
+sl
+sls
+c;ear
+clear
+sl; apt
+clear
+ls
+pip freeze
+clear
+pip install django
+clear
+ls
+django-admin startproject blog
+ls
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+ls
+sudo nano /etc/apache2/sites-enabled/blog.vitaldocz.test.conf 
+sudo apt-get remove libapache2-mod-python libapache2-mod-wsgi
+sudo apt-get remove libapache2-mod-wsgi-py3
+sudo apt-get upgrade libapache2-mod-wsgi-py3
+sudo a2enmod wsgi
+sudo a2enmod
+clear
+apache2 --version
+apache2 -V
+clear
+sudo apt-get remove libapache2-mod-wsgi-py3
+pip install mod_wsgi
+mod_wsgi-express module-config
+LoadModule wsgi_module "/var/www/vitaldocz/blog/venv/lib/python3.6/site-packages/mod_wsgi/server/mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so"
+WSGIPythonHome "/var/www/vitaldocz/blog/venv"
+clear
+sudo nano /etc/apache2/
+cd /etc/apache2/
+ls
+sudo nano apache2.conf 
+sudo service apache2 restart
+sudo nano /var/log/apache2/vitaldocz_blog_error.log 
+clear
+sudo service apache2 restart
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo nano apache2.conf 
+ls
+cd mods-enabled/
+ls
+cd ../
+;
+ls
+cd mods-available/
+ls
+clear
+cd ../mods-enabled/
+ls
+clear
+ls
+cd ../
+ls
+sudo nano apache2.conf 
+nano mods-available/wsgi.load 
+nano mods-available/wsgi.conf 
+nano mods-available/wsgi.load 
+sudo nano apache2.conf 
+clear
+sudo service apache2 restart 
+sudo a2enmod wsgi 
+sudo service apache2 restart 
+systemctl status apache2.service
+clera
+clear
+sudo a2dismod wsgi
+clear
+sudo service apache2 start 
+LoadModule wsgi_module "/var/www/vitaldocz/blog/venv/lib/python3.6/site-packages/mod_wsgi/server/mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so"
+WSGIPythonHome "/var/www/vitaldocz/blog/venv"
+cd /var/www/vitaldocz/blog/
+ls
+cd venv/lib/python3.6/site-packages/mod_wsgi
+ls
+cd server/
+ls
+./mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so 
+nano mod_wsgi-py36.cpython-36m-x86_64-linux-gnu.so 
+nano environ.py 
+clear
+cd ../../../../../
+cd ../
+ls
+clear
+pip freeze
+clear
+pip freeze
+clear
+sudo apt install libapache2-mod-wsgi-py3
+clear
+sudo service apache2 restart 
+Apache/2.4.27 (Ubuntu) Server at blog.vitaldocz.test Port 80
+Apache/2.4.27
+clear
+torrent
+rtorrent
+clear
+gunjan i love you from the bottom of my heart
+clear
+eit
+exit
+systemctl reboot --firmware-setup
+reboot
+iwconfig
+exit
+iwconfig
+watch
+watch -n 
+watch -n 5 free -m
+show-memory
+clear
+sudo nano ./.bashrc
+clear
+show-memory
+exit
+show-memory
+clear
+nano ./.bashrc 
+clear
+exit
+ls
+cd Downloads/
+ls
+clear
+cd /tmp/
+ls
+sudo mv mozilla_sarthak0/firefox-67.0.1.tar.bz2 ~/
+ls
+sudo rm -r mozilla_sarthak0/
+clear
+cd
+ls
+clear
+ls
+clear
+tar xvjf firefox-67.0.1.tar.bz2 
+clear
+ls
+cd firefox/
+ls
+claer
+clear
+rm -r firefox
+ls
+cd ../
+rm -r firefox
+ls
+clear
+tar xvjf firefox-67.0.1.tar.bz2 
+ls
+rm firefox-67.0.1.tar.bz2 
+sudo rm firefox-67.0.1.tar.bz2 
+ls
+cd firefox/
+ls
+clear
+./updater
+updater
+clear
+ls
+cd browser/
+;s
+ls
+clear
+ls
+cd chrome/
+ls
+cd ../../
+ls
+xdg-open ./updater
+xdg-open firefox
+clear
+./firefox
+exit
+ls
+cd /
+ls
+cd bin/
+ls
+celar
+clear
+ls
+cd ../
+;s
+ls
+cd etc/
+ls
+cd firefox/
+ls
+cd pref/
+ls
+clear
+sudo apt install firefox
+clear
+sudo apt update
+cd ../../../
+cd opt/
+ls
+celar
+clear
+cd ../
+ls
+cd opt/
+ls
+cd
+ls
+sudo mv firefox/ /opt/
+ls
+cd /opt/
+ls
+sudo mv /usr/bin/firefox /usr/bin/firefox-old
+cd firefox/
+ls
+clear
+sudo ln -s /opt/firefox/firefox /usr/bin/firefox
+exit
+pycharm 
+clear
+exit
+cd /var/www/newsbytes/
+ls
+cd CricketPlayerDataScrapper/
+ls
+cd scraper/crawlData/
+ls
+cd nepal/
+ls
+nano crawled_list.json 
+cclear
+clear
+ls
+clear
+exit
+cd ../CricketPlayerDataScrapper/
+ls
+exit
+deactivate
+clear
+python3 -m pip install --upgrade pip
+pip install --upgrade pip
+clear
+pip install jupyter
+clear
+jupyter notebook
+sudo apt install jupyter-core
+clear
+pip freeze
+pip uninstall django
+clear
+whereis jupyter
+pip freeze
+jupyter 
+exit

@@ -1,0 +1,34 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="776" y="227" />
+    <location key="jetbrains.nodejs.interpreters-dialog.0.0.1920.1080" x="713" y="280" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="472" />
+    <location key="#Docker.0.0.1920.1080" x="584" y="214" />
+    <location key="#nodeStarter/Dockerfile.0.0.1920.1080" x="716" y="120" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="726" y="392" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1080" x="689" y="247" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="663" y="246" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="667" y="358" />
+    <location key="#HTTP_Proxy.0.0.1920.1080" x="743" y="286" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="571" y="210" />
+    <location key="SettingsEditor.0.0.1920.1080" x="467" y="199" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="451" y="210" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="445" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="484" />
+    <size key="jetbrains.nodejs.interpreters-dialog.0.0.1920.1080" width="550" height="377" />
+    <size key="#Docker.0.0.1920.1080" width="800" height="677" />
+    <size key="#nodeStarter/Dockerfile.0.0.1920.1080" width="545" height="865" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="892" height="154" />
+    <size key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1080" width="598" height="611" />
+    <size key="RollbackChangesDialog.0.0.1920.1080" width="650" height="613" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="703" height="390" />
+    <size key="#HTTP_Proxy.0.0.1920.1080" width="469" height="532" />
+    <size key="#Browse_Repositories.0.0.1920.1080" width="824" height="684" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1042" height="706" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="214" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1830" height="277" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1830" height="277" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1830" height="277" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1830" height="277" />
+  </component>
+</application>

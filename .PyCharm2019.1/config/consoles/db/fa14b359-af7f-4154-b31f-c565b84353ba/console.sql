@@ -1,0 +1,10 @@
+# SELECT DISTINCT name, id FROM players GROUP BY name;
+# SELECT count(*), name, id, country_id FROM players GROUP BY name, country_id HAVING count(*) > 1;
+# SELECT count(*), name, id, country_id FROM players GROUP BY LEFT(name, locate(' ', name )) HAVING count(*) > 1;
+# SELECT DISTINCT name, id, country_id FROM players GROUP BY LEFT(name, locate(' ', name )), country_id HAVING count(*) > 1;
+# SELECT count(*), country_id FROM players GROUP BY country_id;
+# SELECT * FROM players GROUP BY LEFT(' ', name), country_id HAVING count(*) > 1;
+# SELECT players1.* FROM players AS players1 JOIN (SELECT * FROM players GROUP BY LEFT(' ', name), country_id HAVING count(*) > 1) as players2 ON players1.name LIKE "%players2.name%";
+SELECT * FROM players WHERE name IN (SELECT name FROM players WHERE id<1921) ORDER BY name ASC;
+SELECT count(*), name FROM players WHERE name IN (SELECT name FROM players WHERE id<1921) GROUP BY name HAVING count(*) > 1 ORDER BY country_id ASC;
+SELECT count(*), image, id, name FROM players GROUP BY image HAVING count(*) > 1;

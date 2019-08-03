@@ -1,0 +1,5 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/home/sarthak/Programming/CricketPlayerDataScrapper/venv/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so = 1.147 1558091912000
+/home/sarthak/Programming/CricketPlayerDataScrapper/venv/lib/python3.6/site-packages/lxml/builder.cpython-36m-x86_64-linux-gnu.so = 1.147 1557746349000

@@ -1,0 +1,7 @@
+print 'lo' in 'Hello World'
+-. . -..- - / . -. - .-. -.--
+print ('lo' in 'Hello World')
+-. . -..- - / . -. - .-. -.--
+exit
+-. . -..- - / . -. - .-. -.--
+exit()

@@ -1,0 +1,1000 @@
+sudo apt update
+pt list --upgradable
+apt list --upgradable
+sudo apt upgrade
+clear
+ls -a
+clear
+ls -l
+clear
+cd storage/
+ls
+cd logs/
+ls
+ls -l
+clear
+ls -l
+clear
+cd ../../
+ls
+clear
+ls -l
+clear
+cd storage/
+l
+cd b
+cd framework/
+ls
+clear
+ls
+clear
+ls -l
+clear
+ls -l
+clear
+cd ../../
+ls
+nano composer.json 
+clear
+ls
+clear
+sudo su root
+clear
+ls -l
+clear
+sudo nano webpack.mix.js 
+clear
+cd app/Http/Controllers/
+ls
+cd Auth/
+ls
+cd ../
+ls
+clear
+vi Controller.php 
+vi *
+clear
+ls
+clear
+vi FullScoreCardController.php 
+vi LiveScoreCardWidgetController.php 
+vi ScheduleController.php 
+clear
+cd ../../
+ls
+cd ../
+ls
+clear
+git sta
+git status 
+clear
+git status
+clear
+grep -c ^processor /proc/cpuinfo
+show-memory 
+clear
+ls
+clear
+lss /proc/
+ls /proc/
+nano /proc/cpuinfo 
+clear
+redis-cli
+clear
+sudo nano ~/.bashrc
+exec bash
+l
+clear
+sudo nano ~/.bashrc
+clear
+exec bash
+clear
+ls -a
+clear
+python -m http.server /
+python -m http.server 8088
+clear
+ls
+clear
+python http.server
+python -m http.server
+clear
+grep -r "dd(" ./app/
+clear
+git status
+clear
+git status
+clear
+php artisan cache:clear
+clear
+git add .
+git status
+clear
+git commit
+clear
+git status
+clear
+git status
+clear
+git commit
+clear
+git log
+git push origin master
+clear
+git status
+clear
+git status
+clear
+git log
+clear
+git log
+clear
+git log
+clear
+git status
+clear
+git diff
+git log
+git show --pretty="" --name-only 0e3df1c3efc67065defc800d1b131f597f392e50 
+git show --name-only 0e3df1c3efc67065defc800d1b131f597f392e50 
+git show 0e3df1c3efc67065defc800d1b131f597f392e50 
+clear
+git show 0e3df1c3efc67065defc800d1b131f597f392e50 --name-only
+clear
+git show  0e3df1c3efc67065defc800d1b131f597f392e50 --name-only
+git show  0e3df1c3efc67065defc800d1b131f597f392e50 --name-only -r
+clear
+cd app/Services/
+ls
+clear
+vi ApiHandlerService.php 
+clear
+ls -a
+clear
+tail ApiHandlerService.php 
+clear
+cat ApiHandlerService.php 
+clear
+git status
+clear
+git diff
+clear
+git status
+git diff CacheService.php
+git diff ResponseProcessorService.php
+git diff DBHandlerService.php
+clear
+git diff DBHandlerService.php
+clear
+git add ApiHandlerService.php 
+git commit
+clear
+git commit --ammend
+git commit --amend
+clear
+git log
+git status
+git push -f origin master
+git diff
+clear
+git add .
+git commit -amend --no-edit
+git commit --amend --no-edit
+git push -f origin master
+celar
+clear
+git add .
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+cd ../../
+ls
+clear
+git add .
+git status
+clear
+git commit --amend --no-edit
+clear
+git status
+clear
+git push -f origin master
+git status
+clear
+ls -al
+cd storage/
+ls
+cd logs/
+ls
+sudo nano laravel-2019-06-20.log 
+clear
+cd ../../
+ls
+clear
+sudo nano composer.json 
+clear
+git status
+clear
+git log
+cd .git/
+ls
+cd H
+nano HEAD 
+cd refs/heads/
+ls
+nano master 
+clear
+d ../
+ls
+cd ../
+ls
+cd remotes/
+ls
+cd origin/
+ls
+nano master 
+clear
+ls -a
+cd ../
+ls
+cd ../
+ls
+cd heads/
+;s
+ls
+clear
+ls
+cd ../../
+ls
+nano COMMIT_EDITMSG 
+cd branches/
+;s
+ls
+ls -a
+clear
+cd ../
+ls
+cd hooks/
+;s
+ls
+nano pre-applypatch.sample 
+clear
+cd ../../
+ls
+clear
+git status
+clear
+git commit -a --amend --no-edit
+git status
+clear
+git push -f origin master
+clear
+git diff
+clear
+git diff
+clear
+git commit -a --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+sudo apt update
+apt list --upgradable
+sudo apt upgrade
+clear
+sudo apt autoremove
+clear
+clear
+git status
+git remove app/Jobs/Jobs.php
+git add -remove app/Jobs/Jobs.php 
+git reset app/Jobs/Jobs.php 
+clear
+ls
+clear
+git status
+clear
+php artisan make:job Job
+clear
+mv ~/Downloads/CricketStatsCalculation.php ./
+ls
+clear
+mv CricketStatsCalculation.php app/Services/
+ls
+ls app/Services/
+clear
+git staut
+git status
+clear
+cd app/Services/
+ls
+mv CricketStatsCalculation.php ../Jobs/
+ls
+cd ../Jobs/
+ls
+clear
+git status
+clear
+cd ../
+ls
+cd ../
+ls
+celar
+clear
+git status
+clear
+ls 
+clera
+ls -l
+clear
+cd app/Jobs/
+ls
+nano Job.php 
+clear
+git status
+clear
+git pull
+clear
+git status
+clear
+git pull
+clear
+exit
+grep -r "competitiongroup.home" .
+clear
+grep -r "cricket/ipl" .
+sudo nano storage/framework/views/2bdefbd2be86b7300fc4c6b1a4682cd07d545c60.php 
+clear
+ls -a
+clear
+php artisan cache:clear
+php artisan schedule:run
+clear
+php artisan lit
+clear
+laravel 
+show-memory 
+grep -r "newsService" .
+clear
+sudo nano /etc/hosts
+clear
+sudo nano /etc/hosts
+sudo service apache2 restart 
+clear
+sudo nano /etc/hosts
+clear
+sudo service apache2 restart
+show-memory 
+clear
+show-memory 
+lcear
+clear
+show-memory 
+clear
+ls
+clear
+git status
+clear
+custody
+celar
+clear
+show-memory
+show-memory 
+php artisan schedule:run
+npm run dev
+clear
+git status
+clear
+git stash list
+git stash --help
+git stash drop 0
+git stash list
+clear
+ls
+clear
+exit
+python3 translate.py 
+source venv/bin/activate
+clear
+python translate.py 
+python3 translate.py 
+gnome-open ./
+python3 translate.py 
+curl https://google.com
+curl https://www.google.com
+clear
+cd ../translator/
+ls
+clear
+source venv/bin/activate
+ls
+clear
+python translate.py 
+ls
+cd jsons/
+ls
+clear
+ls -l  | wc -l
+l
+clear
+cd ../
+python translate.py 
+clear
+cd jsons/
+ls -l | wc -l
+clear
+cd ../
+clear
+xdg-open translate.py 
+clear
+exit
+clear
+ls -l
+cler
+clear
+ls -l -alF
+clear
+gnome-opne
+gnome-opnen
+gnome-open
+sudo apt install libgnome2-bin
+clear
+sudo apt update
+clear
+python game.py 
+clear
+cd /var/www/newsbytes/stats-updater
+ls
+clear
+git status
+clear
+sudo apt update
+clear
+las
+clear
+gnome
+clear
+cd ../translator/
+clear
+sudo nano ~/.bashrc
+clear
+$DIR
+$PATH
+clear
+$PWD
+clear
+cd ../translator/
+clear
+ls
+activate-env
+clear
+sudo nano ~/.bashrc
+clear
+activate-env 
+clear
+sudo nano ~/.bashrc
+clear
+nano ~/.bashrc 
+clear
+exir
+exit
+cd ../translator/
+activate-env 
+clear
+deactivate
+clear
+cd ../stats-updater
+clear
+ls
+composer dump-autoload
+php artisan cache:clear
+clear
+php artisan optimize:clear
+composer dump-autoload
+clear
+ls -a
+clear
+sudo nano .env
+vi .env
+clear
+ls -la
+clear
+php artisan serve
+clear
+cd ../CPP
+ls
+nano filter_name_matches_on_full_name.py 
+ls
+nano filter.py 
+clear
+ls
+cd ../
+clear
+ls
+cd stats-updater
+clear
+php artisan tinker
+clear
+sudo nano ~/.bashrc 
+clear
+vi ~/.bash_aliases
+clear
+vi ~/.bash_aliases
+clear
+activate-env 
+clear
+show-memory 
+clear
+ls
+clear
+l
+clear
+activate-env 
+clear
+sudo nano ~/.bash_aliases 
+vi ~/.bash_aliases 
+clear
+exec bash
+activate-env 
+clear
+activate-env ../translator/venv/
+clear
+activate-env "../translator/venv/"
+clear
+vi ~/.bash_aliases 
+clear
+exec bash
+clear
+suod
+clear
+suod
+clear
+ls
+clear
+ls
+grep -r "$match" .
+clear
+grep -r "$match" app/
+clear
+grep -r "$match" app/Services/
+clear
+grep -r "match" app/Services/
+clear
+ls -l | wc -l
+clear
+wc -l
+ls -l | wc
+clear
+php artisan tinker
+clear
+composer
+composer validate
+$COMPOSER_HOME
+clear
+echo $COMPOSER_HOME
+clear
+ls -al | wc -al
+ls -al | wc -l
+clear
+ls -l
+clear
+ls -a
+clear
+ls -a | wc -l
+clear
+ls -l
+clear
+ls -a
+clear
+ls -l
+clear
+sudo chown
+clear
+grep
+clear
+cd /etc/
+ls
+vi environment 
+clear
+ls -l
+clear
+ls -l
+vi vtrgb 
+clear
+cd ../var/www/newsbytes/stats-updater
+ls
+clear
+ls -l
+clear
+ls -l
+clear
+sudo su root
+clear
+clear this shit
+clear
+proc
+sl
+ls
+clea
+clear
+l
+la
+ls -laF
+cd vendor
+ls
+cd ../
+ls
+clear
+//use App\Models\Country;
+//use App\Models\ParticipantPlayer;
+use App\Models\ParticipantPlayerCapped;
+use App\Models\Player;
+clear
+sudo nano /etc/hosts
+clear
+stop
+clear
+cat /proc/sys/kernel/hostname
+clear
+composer dump-autoload
+clear
+show-memory 
+clear
+show-memory 
+clear
+sudo su root this shot
+clear
+xdg-settings 
+clear
+xdg-openq
+clean
+clear
+bash exec
+clear
+vi ~/.bash_aliases 
+clear
+bash exec
+clear
+exec bash
+clear
+restart-bash
+clearr
+clear
+vi ~/.bash_aliases 
+clear
+exec bash
+restart-bash 
+redis-cli 
+clear
+show-memory 
+clear
+php artisan tinker
+clear
+show-memory 
+clear
+show-memory 
+clear
+cd ../CPP
+grep -r "findall" .
+php artisan tinker
+cd ../stats-updater
+clear
+php artisan tinker
+clear
+ls -l
+clear
+tail .env
+clear
+tail accesstoken.txt 
+tail public/accesstoken.txt 
+clear
+tail public/accesstoken.txt 
+php artisan tinker
+clear
+stats-updaaaaaaaaaaater
+clear
+init app
+clear
+init
+init --help
+halt --help
+clear
+show-memory 
+clear
+show-memory m
+clear
+ls -a
+clear
+ls
+clear
+git status
+clear
+git status
+git log -2
+git log
+clear
+git diff
+clear
+vi
+clear
+sudo apt install vim
+clear
+sudo apt update
+clea
+clear
+show-memory 
+lcear
+clear
+git status
+clear
+git status
+clear
+grep -r "formatDate" ./app/
+clear
+grep -r "formatDate" .
+clear
+scp
+clear
+scp --help
+scp -h
+clear
+ssh
+ssh 192.168.0.100
+ssh 192.168.0.101
+ssh http://192.168.0.101
+ssh ftp://192.168.0.101
+ssh 192.168.0.101
+clear
+git diff app/Services/DBHandlerService.php
+clear
+ls
+clear
+sudo nano package.json 
+clear
+show-memory 
+clear
+show-memory
+clear
+sync; echo 1 > /proc/sys/vm/drop_caches
+sudo sync; echo 1 > /proc/sys/vm/drop_caches
+sudo su
+clear
+show-memory 
+clear
+show-memory 
+clear
+show-memory 
+clear
+exit
+show-memory 
+clear
+exit
+show-memory 
+sudo apt update
+sudo apt upgrade
+exit
+show-memory 
+clear
+exit
+show-memory 
+clear
+activate-env ../translator/
+activate-env ../translator/venv
+deactivate
+clear
+vi ~/.bash_aliases 
+restart-bash 
+clear
+activate-env ../translator
+deactivate 
+clear
+vi ~/.bash_aliases 
+restart-bash 
+clear
+activate-env ../translator venv
+activate-env ../translator ./venv
+vi ~/.bash_aliases 
+activate-env
+vi ~/.bash_aliases 
+clear
+restart-bash 
+show-memory 
+clear
+exit
+show-memory 
+clear
+php artisan clear-compiled
+show-memory 
+clear
+show-memory 
+vi ~/.bash_aliases 
+nano ~/.bash_aliases 
+vi ~/.bash_aliases 
+restart-bash 
+ping 192.168.100.32
+curl 192.168.100.32
+clear
+exit
+clear
+ls -l
+vi /etc/host
+vi /etc/hosts
+clear
+ls
+cd sftwrs_src_bld/
+ls
+d re
+cd redis-src/
+ls
+cd redis-5.0.5/
+ls
+ls -a
+cd src/
+ls
+nano adlist.
+nano adlist.c
+nano redis-cli
+xdg-open redis-cli
+nano redis-cli.c 
+nano redis-cli.o
+cd 
+ls
+clear
+cd IDE/
+ls
+ls -a
+cd Phpstorm/
+ls
+ls -a
+cd bin/
+ls
+nano log.xml 
+clear
+exit
+show-memory 
+exit
+show-memory 
+clear
+exit
+clear
+xdg-open ../translator/translate.py 
+clear
+git status
+git add app/Http/Controllers/
+git status
+git add app/Http/Controllers/
+git status
+git add app/Models/
+git status 
+git app/Services/ApiHandlerService.php app/Services/CacheService.php app/Services/DBHandlerService.php app/Services/ResponseProcessorService.php
+git add app/Services/ApiHandlerService.php app/Services/CacheService.php app/Services/DBHandlerService.php app/Services/ResponseProcessorService.php
+git status
+clear
+git commit
+git push origin master
+clear
+grep -r "dd(" .
+grep -r "dd(" ./app/
+grep -r "dd(" ./app/Http/
+grep -r "dd(" ./app/Services/
+clear
+git status
+git add app/Http/Controllers/FullScoreCardController.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+git status
+git add app/Models/PlayerStats.php app/Models/ParticipantPlayerCapped.php app/Services/DBHandlerService.php 
+git status
+git commit --amend --no-edit
+git push origin master
+git push -f origin master
+clear
+git add app/Services/DBHandlerService.php 
+git commit --amend --no-edit
+git push -f origin master
+git status
+git diff
+clear
+git diff
+clear
+git log
+clear
+git remote show origin
+git stash list
+clear
+git status 
+cd app/Jobs/
+git status 
+cd ../../
+clear
+git remote show origin
+git log -2
+git log
+grep -r "//" ./app/Http/
+grep -r "//" ./app/Http/Controllers/
+clear
+git diff
+clear
+git status
+git add app/Http/Controllers/
+git status
+git add app/Services/DBHandlerService.php 
+git commit --amend --no-edit 
+git status
+git push -f origin master
+clear
+git status
+clear
+git status
+git add app/Services/CacheService.php 
+git commit --amend --no-edit
+clear
+git push -f origin master
+clear
+git status
+clear
+git log
+clear
+git status
+clear
+git status -uno
+clear
+git status --help
+git status -unormal
+clear
+git status -uno
+git status -u
+clear
+git status -u
+git status -uno
+clear
+show-memory 
+exit
+clear
+clear
+vi ~/.karen.sh 
+clear
+restart-bash 
+show-memory 
+clear
+show-memory 
+clear
+exit
+git status  -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git diff app/Http/Controllers/LiveScoreCardWidgetController.php
+git diff
+clear
+git add app/Http/Controllers/LiveScoreCardWidgetController.php app/Http/Controllers/FullScoreCardController.php app/Services/DBHandlerService.php 
+git status
+clear
+git commit --amend --no-edit 
+git push -f origin master
+clear
+git status -uno
+git status -u
+git status shit
+git status 
+git status -u
+clear
+sudo su shoot
+clear
+sudo apt --help
+apt
+apt update --help
+clear
+ls -l
+sudo nano routes
+clear
+vi routes/web.php 
+clear
+vim this-shit-sucks
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on bitchnithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on!
+clear
+exit

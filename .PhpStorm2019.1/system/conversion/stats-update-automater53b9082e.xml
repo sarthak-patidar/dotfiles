@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/dataSources.local.xml" timestamp="1559626063000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/dataSources.xml" timestamp="1559625930000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/dataSources/aaf95998-e0a4-4f2b-a9e7-6edfd26c1aab.xml" timestamp="1559625929000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/dictionaries/sarthak.xml" timestamp="1559991213000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/misc.xml" timestamp="1559717626000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/modules.xml" timestamp="1559717626000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/php.xml" timestamp="1559831287000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/stats-update-automater.iml" timestamp="1559831287000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/vcs.xml" timestamp="1559558476000" />
+    <file path="/var/www/newsbytes/stats-update-automater/.idea/workspace.xml" timestamp="1560597339000" />
+  </project-files>
+</conversion>
+

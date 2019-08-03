@@ -1,0 +1,1000 @@
+clear
+redis-cli 
+exit
+clear
+cd ../../
+clear
+ll
+ls storage/
+clear
+ls -a
+clear
+nano .editorconfig 
+clear
+redis-cli
+clear
+php artisan config:cache
+clear
+php artisan cache:clear
+ls
+clear
+php artisan
+php artisan config:clear
+redis-cli
+clear
+redclear
+clear
+redis-cli
+clear
+redis
+redis-server
+redis-server --port=6380
+redis-server 6380
+cd /etc/redis
+ls
+cp redis.conf redis-6380.conf
+sudo cp redis.conf redis-6380.conf
+sudo nano redis-6380.conf 
+clear
+cd
+redis-server 6380
+clear
+cd /etc/redis
+la
+ls
+clear
+mv redis.conf redis_6379.conf
+sudo mv redis.conf redis_6379.conf
+ls
+sudo mv redis-6380.conf.conf redis_6380.conf
+sudo mv redis-6380.conf redis_6380.conf
+ls
+clear
+sudo service redis restart
+redis-server 6380
+clear
+ls
+sudo mv redis_6379.conf redis.conf
+ls
+sudo rm redis_6380.conf 
+clear
+sudo service redis restart
+redis-cli
+redis-cli 6379
+redis-cli --port=6379
+clear
+redis-server
+clear
+redis-cli monitor
+clear
+redis-cli
+cler
+clear
+redis-cli
+redis-cli monitor
+cleaer
+clear
+redis-cli monitor
+clear
+redis-cli
+clear
+git diff
+clear
+git diff modules/DbHandler/Http/Controllers/DbHandlerController.php
+clear
+git diff modules/DbHandler/Http/Controllers/DbHandlerController.php
+clear
+sudo su root
+lear
+clear
+redis-cli
+c
+clear
+ls -a
+clear
+git status
+clear
+git diff
+git status
+clear
+lllllllllllllllllllllllllll
+clear
+ls -a
+clear
+cd database/
+ls
+la
+clear
+ls
+cd seeds/
+ls
+nano DatabaseSeeder.php 
+clear
+ks
+clear
+sl
+clear
+sudo apt install sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl --help
+clear
+l
+cd ../../
+ls
+clear
+cd tests/
+ls
+nano TestCase.php 
+php TestCase.php 
+clear
+sl
+redis-cli -u redis://127.0.0.1:6379 ping
+redis-cli -u redis://127.0.0.1:6380 ping
+redis-cli KEYS *
+redis-cli KEYS '*'
+redis-check-rdb
+redis-check-aof
+redis-cli FLUSHALL
+clear
+git status
+cler
+clear
+_of_month
+clear
+$this->_month
+clear
+$this
+ls
+clear
+$this->is
+$this.is
+clear
+this
+thin
+clear
+redis-cli keys '*'
+redis-cli FLUSHALL
+composer dump-autoload
+clear
+php artisan cache:clear
+clear
+git clear
+git clean --help
+clear
+redis-cli FLUSHALL
+clear
+rm ~/Downloads/f.txt 
+composer dump-autoload
+clear
+ls
+clear
+php artisan clear:cache
+sudo chmod 755 -r storage/
+sudo chmod 755 -R storage/
+clear
+la
+ll
+cd storage/
+ll
+cd logs/
+ls
+ll
+clear
+sudo chmod 777 *
+ll
+clear
+php ../../artisan cache:clear
+clear
+cd ../../
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+exit
+redis-cli
+clear
+exit
+php artisan tinker
+clear
+exit
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+composer require longman/multi-lang
+composer require longman/laravel-multilang
+composer dump-autoload
+php artisan vendor:publish --provider="Longman\LaravelMultiLang\MultiLangServiceProvider"
+clear
+php artisan
+cd ../../
+clear
+php artisan
+clear
+crontab -e
+sudo /etc/init.d/cron 
+exit
+crontab -e
+sudo /etc/init.d/cron
+clear
+php artisan make:command scorecard:live:build
+php artisan make:command scorecard:full:update
+php artisan 
+php artisan make:command --help
+php artisan make:command BuildLiveScoreCard
+php artisan make:command UpdateFullScoreCard
+php artisan
+clear
+php artisan
+clear
+cd app/Http/Controllers/
+ls
+sudo mv Controller.php ScheduleController.php
+ls
+celar
+clear
+ls
+clear
+php artisan schedule:run
+php artisan
+clear
+php artisan schedule:run
+composer dump-autoload
+clear
+php artisan
+php artisan schedule:run
+php artisan sports:schedule:update
+clear
+ls
+clear
+cd storage/logs/
+ls
+nano laravel-2019-06-07.log 
+clear
+cd ../../
+clear
+php artisan
+clear
+php artisan schedule:run
+clear
+php artisan sports:schedule:update
+clear
+php artisan schedule:update
+php artisan schedule:run
+php artisan
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+crontab -e
+clear
+su root
+clear
+sl
+clear
+php artisan
+php artisan schedule:run
+clear
+php artisan cache:clear
+php artisan
+php artisan queue:listen
+clear
+grep "dd(" *
+grep -r "dd(" *
+clear
+cd app/
+grep -r "dd(" *
+clear
+git status
+cd ../
+clear
+git add
+git status
+clear
+git add .
+git status
+git log
+clear
+php artisan queue:listen default
+clear
+php artisan queue:listen default
+clear
+php artisan queue:listen
+clear
+ls -a
+clear
+ll
+clear
+php artisan schedule:run
+php artisan cache:clear
+php artisan schedule:run
+clear
+ls
+clear
+php artisan list
+crontab -e
+clear
+sudo /etc/init.d/cron 
+clear
+crontab
+crontab -e
+sudo /etc/init.d/cron
+clear
+ls
+cler
+clear
+redis-cli
+clear
+redis-cli
+clear
+redis-cli monitor
+clear
+php artisan cache:clear
+clear
+ls
+clear
+cd storage/
+ll
+cd framework/
+ll
+clear
+ll
+dc sessions/
+ls
+ll
+cd sessions/
+ll
+clear
+cd ../../../
+sudo chmod 777 -R storage/
+clear
+redis-cli monitor
+clear
+redis-cli monitor
+clear
+redis-cli monitor
+clear
+sudo
+clear
+s
+sl
+//                yaar bhenchod kaam krna mood nhi he
+clear
+ls -a
+clear
+sl
+clear
+redis-cli montior
+redis-cli monitor
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+redis-cli
+clear
+redis-cli 
+clear
+redis-cli
+clear
+php artisan make:command UpdateSchedule schedule:update
+sudo chmod 777 -R storage/
+clea
+clea
+php artisan make:command UpdateSchedule schedule:update
+php artisan make:command UpdateSchedule --command=schedule:update
+php artisan
+hp artisan
+php artisan
+php artisan cache:clear
+clear
+redis-cli
+cd Programming/CricketPlayerDataScrapper/
+ls
+source venv/bin/activate
+clear
+ls
+clear
+cd scraper/scraper/
+ls
+clear
+ls
+sudo nano spiders/cricketbot.py 
+clear
+ls
+cd ../
+ls
+cd crawlData/
+ls
+sudo nano countries.py 
+sudo nano players.json 
+cd ../scraper/spiders/
+nano cricketbot.py 
+clear
+cd ../../crawlData/
+ls
+nano ../../scraper/scraper/spiders/cricketbot.py 
+clear
+cd ../
+cd scraper/
+clear
+scrapy crawl cricketbot
+clear
+ls
+nano pipelines.py 
+clear
+ls
+clear
+rm -r __pycache__/
+rm -r spiders/__pycache__/
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+git status
+clear
+git diff
+clear
+git status
+git diff spiders/__init__.py
+clear
+git diff settings.py
+clear
+git status
+clear
+la
+nano db_meta.py 
+clear
+rm -r db_meta.py 
+ls
+git diff
+git status
+clear
+cd ../crawlData/
+;s
+ls
+cd canada/
+ls
+cd players/
+ls
+cd ../
+rm -r player
+rm -r players/
+clear
+ls
+cd ../
+ls
+cd usa/
+ls
+clear
+cd ../
+ls
+clear
+ls
+cd ../scraper/spiders/
+nano cricketbot.py 
+clear
+cd ../
+clear
+scrapy crawl cricketbot
+clear
+nano spiders/cricketbot.py 
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+ls -a
+clear
+deactivate
+clear
+ls 
+cd spiders/
+ls
+cd cr
+nano __init__.py 
+clear
+cd ../../../
+ls
+cd bs4_crawler/
+ls
+nano scrapper.py 
+clear
+ls =a
+ls a-
+clear
+ls -- -a
+ls -a
+clear
+cd ../
+ls
+nano requirements.txt 
+ls
+cd ../
+ls
+cd node
+cd nodeStarter/q
+cd nodeStarter/
+ls
+cd  ../
+sudo chmod 755 -R nodeStarter
+clear
+ls
+cd node
+cd nodeStarter/
+ls
+sudo chmod 755 -r controllers/ test/
+sudo chmod 755 -R controllers/ test/
+ls
+cd ../
+ls
+sudo chmod 755 -R VitalDocz/ reactStarter/
+clear
+ls
+cd VitalDocz/
+ls
+la
+ls -a -l
+clear
+cd ../reactStarter/
+;s
+ls -a -l
+clear
+cd ../
+ls
+mv CricketPlayerDataScrapper/ /var/www/newsbytes/
+ls
+cd /var/www/newsbytes/
+ls
+clear
+exit
+git status
+clear
+git add
+clear
+git add .
+clear
+git status
+clear
+git commit
+clear
+git status
+clear
+git remote add origin https://github.com/sarthak-patidar/stats-updater.git
+git remote origin
+git remote get-url
+clear
+git remote --get-url origin
+clear
+git remote show origin
+clear
+git push -u origin master
+clear
+ls
+clear
+git status
+clear
+git log
+clear
+git show
+clear
+/dev
+cd /dev/
+ls
+ll
+clear
+cd net/
+ls
+cd t
+cd tun
+clear
+/tun
+clear
+./tun
+clear
+ls
+nano tun 
+clear
+cd ../../
+cd
+cd /
+ls
+clear
+ls
+cd b
+cd bin/
+ls
+cd ../
+ls
+clear
+ls
+cd data/
+ls
+cd db/
+ls
+cd diagnostic.data/
+ls
+cd ../journal/
+ls
+clear
+cd ../../
+ls
+cd ../
+clear
+ls
+cd dev/
+ls
+cd cpu/
+ls
+cd ../../
+ls
+clear
+ls
+cd mnt/
+ls
+cd ../opt/
+ls
+cd google/
+ls
+cd chrome/
+ls
+cd cron/
+;s
+ls
+./google-chrome 
+nano google-chrome 
+clear
+ls
+cd ../../../
+cd ../home/
+ls
+clear
+cd
+ls
+clear
+cd b
+vault -u sarthak -p
+claer
+clear
+cd /var/www/newsbytes/stats-update-automater/
+ls
+clear
+nano accesstoken.txt 
+clear
+ls -a
+clear
+nano composer.lock 
+clear
+ls -a
+ll -a
+nano .styleci.yml 
+clear
+ls -a -l
+cd routes/
+ls
+nano channels.php 
+clear
+git commit --help
+clear
+cd ../
+mkdir Jobs
+clear
+ls
+mv Jobs/ app/Jobs
+ls
+cd app/
+ls
+cd Jobs/
+ls
+ls -a
+clear
+ls -A
+clear
+show-hidden
+clear
+git statu
+git status
+clear
+php artisan queue:table
+cd ../../
+php artisan queue:table
+php artisan migrate
+clear
+php artisan make:job TestJob
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+php artisan cache:clear
+clear
+php artisan queue:work
+sudo chmod 777 -R storage/*
+claer
+clear
+ls
+clear
+sudo chown www-data:www-data storage/ -R
+ls
+ls -a
+ls -l
+cd storage/
+ls
+ll
+lear
+cd
+cd /var/www/newsbytes/stats-update-automater/
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+ls
+php artisan 
+clear
+ls -a -l
+ls -A -l
+./artisan
+claer
+artisan
+clear
+./artisan 
+./artisan schedule:run
+clear
+php artisan make:job
+php artisan make:job BuildLiveScoreCard
+clear
+ls
+clear
+php artisan queue:work
+clear
+php artisan
+php artisan cache:clear
+php artisan queue:work
+clear
+ls
+rm -r
+clear
+sudo su root
+clear
+sd
+clear
+sl
+clear
+ls
+clear
+php arisan queue:failed-jobs
+php artisan queue:failed-jobs
+php artisan queue:failed-table
+clear
+php artisan migrate
+clear
+php artisan queue:work
+clear
+mkdir -a
+clear
+mkdir -- -test
+ls
+cd -test/
+celar
+clear
+cd -- -test/
+ls
+clear
+cd ../
+rm -r -- -test/
+clear
+ls
+cd tests/
+ls
+nano TestCase.php 
+nano CreatesApplication.php 
+clear
+exit
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan cache:clear
+clear
+php artisan queue:work
+clear
+php artisan schedule:run
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan
+php artisan queue:failed
+clear
+php artisan queue:listen
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:clear
+php artisan
+php artisan queue:forget
+clear
+php artisan
+php artisan queue:failed
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan queue:listen
+clear
+php artisan queue:failed
+php artisan queue:flush
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+php artisan queue:flush
+php artisan queue:listen
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clea
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+cler
+clear
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan
+php artisan queue:restart
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+ls
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+php artisan queue:flush
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:flush
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+php artisan queue:work
+clear
+cler
+clear
+php artisan queue:flush
+php artisan queue:work
+ckear
+clear
+exit

@@ -1,0 +1,118 @@
+css_parser.pycss_match.py__meta__.pycss_types.py
+util.pyCOPYING.txt
+LICENSEMETADATA	INSTALLER
+AUTHORS	RECORDtop_level.txtWHEEL__init__.py_lxml.py_html5lib.py_htmlparser.pytest_htmlparser.py__init__.pytest_tree.pytest_lxml.pytest_html5lib.pytest_builder_registry.pytest_docs.pydiagnose.py	dammit.py__init__.pyformatter.py
+testing.py
+builder
+element.pytestssoupsieve-1.9.2.dist-info	soupsieve!beautifulsoup4-4.8.0.dist-infobs4test_soup.py
+greenlet.hgreenlet	python3.6
+LICENSEMETADATA	INSTALLER
+AUTHORS	RECORDtop_level.txtWHEELMETADATA	INSTALLER	RECORDtop_level.txtWHEELMETADATA	INSTALLERDESCRIPTION.rst	RECORDtop_level.txtmetadata.jsonWHEELpylib.py__init__.pypsycopg2_patcher.pystacklesss.pystacklesspypys.pygreendns.pygreenlets.py__init__.py
+base.py	py3.py	py2.py__init__.py	ttypes.pyconstants.py__init__.py
+zipkinCoregreenthread.py
+http.py__init__.py
+patcher.py	api.py	client.py
+_thrift
+wsgi.py	log.py__init__.py	SSL.py
+version.py	crypto.pytsafe.pyparse.py__init__.py
+request.pyerror.pyresponse.py__init__.py	server.py	client.pycookiejar.py
+cookies.py
+MySQLdb.py	zmq.pyhttp
+builtin.pyasyncore.pyasynchat.pyCGIHTTPServer.py	ftplib.py
+OpenSSLBaseHTTPServer.pysubprocess.pySocketServer.py
+urllib2.py
+profile.py	ssl.py
+time.py	socket.py__init__.pythreading.pyQueue.py_socket_nodns.py	urllib	thread.pyselectors.py	select.pyos.pySimpleHTTPServer.py
+httplib.py
+poll.py__init__.py
+pyevent.py
+selects.pytimer.py	hub.py	epolls.py	kqueue.py
+patcher.py
+db_pool.py
+support
+dagpool.pyhubspools.py
+timeout.py
+wsgi.py	zipkingreendebug.pywebsocket.pygreenthread.py__init__.pytpool.pycorolocal.pyconvenience.pybackdoor.pysemaphore.pyqueue.pyevent.pycoros.pygreenpool.py
+greenio	X25.py	LOC.py	DNSKEY.py
+CERT.pyOPENPGPKEY.pyDNAME.pyCNAME.pyAFSDB.py	CAA.py	TXT.py	HIP.pyDS.py	SOA.py
+CDNSKEY.py
+ISDN.py	SPF.pyNS.pyNSEC3PARAM.py	PTR.pyRT.py__init__.py	CDS.py	URI.py
+TLSA.py
+GPOS.pyHINFO.pyEUI48.pyRP.py	AVC.py	DLV.pyMX.py
+NSEC.pySSHFP.pyEUI64.pyCSYNC.pyRRSIG.pyNSEC3.pyIPSECKEY.pyPX.py__init__.pyDHCID.py	APL.py	SRV.pyA.pyNAPTR.py
+AAAA.py	WKS.pyKX.py
+NSAP.pyNSAP_PTR.py__init__.pyA.py__init__.pyANYdnskeybase.py	nsbase.py
+euibase.py	dsbase.py
+txtbase.py	mxbase.pyINCHtokenizer.py
+tsig.py
+hash.py	opcode.py
+_compat.py
+node.pyflags.py
+edns.py
+name.pywiredata.pypy.typedtsigkeyring.py
+message.pyrdatatype.py__init__.py	update.py
+entropy.py	grange.pyrrset.pyquery.pyreversename.py
+version.py	set.py
+ipv4.py
+zone.py
+ipv6.pyrdata.pyrcode.pyrdataset.py	ttl.py	dnssec.py
+inet.pyexception.py
+e164.pyrdataclass.pyrenderer.pyresolver.pynamedict.py
+rdtypesMETADATA	INSTALLERDESCRIPTION.rst	RECORDLICENSE.txttop_level.txtmetadata.jsonWHEEL
+LICENSEMETADATA	INSTALLER	RECORDtop_level.txtWHEELsite+(greenlet.cpython-36m-x86_64-linux-gnu.soeventlet-0.25.0.dist-infogreenlet-0.4.15.dist-infomonotonic-1.5.dist-infoeventletdnsmonotonic.pydnspython-1.16.0.dist-info	six.pysix-1.12.0.dist-info__main__.py-1046095393_decimal.py_ctypes_test.pyresource.py_sqlite3.py
+_ssl.py_codecs_jp.py_testimportmultiple.pyreadline.py
+_bz2.py	nis.py_multibytecodec.py_lzma.py_codecs_kr.py
+_lsprof.py
+_csv.py_testcapi.pyossaudiodev.py_testmultiphase.py	_crypt.py
+_dbm.py_codecs_cn.py_codecs_iso2022.pyxxlimited.py_json.py_multiprocessing.py_testbuffer.py_asyncio.py
+_ctypes.py
+_opcode.py_codecs_tw.py	parser.py
+_curses.py_curses_panel.py
+termios.py
+audioop.py_hashlib.py
+mmap.py_codecs_hk.py_gdbm.py	duplicityrdiffdir
+_sha256.py
+_ast.py	_io.py
+_pickle.py_sha3.py_functools.py
+_blake2.py_operator.py	_heapq.py
+_sha512.py
+_codecs.py
+_bisect.py_elementtree.py
+_random.py_datetime.py_collections.py
+_signal.py_sha1.py
+_locale.py
+_md5.py_posixsubprocess.py
+_imp.py
+marshal.pyfaulthandler.py_symtable.py_warnings.pyposix.py
+_string.pygreenlet.py
+_thread.pygc.py	grp.py
+_socket.pybuiltins.pyitertools.py
+zlib.pyxxsubtype.pybinascii.py	sys.py	atexit.py
+time.pyfcntl.py
+spwd.pyarray.py_stat.pycmath.py
+_struct.py
+math.pyunicodedata.py	pwd.py	syslog.py
+_sre.py_weakref.pyerrno.py	select.py_tracemalloc.py
+pyexpat.pyzipimport.py
+core.pypackage_data.py	compat.py__init__.pyuts46data.pyintranges.pycodec.pyidnadata.py
+core.py__init__.py
+cacert.pem__main__.py__init__.pychardetect.pylanghebrewmodel.py	compat.pychardistribution.pyutf8prober.pyuniversaldetector.pycodingstatemachine.pylangcyrillicmodel.pyeuckrprober.pymbcsgroupprober.pyeuctwfreq.pyescsm.pybig5freq.pycharsetprober.pylangthaimodel.pyeucjpprober.pysbcharsetprober.pylanggreekmodel.pylangturkishmodel.pylanghungarianmodel.pysjisprober.pybig5prober.pyescprober.pycli__init__.pycharsetgroupprober.pyeuctwprober.py	mbcssm.pylatin1prober.pycp949prober.pyhebrewprober.py
+version.pylangbulgarianmodel.pymbcharsetprober.py	jpcntx.pyeuckrfreq.pygb2312prober.pyenums.py
+jisfreq.pygb2312freq.pysbcsgroupprober.pyMETADATA	INSTALLER	RECORDLICENSE.txttop_level.txtWHEEL
+LICENSEMETADATA	INSTALLER	RECORDtop_level.txtWHEELMETADATA	INSTALLERDESCRIPTION.rst	RECORDtop_level.txtentry_points.txtmetadata.jsonWHEELstructures.py	compat.py__init__.py	api.py
+auth.py	models.py__version__.pyhooks.pyutils.py
+help.pystatus_codes.pypackages.pysessions.py
+cookies.py_internal_utils.pyexceptions.pyadapters.pycerts.py__init__.py_implementation.py__init__.pymakefile.py	compat.py__init__.py
+misc.py	api.pynormalizers.py	uri.py
+builder.py	iri.pyparseresult.pyabnf_regexp.py	_mixin.pyexceptions.pyvalidators.pyssl_match_hostname__init__.py
+rfc3986	backports	six.py__init__.pylow_level.pybindings.pyappengine.pypyopenssl.pysecuretransport.py__init__.pysocks.py_appengine_environ.pyntlmpool.py_securetransport__init__.py
+request.py
+wait.pyresponse.py
+timeout.py	url.pyretry.py
+ssl_.pyconnection.pyqueue.py__init__.py
+request.pyfilepost.pyconnectionpool.pyutilpoolmanager.pyconnection.py
+contribpackagesresponse.py	fields.pyexceptions.py_collections.pyMETADATA	INSTALLERDESCRIPTION.rst	RECORDLICENSE.txttop_level.txtmetadata.jsonWHEELLICENSE.rstMETADATA	INSTALLER	RECORDtop_level.txtWHEEL
+chardetectidna
+certifi
+chardeturllib3-1.25.3.dist-inforequests-2.22.0.dist-infochardet-3.0.4.dist-inforequests
+urllib3certifi-2019.6.16.dist-infoidna-2.8.dist-inforequirements.txtCOMMIT_EDITMSG

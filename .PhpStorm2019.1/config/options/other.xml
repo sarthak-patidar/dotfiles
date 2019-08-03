@@ -1,0 +1,31 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.609396" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;todo&#10;project" />
+    <property name="erlang.last.update.timestamp" value="1559029636972" />
+    <property name="evlsprt3.181" value="12" />
+    <property name="evlsprt3.191" value="10" />
+    <property name="file.chooser.recent.files" value="/var/www/newsbytes/stats-updater-jobs&#10;/var/www/newsbytes/translator&#10;/var/www/newsbytes/sports&#10;/var/www/newsbytes/stats-updater&#10;/var/www/newsbytes/stats-update-automater/app/Http/Controllers&#10;/var/www/newsbytes/stats-update-automater&#10;/var/www/html/stats-updater&#10;/var/www/html/stats-updater-copy&#10;/home/sarthak/Programming/CricketPlayerDataScrapper/scraper/crawlData/countries.py&#10;/home/sarthak/Programming/StatsUpdater&#10;/home/sarthak/Programming" />
+    <property name="file.gist.reindex.count" value="80836" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="lastTip" value="1" />
+    <property name="log.file.format.editor.notification.disabled" value="true" />
+    <property name="settings.code.style.selected.tab.Derby" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>

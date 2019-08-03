@@ -1,0 +1,55 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="776" y="209" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="472" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="657" y="375" />
+    <location key="SettingsEditor.0.0.1920.1080" x="589" y="263" />
+    <location key="NewPhpFileDialog.0.0.1920.1080" x="789" y="473" />
+    <location key="NewPhpClassDialog.0.0.1920.1080" x="740" y="361" />
+    <location key="#HTTP_Proxy.0.0.1920.1080" x="754" y="287" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="467" y="210" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="676" y="289" />
+    <location key="IDE.errors.dialog.0.0.1920.1080" x="558" y="288" />
+    <location key="ComposerInitDialogKey.0.0.1920.1080" x="768" y="468" />
+    <location key="run.anything.popup.0.0.1920.1080" x="657" y="253" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="656" y="257" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="718" y="385" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="768" y="271" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="726" y="392" />
+    <location key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.0.0.1920.1080" x="726" y="310" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="1153" y="358" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="521" y="272" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="726" y="301" />
+    <location key="com.intellij.database.view.ui.DbObjectDialog.0.0.1920.1080" x="854" y="335" />
+    <location key="#Composer.0.0.1920.1080" x="588" y="214" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="734" y="451" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="529" y="124" />
+    <location key="#PHP.0.0.1920.1080" x="679" y="146" />
+    <location key="#Log_Highlighting_(ideolog).0.0.1920.1080" x="555" y="215" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="521" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1064" height="714" />
+    <size key="NewPhpFileDialog.0.0.1920.1080" width="399" height="159" />
+    <size key="NewPhpClassDialog.0.0.1920.1080" width="705" height="383" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="268" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="268" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="268" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="268" />
+    <size key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" width="624" height="526" />
+    <size key="ComposerInitDialogKey.0.0.1920.1080" width="440" height="175" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="160" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="540" height="335" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="441" height="562" />
+    <size key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog.0.0.1920.1080" width="524" height="484" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="685" height="390" />
+    <size key="run.anything.popup.0.0.1920.1080" width="672" height="677" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" width="934" height="561" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" width="524" height="502" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="800" height="677" />
+    <size key="com.intellij.database.view.ui.DbObjectDialog.0.0.1920.1080" width="269" height="434" />
+    <size key="#Composer.0.0.1920.1080" width="800" height="677" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="919" height="856" />
+    <size key="#PHP.0.0.1920.1080" width="619" height="813" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" width="519" height="210" />
+    <size key="#Log_Highlighting_(ideolog).0.0.1920.1080" width="800" height="684" />
+  </component>
+</application>

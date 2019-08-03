@@ -1,0 +1,1000 @@
+clear
+exit
+show-memory 
+uname 0
+uname -r
+clear
+uname -x
+uname --help
+uname -s -n
+uname -s
+uname -n
+uname -v
+uname -m
+uname -p
+uname -i
+uname -o
+clear
+cd Programming/PythonProjects/
+ls
+clear
+cd battleship/
+ls
+clear
+ls
+ls -a
+clear
+git status
+clear
+git remote show origin
+git pull
+git branch -a
+lear
+clear
+git branch refactoring
+git checkout refactoring s
+git checkout refactoring
+clear
+git status
+clear
+python game.py 
+clear
+sudo su root
+clear
+ls -la
+sudo rm -r __pycache__/
+clear
+vi .gitignore 
+pip freeze
+clear
+activate-env 
+ls
+clear
+ls
+vi tile.py 
+clear
+git status
+clear
+git diff
+clear
+vi tile.py 
+touch globals.py
+clear
+vi globals.py 
+git branch -a
+clear
+vi globals.py 
+clear
+exit
+last
+clear
+bluetoothctl
+clear
+bluetoothctl
+clear
+ls -la
+vi ~/.bashrc 
+clear
+vi ~/.bash_aliases 
+clear
+vi ~/.bashrc 
+clear
+restart-bash 
+vi ~/.bashrc 
+clear
+restart-bash 
+karen on
+vi ~/.bashrc 
+restart-bash 
+vi ~/.bashrc 
+restart-bash 
+clear
+karen
+clear
+karen on
+clear
+vi ~/.bashrc
+restart-bash 
+karen on
+karen = on
+karen on
+vi ~/.bashrc 
+vi ~/.bash_aliases 
+vi ~/.bashrc 
+restart-bash 
+karen
+clear
+karen on
+clear
+vi ~/.bashrc
+restart-bash 
+karen on
+vi ~/.bashrc
+restart-bash 
+karen off
+vi ~/.bashrc
+clear
+restart-bash 
+karen off
+restart-bash 
+exec restart-bash 
+clear
+vi ~/.bashrc
+restart-bash 
+karen off
+karen on
+clear
+vi ~/.bashrc
+vi ~/.bash_aliases 
+vi ~/.bashrc
+clear
+restart-bash 
+karen on
+karen off
+clear
+vi ~/.bashrc
+vi ~/.karen.sh 
+cler
+clear
+restart-bash 
+karen on
+karen off
+vi ~/.bashrc 
+restart-bash 
+clear
+systemd-analyze
+systemd-tmpfiles 
+systemd-tmpfiles --help
+systemd-tmpfiles --remove
+sudo 'systemd-tmpfiles --remove
+sudo systemd-tmpfiles --remove
+clear
+systemd-tmpfiles --remove
+sudo
+clear
+sudo last
+sudo systemd-tmpfiles --remove
+clear
+sudo su root
+clear
+python
+clearrrrrrr
+clear
+exit
+cd Programming/
+ls
+cd jupyter_notes/
+ls
+cd translator/
+ls
+exit
+show-memory 
+exit
+last
+sys --help]
+sync --help
+uname -r
+clear
+uname -r
+cd .cache/
+ls
+cd wallpaper/
+ls
+xdg-open 0_5_1920_1080_396690af830e2290ebea4eaa21042bf3 
+cd ../../
+cler
+clear
+ls
+xdg-open HWH-KGP-26-07-2019.pdf 
+rm NDLS-INDB-13-07-2019.pdf 
+cd snap/
+ls
+cd gnome-system-monitor/
+ls
+cd common/
+ls
+ls -a
+cd .cache/
+ls -a
+cd ~
+clear
+cd
+ls
+xdg-open examples.desktop 
+clear
+ls -a
+vi .selected_editor 
+cler
+clear
+ls -la
+clear
+ls -a
+ls -l
+clear
+vi startups.py 
+clear
+ls -l
+ls -la
+clear
+ll
+clear
+ls -l
+xdg-open kgp.jpg 
+clear
+xdg-open lotus_temple.jpg 
+ls -l
+sudo rm startups.py 
+clear
+ls -l
+cd sauvik/
+ls
+cd docs/
+ls
+xdg-open tshirt\ delivery\ reciept.pdf 
+xdg-open ww\ domain\ hit\ report.pdf 
+cd ../
+rm -r docs/
+ls
+clear
+ls
+rm -r election\ images/
+cd jayesh\ itr/
+ls
+cd ../
+rm -r jayesh\ itr/
+clear
+ls -la
+cd Leaders\ Profile/
+ls
+xdg-open Hema-Malini.png 
+cd ../
+rm -r Leaders\ Profile/
+ls
+clear
+ls -a
+cd romesh\ pd\ bkp/
+ls
+cd CoHo/
+ls
+cd ../
+vi QuerySource.txt 
+cd ../
+clear
+ls -l
+clear
+rm -r romesh\ pd\ bkp/
+ls
+cd brahmastra-server/
+ls
+clear
+ls
+cd ../
+clear
+mv brahmastra-server/ ~/Programming/brahmastra-serverl
+ls
+ls -la
+clear
+cd ../
+rm -r sauvik/
+cd Programming/
+ls
+cd brahmastra-server/
+;s
+ls
+vi requirements/
+cd requirements/
+ls
+vi local.txt 
+vi test.txt 
+vi production.txt 
+clear
+vi base.txt 
+clear
+cd ../
+ls
+cd config/
+ls
+cd ur
+vi urls.py 
+vi wsgi.py 
+cd settings/
+ls
+vi production.py 
+ls
+vi ../../.env 
+clear
+cd ../../
+ls
+cd ../
+ls
+cd brahmastra-server/storage/
+ls
+cd cache/
+ls
+ls -a
+cd ../
+ls
+cd pages/
+ls
+vi wwwbikedekhocomhondashinespecifications.json 
+clear
+cd ../
+ls
+cd savedModels/
+l
+ls
+clear
+ls
+cd u00000-bnlg-1549366396/
+;s
+l
+vi rules.json 
+vi text.csv 
+vi memory.csv 
+vi u00000-bnlg-1549366396-map.json 
+cd ~!
+cd
+clear
+lds
+ls
+cd /var/www/newsbytes/
+ls
+cd CPP/
+ls
+cd ../
+ls
+rm newsbytes_sports_prod.sql 
+rm player_api_ids.sql 
+cd translator/
+ls
+clear
+jupyter
+ls
+cd ../
+ls
+cd ../
+ls
+cd ~/Programming/
+ls
+cd jupyter_notes/
+ls
+vi Untitled.ipynb 
+activate-env 
+clear
+jupyter
+jupyter-notebook 
+clear
+ls
+rm Untitled.ipynb 
+ls
+clear
+ls -la
+vi .ipynb_checkpoints/
+cd .ipynb_checkpoints/
+ls
+vi Untitled-checkpoint.ipynb 
+cd ../
+rm .ipynb_checkpoints/
+rm - .ipynb_checkpoints/
+rm -r .ipynb_checkpoints/
+clear
+deactivate 
+cd ../
+ls
+clear
+mv /var/www/newsbytes/translator/ jupyter_notes/
+cd jupyter_notes/
+ls
+cd translator/
+ls
+clear
+cd ../
+activate-env 
+clear
+jupyter-notebook
+deactivate 
+cd translator/
+ls
+clear
+activate-env 
+jupyter-notebook
+clear
+pip freeze
+deactivate 
+cd ../a
+activate-env 
+jupyter-notebook
+deactivate 
+cd ../
+activate-env 
+jupyter-notebook 
+clear
+deactivate 
+clear
+cd ../
+clear
+exit
+last
+last 1
+clear
+last 3
+clear
+last --help
+last 5
+last -5
+last -2
+clear
+last -2
+clear
+uname -a -r 
+uname -a
+clear
+git
+clear
+git log
+clear
+cd Programming/
+git log
+clear
+git status
+clear
+sudo su root
+clear
+cd PythonProjects/battleship/
+ls
+clear
+rm -r __pycache__/
+ls
+clear
+git log
+clear
+git log
+git branch -a
+git checkout master 
+git status
+git stash 
+clear
+git checkout master 
+git branch -a
+git status
+git log -3
+git checkout refactoring 
+git stash list
+git log -2
+git diff bf0611b66ddfafa53825d40a9e9f2d9c39e8f42d
+git --help
+git show
+clear
+git show
+clear
+git log -3
+python game.py 
+clear
+exit
+cd Programming/PythonProjects/codevita/
+ls
+clear
+ls
+activate-env 
+pip freeze
+deactivate 
+clear
+ls -la
+clear
+ls
+vi bottles.py 
+vi cars.py 
+clear
+vi cars.py 
+clear
+cd ../battleship/
+ls ../
+clear
+ls
+sudo rm -r __pycache__/
+ls -la
+clear
+./game.py
+clear
+ls -la
+sudo chmod 755 game.py 
+ls -la
+./game.py 
+vi game.py 
+clear
+git status
+clear
+git diff game.py
+clear
+git stash list
+git stash pop
+git branch -a
+clear
+git reset HEAD game.py
+clear
+git stash pop
+git status
+git diff game.py
+sudo chmod 644 game.py 
+git statys
+git status
+clear
+git stash pop
+clear
+git status
+sudo chmod 755 game.py 
+./game.py 
+clear
+git status 
+git diff game.py
+git stash 
+clear
+git stash  list
+git checkout master 
+git status 
+clear
+git log -3
+git --help
+grep -r "hasShip" ./
+git grep -r "hasShip" ./
+grep -r "hasShip" ./
+clear
+git branch -a
+git checkout refactoring 
+git stash list
+git stash pop
+clear
+git status -uno
+clear
+grep -r "hasShip" ./
+grep -r "hasShip" ./ --exclude=./.idea/
+grep -r "hasShip" ./ --exclude="./.idea/"
+clear
+git status
+git status -uno
+git log -10
+clear
+git checkout master
+git stash 
+clear
+git checkout master
+git status -uno
+clear
+git status -uno
+git log
+git checkout refactoring 
+git log -3
+git remote show origin
+cd ../../jupyter_notes/translator/jsons/
+ls
+vi 146.json
+clear
+cd ../../
+cd ../
+clear
+exit
+cd ../../jupyter_notes/
+ls
+activate-env 
+jupyter-notebook 
+exit
+ip addr show
+192.168.15.11
+cd ~/Downloads/
+xdg-open zinda_MTV_Unplugged_S04_-_Season_04_-_Episode__\(_720_X_1280_\).mp4 
+clear
+ls
+mv CLion-2019.1.4.tar.gz ~/IDE/
+cd ~/IDE/
+ls
+clear
+ls
+vi ~/.bash_aliases 
+clear
+tar
+tar --help
+ls
+tar -xf CLion-2019.1.4.tar.gz 
+ls
+cd clion-2019.1.4/
+ls
+cd bin/
+ls
+clear
+cd ../../
+mv clion-2019.1.4/ Clion/
+ls
+cd Clion/
+ls
+clear
+restart-bash 
+cd Documents/
+ls
+tail JetBrainsLicenseKey.txt 
+exit
+ls
+ls -la
+chmod 755 main.cpp 
+ls -la
+clear
+./main.cpp 
+clear
+clion
+exit
+ls
+ls -l
+clear
+cd Programming/CLionProjects/
+la
+ls
+cd test/
+ls
+clear
+ls -la
+chmod 644 main.cpp 
+ls -la
+clear
+cd cmake-build-debug/
+ls
+clear
+ls
+./test 
+vi test
+vi test.cbp 
+vi Makefile 
+clear
+ls
+cd CMakeFiles/
+ls
+cd test.dir/
+ls
+vi main.cpp.o
+clear
+cd ../../../../
+cd ../
+clear
+ls
+mv CLionProjects/ CppProjects
+ls
+cd CppProjects/
+ls
+./test
+clear
+cd test/
+ls
+vi CMakeLists.txt 
+clear
+exit
+sudo apt install duplicity python-gi
+clear
+exit
+ls
+cd Do
+cd Documents/
+ls
+clear
+cd ../
+ls
+cd books/
+ls
+clear
+vi writeups.txt 
+clear
+exit
+cd /var/www/newsbytes/
+ls
+clear
+cd sports
+ls
+clear
+git branch -a
+git log -2
+git status 
+git diff config/api.php
+git log -3
+clear
+git status -uno
+clear
+git stash
+git stash list
+clear
+git diff master origin/master 
+git diff master origin/job-dispatch-switch 
+grep -r "LiveScoreCardBuild" ./
+crontab -e
+sudo service cron restart
+vi .env
+clear
+cd ~/Programming/PythonProjects/battleship/
+git status
+git log -3
+git stash list 
+git stash pop
+git status
+clear
+git status -uno
+clear
+git status 
+git diff board.py
+git add board.py 
+git commit
+git push origin refactoring 
+git status -uno
+git diff utils.py
+git diff ships.py
+git add ships.py 
+git commit
+clear
+git status 
+ls -la
+./game.py 
+clear
+git add .
+git status
+clear
+git commit 
+git push origin refactoring 
+git checkout master 
+git merge --no-ff refactoring 
+git push origin master
+git log -3
+clear
+git log
+clear
+git log -3
+git branch -a
+git branch -d refactoring 
+git status
+clear
+git log -2
+clear
+git pull
+git branch -a
+clear
+git branch origin/refactoring --delete 
+git branch -a
+git branch remotes/origin/refactoring --delete 
+git push origin --delete refactoring
+git branch -a
+clear
+cd ../
+ls
+clear
+battleship/game.py 
+vi battleship/utils.py 
+clear
+battleship/game.py 
+clear
+vi battleship/game.py 
+vi battleship/tile.py 
+clear
+battleship/game.py 
+clear
+git status
+cd battleship/
+git status 
+./game.py 
+vi game.py 
+clear
+./game.py 
+cd /var/www/newsbytes/CricketPlayerDataScrapper/
+grep -r "catch" ./
+clear
+cd scraper/scraper/
+grep -r "catch" ./
+grep -r "catch" 
+ls
+cd spiders/
+ls
+vi statsupdaterbot.py 
+cd ~/Programming/PythonProjects/battleship/
+vi game.py 
+./game.py 
+vi game.py 
+clear
+vi game.py 
+./game.py 
+clear
+vi game.py 
+vi utils.py 
+clear
+./game.py 
+vi game.py 
+clear
+./game.py 
+clear
+vi game.py 
+./game.py 
+clear
+vi game.py 
+./game.py 
+clear
+git status
+clera
+clear
+git stat
+git status 
+git diff tile.py
+clear
+git add tile.py 
+git commit 
+git add .
+git commit
+git push origin master
+git log -3
+clear
+exit
+ftp
+clear
+ftp --help
+ftp -h
+ftp -4 192.168.15.141:19200
+clear
+ftp 192.168.15.141:19200
+ftp ftp://192.168.15.141:19200
+clear
+exit
+redis-cli 
+cleaar
+cler
+clear
+exit
+show-memory 
+clear
+show-memory 
+exit 
+ls /
+touch /man
+clear
+touch /woman
+exit
+php artisan tinker
+clear
+cd /var/www/newsbytes/s
+cd /var/www/newsbytes/sports
+clear
+php artisan tinker
+clear
+cd storage/logs/
+ls
+touch laravel-2019-07-21.log
+ls
+ls -la
+clear
+sudo chmod 777 *
+ls -la
+clear
+cd ../.././
+ls
+clear
+tail -f storage/logs/laravel-2019-07-21.log 
+clear
+exit
+cd /var/www/newsbytes/
+ls
+clear
+cd sports
+ls
+clear
+git branch -a
+git status -uno
+clear
+git stash list
+clear
+git stash pop
+git status -uno
+clear
+git status
+git diff config/api.php
+git log -2
+clear
+git status -uno
+git stash
+touch woman
+ls
+rm woman 
+clear
+cd ../
+ls -la
+sudo chmod 555 sports
+cd sports
+touch wom
+touch woman
+clear
+ls -a
+ls -la
+clear
+tail -f storage/logs/laravel-2019-07-10.log 
+tail storage/logs/laravel-2019-07-10.log 
+clear
+vi storage/logs/laravel-2019-07-10.log 
+php artisan tinker
+clear
+php artisan queue:listen
+clear
+exit
+cd /var/www/newsbytes/sports
+ls
+clear
+git log -3
+ip addr show
+clear
+git log -2
+cd ../
+clear
+cd ../
+mv newsbytes/ paytm-ac
+ls
+cd paytm-ac/
+cd sports
+ls
+clear
+git log -3
+git branch -a
+clear
+git log -3
+git log
+clear
+git log
+clear
+cd ~/Programming/PythonProjects/
+ls
+cd battleship/
+ls
+clear
+git branch -a
+clear
+git log -3
+git log
+clear
+cd ../codevita/
+ls
+clear
+cd ../
+d
+cd
+clear
+exit
+cd Programming/
+ls
+cd PythonProjects/
+mv codevita/ ../jupyter_notes/
+ls
+cd ../jupyter_notes/
+ls
+clear
+cd codevita/
+ld
+ls
+rm bottles.py 
+ls
+clear
+ls
+touch cars.ipynb
+touch char.ipynb
+ls
+clear
+exit
+cd Programming/jupyter_notes/codevita/
+ls
+rm -r venv/
+ls
+clear
+exit
+cd Programming/jupyter_notes/
+;s
+ls
+cd codevita/
+ls
+clear
+ls
+rm cars.ipynb char.ipynb 
+exit
+cd Programming/jupyter_notes/
+activate-env 
+clear
+jupyter-notebook 
+clear
+show-memory 
+clear
+exit

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/www/newsbytes/CPP/.idea/CPP.iml" timestamp="1560161733676" />
+    <file path="/var/www/newsbytes/CPP/.idea/codeStyles/codeStyleConfig.xml" timestamp="1560166168457" />
+    <file path="/var/www/newsbytes/CPP/.idea/dataSources.local.xml" timestamp="1560178188205" />
+    <file path="/var/www/newsbytes/CPP/.idea/dataSources.xml" timestamp="1560177870125" />
+    <file path="/var/www/newsbytes/CPP/.idea/dataSources/ef929caa-93d9-4874-bc4d-c4014f163c4e.xml" timestamp="1560177870329" />
+    <file path="/var/www/newsbytes/CPP/.idea/dictionaries/sarthak.xml" timestamp="1560236623772" />
+    <file path="/var/www/newsbytes/CPP/.idea/inspectionProfiles/Project_Default.xml" timestamp="1560236793112" />
+    <file path="/var/www/newsbytes/CPP/.idea/misc.xml" timestamp="1560148752126" />
+    <file path="/var/www/newsbytes/CPP/.idea/modules.xml" timestamp="1560148752154" />
+    <file path="/var/www/newsbytes/CPP/.idea/other.xml" timestamp="1560161954568" />
+    <file path="/var/www/newsbytes/CPP/.idea/workspace.xml" timestamp="1560599926178" />
+  </project-files>
+</conversion>
+

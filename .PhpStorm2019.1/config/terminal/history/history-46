@@ -1,0 +1,1000 @@
+git diff
+clear
+git log
+clear
+git remote show origin
+git stash list
+clear
+git status 
+cd app/Jobs/
+git status 
+cd ../../
+clear
+git remote show origin
+git log -2
+git log
+grep -r "//" ./app/Http/
+grep -r "//" ./app/Http/Controllers/
+clear
+git diff
+clear
+git status
+git add app/Http/Controllers/
+git status
+git add app/Services/DBHandlerService.php 
+git commit --amend --no-edit 
+git status
+git push -f origin master
+clear
+git status
+clear
+git status
+git add app/Services/CacheService.php 
+git commit --amend --no-edit
+clear
+git push -f origin master
+clear
+git status
+clear
+git log
+clear
+git status
+clear
+git status -uno
+clear
+git status --help
+git status -unormal
+clear
+git status -uno
+git status -u
+clear
+git status -u
+git status -uno
+clear
+show-memory 
+exit
+clear
+clear
+vi ~/.karen.sh 
+clear
+restart-bash 
+show-memory 
+clear
+show-memory 
+clear
+exit
+git status  -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git diff app/Http/Controllers/LiveScoreCardWidgetController.php
+git diff
+clear
+git add app/Http/Controllers/LiveScoreCardWidgetController.php app/Http/Controllers/FullScoreCardController.php app/Services/DBHandlerService.php 
+git status
+clear
+git commit --amend --no-edit 
+git push -f origin master
+clear
+git status -uno
+git status -u
+git status shit
+git status 
+git status -u
+clear
+sudo su shoot
+clear
+sudo apt --help
+apt
+apt update --help
+clear
+ls -l
+sudo nano routes
+clear
+vi routes/web.php 
+clear
+vim this-shit-sucks
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on
+nithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on bitchnithyashree i love you from the bottom of my heart but that was fucking 4 years ago and now i moved on!
+clear
+exit
+git add app/Http/Controllers/FullScoreCardController.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+git status -uno
+git log -2
+git remote show origin
+git stash
+cd ../
+ls
+cd stats-updater-jobs/
+ls
+clear
+cd ../
+ls
+clear
+ls
+mkdir stats-updater-bkp
+cd stats-updater-bkp/
+ls
+clear
+git clone https://github.com/sarthak-patidar/stats-updater.git
+ls
+cd stats-updater/
+ls
+mv * ../
+ls
+ls -a
+mv .* ../
+ls -a
+clear
+cd ../
+ls
+rm -r stats-updater/
+ls
+clear
+ls
+cp ../stats-updater/.env .
+ls
+ls -a
+clear
+touch public/accesstoken.txt
+sudo chmod 777 public/accesstoken.txt 
+ll
+sudo chown www-data:www-data storage/
+ls -l
+cd storage/
+l
+ls -l
+cd ../
+sudo chown www-data:www-data -R storage/
+cd storage/
+ls
+ls -l
+clear
+cd ../
+ls
+clear
+sudo chmod 777 -R storage/
+ls
+cd public/
+l
+sls
+clear
+ls
+clear
+cd ../../
+l
+cd translator/
+ls
+clear
+cd ../stats-updater/
+ls
+clear
+sudo nano package.json 
+vi package.json 
+clear
+vi package.json 
+clear
+show-memory 
+clear
+sync
+clear
+show-memory 
+git status
+clear
+git status -uno
+git diff
+clear
+]
+clear
+git status -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+git log 
+clear
+show-memory 
+git diff
+clear
+git status -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git status
+git add app/Http/Controllers/FullScoreCardController.php app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+git status -uno
+clear
+show-memory 
+clear
+show-memory 
+clear
+git add app/Services/CacheService.php 
+git commit --amend --no-edit 
+git push -f origin master
+clear
+git status -uno
+gti add app/Services/ResponseProcessorService.php 
+git add app/Services/ResponseProcessorService.php 
+git commit --amend --no-edit
+git push -f origin master
+clear
+cd ../stats-updater-bkp/
+git pull origin master
+rm app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php app/Services/CacheService.php app/Http/Controllers/FullScoreCardController.php 
+git pull origin master
+git status
+cd ../
+sudo rm -r stats-updater-bkp/
+mkdir stats-updater-bkp
+clear
+cd stats-updater-bkp/
+ls
+clear
+git clone https://github.com/sarthak-patidar/stats-updater.git .
+ls
+touch public/accesstoken.txt
+sudo chmod 777 public/accesstoken.txt 
+clear
+cp ../stats-updater/.env .
+ls
+clear
+ls -l
+clear
+ls -a
+clear
+sudo chown :www-data -R storage/
+ls
+ls -a
+ls -l
+clear
+sudo chown www-data:www-data -R storage/
+sudo chmod 777 -R storage/
+ls
+clear
+cd ../stats-updater
+ls
+clear
+ls -a
+clear
+show-memory 
+clear
+whereis swapfile
+clear
+find swapfile
+find swapfile /
+find --help
+clear
+locate
+locate swapfile .
+clear
+ifconfig
+iwconfig
+sudo apt install net-tools
+ifconfig
+clear
+iconfig
+sudo apt install ipmiutil
+clear
+ls -a
+clear
+vi phpunit.xml 
+clear
+sudo ror
+clear
+karen
+clear
+$PATH
+cd ~/bin/
+ls
+vi vault 
+clear
+cd /var/www/newsbytes/stats-updater
+ls
+clear
+susu
+clear
+ping 192.168.0.100
+clear
+ls
+vi readme.md 
+clear
+iv
+clear
+show-memory 
+clear
+this shit fills up my memory so quickly
+clear
+exit
+cd ../sports/
+php artisan schedule:run
+clear
+cd ../stats-updater
+clear
+show-memory 
+clear
+clear
+<?php
+namespace App\Services;
+use Carbon\Carbon;
+use Illuminate\Support\Facades\Cache;
+class CacheService
+{     public function updateOrSetDayWiseMatchSchedule($sport_slug, $listOfMatches, $date){
+clear
+show-memory 
+clear
+sudo apt update
+sudo apt update && sudo apt upgrade
+clear
+redis-cli 
+show-memory 
+clear
+show-memory 
+exit
+show-memory 
+clear
+redis-cli 
+clear
+exit
+php artisan queue:listen
+clear
+php artisan queue:listen
+php artisan
+clear
+php artisan queue:work
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+php artisan queue:work
+clear
+php artisan queue:list
+clear
+php artisan queue:list
+clear
+php artisan queue:list
+php artisan queue:listen
+clear
+php artisan queue:listen
+php artisan queue:listen --help
+php artisan queue:listen --queue:ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue:ScoreCardWidgetBuilder
+php artisan queue:listen --help
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+exit
+php artisan queue:listen
+php artisan queue:listen --queue:ScoreCardUpdater
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+exit
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+exit
+show-memory 
+php artisan make:command UpdateSportsSchedule
+php artisan make:job UpdateSportsSchedule
+sudo chmod 777 -R storage/
+clear
+php artisan make:job UpdateSportsSchedule
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+git status -uno
+git add app/Http/Controllers/ app/Services/ApiHandlerService.php 
+git status -uno
+git commit 
+clear
+git status -uno
+clear
+git status
+git push origin master
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+cd app/Jobs/
+ls
+cp Job.php SportsJob/
+ls
+cd SportsJob/
+ls
+clear
+cd ../
+mv SportsJob/ SportsJobs/
+clear
+cd SportsJobs/
+ls
+clear
+cd ../../../
+php artisan schedule:run
+cd app/Jobs/
+mv SportsJobs/ Sports/
+clear
+php artisan schedule:run
+cd ../../
+php artisan schedule:run
+mv app/Jobs/Sports/LiveScoreCardBuildJob.php app/Jobs/Sports/LiveScoreCardBuild.php 
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+show-memory 
+clear
+php artisan schedule:run
+php artisan tinker
+clear
+php artisan schedule:run
+clear
+php artisan tinker
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+claer
+clear
+show-memory 
+clear
+git status
+git add app/Http/Controllers/
+git add app/Jobs/Sports/
+git status
+git add app/Console/
+git status
+git add app/Services/ApiHandlerService.php app/Services/ResponseProcessorService.php app/Services/DBHandlerService.php 
+git commit
+clear
+git log
+clear
+git push origin master
+clear
+ls -a
+clear
+php artisan schedule:run
+crontab -e
+clear
+sudo service cron restart 
+clear
+redis-cli 
+clear
+php artisan schedule:run
+redis-cli 
+clear
+git add app/Jobs/Sports/Job.php 
+git status -uno
+clear
+git commit --amend --no-edit
+clear
+git push -f origin master
+clear
+git log
+clear
+git add .env.example 
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status -uno
+clear
+show-memory 
+clear
+cd  ../sports/
+ls
+clear
+git branch
+git checkout master
+git diff
+git stash
+git status
+git status -uno
+clear
+git branch
+git checkout master
+git branch
+clear
+git pull origin master
+clear
+git log -2
+clear
+git branch
+clear 
+git branch -a
+git pull
+clear
+git branch -a
+git checkout player-career-amp 
+git branch -a
+clear
+git branch master
+git checkout master
+clear
+git branch --help
+git branch stats-automater
+git branch -a
+git checkout stats-automater 
+clear
+vi .env
+clear
+vi .env.example 
+clear
+npm run dev
+clear
+vi .env.example 
+tail .env
+vi .env.example 
+clear
+git status
+clear
+cd app/Services/
+ls
+cd ../
+ls
+cd ../
+cd app/
+ls
+cd Console/
+ls
+clear
+vi Kernel.php 
+clear
+show-
+show-memory 
+clear
+ls
+cd ../../
+clear
+ls
+clear
+cd app/J
+cd app/
+ls
+mkdir Jobs
+clear
+cd ../
+git status -uno
+git status
+clear
+mkdir automater
+clear
+cd ../
+ls
+sudo cp stats-updater sports/automater/
+sudo cp -r stats-updater sports/automater/
+clear
+cd sports/automater/
+ls
+cd stats-updater/
+ls
+cd ../
+rm -r stats-updater/
+sudo rm -r stats-updater/
+clear
+ls
+cd ../../
+cd stats-updater
+clear
+ls
+sudo cp -r app/ ../sports/automater/
+sudo cp -r routes/ ../sports/automater/
+sudo cp -r composer.json/ ../sports/automater/
+sudo cp composer.json/ ../sports/automater/
+sudo cp composer.json ../sports/automater/
+clear
+cd ../sports
+clear
+ls -l
+cd automater/
+ls
+clear
+ls -l
+ls -l ../app/
+clear
+cd ../
+git status
+clear
+cd ../
+cd sports/automater/
+ls
+sudo chmod 775 -R .
+clear
+cd ../
+ls
+ls -l
+cd app/Http/Controllers/
+ls -l
+cd ../../../
+cd automater/
+ls
+cd app/
+ls
+cd ../
+cd routes/
+ls
+ls -l
+cd ../
+ls -l
+cd automater/
+ls
+ls -l
+sudo chown -R sarthak:sarthak .
+ls
+clear
+ls
+cd app/Services/
+ls
+sudo cp * ../../../app/Services/
+ls -l ../../../app/Services/
+sudo chown * sarthak:sarthak ../../../app/Services/
+sudo chown sarthak:sarthak ../../../app/Services/
+clear
+cd ../../
+cd ../app/
+cd Services/
+ls -l
+sudo chown sarthak:sarthak ./*
+ls -l
+clear
+ls ../Models/
+sudo cp ../../automater/app/Models/PlayerApiMap.php ../Models/
+cd ../Models/
+ls
+clear
+ls -l
+ls -l | wc -l
+ls -l ../../automater/app/Models/ | wc -l
+clear
+sudo cp ../../automater/app/Models/SportsStadium.php .
+sudo chown sarthak:sarthak ./*
+ls
+clear
+cd ../../
+cd automater/app/Models/
+grep -r "$fillable" .
+clear
+cd ../
+grep -r "$fillable" ./
+clear
+grep -r "$fillable"
+grep -r "$fillable" Models/
+clear
+cd Models/
+ls 
+ls -l | wc -l
+ls -l ../../../app/Models/ | wc -l
+clear
+ls -l
+clear
+ls
+ls ../../../app/Models/
+clear
+cd ../
+ls
+cd Jobs/
+ls
+cd Sports/
+ls
+sudo cp * ../../../../app/Jobs/Sports/
+clear
+cd ../../
+ls
+clear
+ls
+ls -l
+clear
+cd Http/
+ls
+l
+cd Controllers/
+ls
+sudo cp LiveScoreCardWidgetController.php ../../../../app/Http/Controllers/
+sudo cp ScheduleController.php ../../../../app/Http/Controllers/
+sudo cp FullScoreCardController.php ../../../../app/Http/Controllers/
+clear
+ls
+rm FullScoreCardController.php ScheduleController.php LiveScoreCardWidgetController.php 
+ls
+clear
+vi Controller.php 
+clear
+ls
+clear
+cd ../Middleware/
+ls
+sudo cp CheckResponse.php ../../../../app/Http/Middleware/
+cd ../../../../app/Http/Middleware/
+ls
+ls -l
+sudo chown sarthak:sarthak CheckResponse.php 
+clear
+mv CheckResponse.php ValidateResponse.php
+ls
+clear
+git status
+cd ../../../
+clear
+git status
+clear
+crontab -e
+clear
+sudo service cron restart 
+clear
+redis-cli 
+clear
+ls -l
+sudo chown :www-data -R storage/
+sudo chmod 777 -R storage/
+clear
+php artisan queue:listen --queue=ScoreCardBuilder
+clear
+exit
+php artisan queue:listen --queue=ScheduleUpdater
+exit
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+exit
+php artisan schedule:run
+clear
+git status
+clear
+crontab -e
+clear
+php artisan schedule:run
+clear
+redis-cli 
+clear
+sudo apt install pstfix
+sudo apt install postfix
+clear
+grep CRON /var/log/syslog
+clear
+grep CRON /var/log/syslog
+crontab -e
+clear
+sudo service cron restart 
+clear
+php artisan schedule:run
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+php artisan schedule:run
+claer
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+ls -l
+clear
+git status
+clear
+php artisan schedule:run
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+sudo chown sarthak:sarthak -R app/
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+grep CRON /var/log/syslog
+php artisan view:clear
+cd storage/framework/views/
+ls
+rm -r *
+sudo rm *
+clea
+clear
+ls
+sudo rm *
+ls 
+clear
+cd ../
+ls
+cd cache/
+ls
+cd ../../
+php artisan route:clear
+php ../artisan route:clear
+clear
+grep -r "$fillable" Models/
+clear
+grep CRON /var/log/syslog
+clear
+show-memory 
+clear
+php artisan schedule:run
+php artisantinker
+php artisan tinker
+clear
+exit
+redis-cli 
+clear
+cd resources/views/pages/
+ls
+clear
+grep -r "slugify" .
+grep -r "@t(slugify" .
+grep -r "function slugify" .
+clear
+cd ../../../
+clear
+vi ../stats-updater/app/Http/Controllers/Controller.php 
+clear
+php artisan queue:listen
+clear
+exit

@@ -1,0 +1,539 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Programming/PythonProjects/CG-Accumulator" />
+        <option value="$USER_HOME$/Programming/PythonProjects/battleship" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Programming/PythonProjects/CG-Accumulator" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Programming/PythonProjects/CG-Accumulator" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DjangoProjects/GES">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527854179612" />
+              <option name="buildTimestamp" value="1526389778823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533388715375" />
+              <option name="buildTimestamp" value="1532438188732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/blog-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533391750495" />
+              <option name="buildTimestamp" value="1532438188732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/blog_api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533205471266" />
+              <option name="buildTimestamp" value="1527146106672" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/ges-regportal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528964346406" />
+              <option name="buildTimestamp" value="1526389742784" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/ges_regportal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543166275949" />
+              <option name="buildTimestamp" value="1532438163316" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/regform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527790745336" />
+              <option name="buildTimestamp" value="1526389778823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/regportal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544439110998" />
+              <option name="buildTimestamp" value="1532438191633" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/regportal.git.backup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528997695097" />
+              <option name="buildTimestamp" value="1526389751921" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/regportal/src/regportal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528967838711" />
+              <option name="buildTimestamp" value="1526389742784" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/test-blog-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533816861134" />
+              <option name="buildTimestamp" value="1532438173954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533412295006" />
+              <option name="buildTimestamp" value="1532438188732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/vitaldocz-blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533294669640" />
+              <option name="buildTimestamp" value="1532438178313" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/vitaldocz-blog-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533391598782" />
+              <option name="buildTimestamp" value="1532438188732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/vitaldocz_blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539723008183" />
+              <option name="buildTimestamp" value="1532438194892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/vitaldocz_blog/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533297201703" />
+              <option name="buildTimestamp" value="1532438178313" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DjangoProjects/vitaldocz_blog_api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539776214464" />
+              <option name="buildTimestamp" value="1532438171932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/CricketPlayerDataScrapper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7141.48" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558675823912" />
+              <option name="buildTimestamp" value="1557236808019" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/PythonProjects/CG-Accumulator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563872220478" />
+              <option name="buildTimestamp" value="1559140081263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/PythonProjects/battleship">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563871589838" />
+              <option name="buildTimestamp" value="1559140081263" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/PythonProjects/codevita">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563112318294" />
+              <option name="buildTimestamp" value="1559140112727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/VitalDocz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545913345406" />
+              <option name="buildTimestamp" value="1532438208722" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/VitalDocz/CodeBase/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545914885252" />
+              <option name="buildTimestamp" value="1532438163315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/VitalDocz/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7141.48" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558259839967" />
+              <option name="buildTimestamp" value="1557236789606" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/VitalDocz/blpg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545914522238" />
+              <option name="buildTimestamp" value="1532438163315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/battleship">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557730998847" />
+              <option name="buildTimestamp" value="1532438215484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/fyle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556608227622" />
+              <option name="buildTimestamp" value="1532438170324" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Programming/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556474029156" />
+              <option name="buildTimestamp" value="1532438165475" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PythonProjects/OOP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532963052385" />
+              <option name="buildTimestamp" value="1527146120704" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PythonProjects/appVault">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531059849259" />
+              <option name="buildTimestamp" value="1527146134502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PythonProjects/djangorest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533204828044" />
+              <option name="buildTimestamp" value="1527146152923" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VitalDocz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544895377964" />
+              <option name="buildTimestamp" value="1532438216540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VitalDocz/Blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539772924299" />
+              <option name="buildTimestamp" value="1532438215667" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VitalDocz/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545907200198" />
+              <option name="buildTimestamp" value="1532438170099" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VitalDocz/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539772374440" />
+              <option name="buildTimestamp" value="1532438162506" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VitalDocz/vitaldocz_blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544895342530" />
+              <option name="buildTimestamp" value="1532438216540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/klinik/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534474034472" />
+              <option name="buildTimestamp" value="1532438193635" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/regportal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544275287995" />
+              <option name="buildTimestamp" value="1532438191633" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/link_checker.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562739548782" />
+              <option name="buildTimestamp" value="1559140132389" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/vault">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531060334062" />
+              <option name="buildTimestamp" value="1527146134502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/vault1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531060396386" />
+              <option name="buildTimestamp" value="1527146134502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/vault2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531060445152" />
+              <option name="buildTimestamp" value="1527146134502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/vault343">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531503354731" />
+              <option name="buildTimestamp" value="1527146134502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/vendor.f1360f351f6067507859.js">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545462440136" />
+              <option name="buildTimestamp" value="1532438197873" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/CPP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560589357642" />
+              <option name="buildTimestamp" value="1559140113193" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/CricketPlayerDataScrapper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562929988279" />
+              <option name="buildTimestamp" value="1559140120200" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/newsbytes/translator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562225794741" />
+              <option name="buildTimestamp" value="1559140110480" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Programming/PythonProjects" />
+  </component>
+</application>

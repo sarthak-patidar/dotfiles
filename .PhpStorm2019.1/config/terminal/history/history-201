@@ -1,0 +1,1000 @@
+git status -uno
+git log
+git log -2
+clear
+git status
+clear
+cd src/
+ls
+celar
+clear
+git status
+clear
+git rm public/accesstoken.txt 
+git checkout public/accesstoken.txt
+git rm public/accesstoken.txt 
+cleae
+clear
+git status
+clear
+git status -uno
+git diff resources/views/download_processed_files.blade.php
+clear
+git status
+git diff .env.example
+clear
+git status
+sudo chmod 777 -R public/accesstoken.txt 
+clear
+grep "return 0" modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+grep -S "return" modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+grep -s "return" modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+grep -s "return 0" modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+grep -s "0" modules/ResponseProcessor/Http/Controllers/ResponseProcessorController.php 
+clear
+git diff
+clear
+git status
+updated env example file
+clear
+git status
+clear
+php artisan serve
+clear
+php artisan cache:clear
+clear
+git status
+git diff composer.json
+clear
+ls
+clear
+git status
+git diff resources/views/download_processed_files.blade.php
+clear
+ls
+clear
+git diff
+git status
+clear
+git checkout public/new_files/player_map.csv
+git status
+clear
+ls
+clear
+git status
+git add .
+git commit
+clear
+git status
+clear
+git push origin master
+clear
+ls ~/Downloads/
+ls
+clear
+cd ~/Downloads/
+ls
+mv import_map.csv /var/www/newsbytes/
+mv player_api_ids.sql /var/www/newsbytes/
+mv newsbytes_backup_sports_v1.sql /var/www/newsbytes/
+cd /var/www/newsbytes/
+ls
+clear
+ls
+sudo rm newsbytes_sports.sql newsbytes_sports(1).sql
+sudo rm newsbytes_sports.sql "newsbytes_sports(1).sql"
+ls
+clear
+ls
+cd stats-updater/
+;s
+ls
+clear
+cd src/
+ls
+clear
+git log
+clear
+ls
+clear
+ls
+clear
+cd ../../
+ls
+mkdir stats-update-automater
+cd stats-update-automater/
+ls
+clear
+ls -a
+cler
+clear
+ls
+clear
+cd ../sports/
+phpstorm 
+clear
+sudo nano /etc/hosts
+exit
+cd
+clear
+php artisan tinker
+clear
+php artisan
+php artisan make:command CacheLiveScoreCard --command=livescorecard:cache
+clear
+php artisan schedule:run
+clear
+php artisan live:scorecard:cache
+sudo chmod 777 -R storage/*
+clear
+php artisan live:scorecard:cache
+php artisan livescorecard:cache
+touch accesstoken.txt
+php artisan livescorecard:cache
+clear
+php artisan schedule:run
+php artisan schedule:run
+clear
+php artisan livescorecard:cache
+clear
+exit
+cd /var/www/newsbytes/sports/
+ls
+cd ../
+ls
+clear
+cd stats-update-automater/
+ls
+ls -a
+rm -r .idea/
+composer create-project --prefer-dist laravel/laravel .
+clear
+ls
+la
+clear
+ls -a
+clear
+sudo nano /etc/hosts
+clear
+cd /etc/apache2/sites-enabled/
+ls
+cp laravel.conf stats-updater.conf
+sudo cp laravel.conf stats-updater.conf
+sudo nano stats-updater.conf 
+clear
+ls
+sudo a2ensite stats-updater.conf
+ls
+mv stats-updater.conf ../sites-available/
+sud mv stats-updater.conf ../sites-available/
+sudo mv stats-updater.conf ../sites-available/
+sudo a2ensite stats-updater.conf 
+sudo service apache2 restart
+ls
+cd ../sites-available/
+ls
+clear
+cd ../sites-enabled/
+sudo nano laravel.conf 
+sudo nano /etc/hosts
+sudo nano laravel.conf 
+clear
+sudo service apache2 restart
+sudo a2ensite laravel.conf 
+sudo a2ensite stats-updater.conf 
+sudo nano stats-updater.conf 
+clear
+sudo service apache2 stop
+sudo service apache2 start
+clear
+/etc/ssl
+cd /etc/ssl
+ls
+cd certs/
+ls
+rm cocorico.dev.crt stats-updater.dev.crt 
+sudo rm cocorico.dev.crt stats-updater.dev.crt 
+ls
+clear
+cd ../
+ls
+cd private/
+ls
+sudo cd private/
+ls
+clear
+sudo su
+clear
+exit
+git status
+clear
+ls
+git status
+clear
+sudo service redis start
+redis-cli
+clear
+ls
+clear
+redis-cli
+clear
+sudo nano /etc/hosts
+clear
+redis-cli
+crontab -e
+/etc/init.d/cron restart
+clear
+redis-cli
+clear
+git status
+sudo nano /etc/apache2/sites-enabled/sports.newsbytesapp.test.conf 
+clear
+redis-cli
+lcear
+clear
+php artisan schedule:run
+redis-cli
+clera
+clear
+crontab -e
+clear
+/etc/init.d/cron restart
+redis-cli
+clear
+php artisan schedule:run
+redis-cli
+php artisan schedule:run
+clear
+php artisan livescorecard:cache
+clear
+sudo service apache2 restart 
+php artisan livescorecard:cache
+clera
+clear
+ls
+clear
+php artisan list
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd public/
+ls
+mv accesstoken.txt accesstoken.json
+clear
+ls
+clear
+ls
+clera
+clear
+sudo nano /etc/apache2/sites-enabled/sports.newsbytesapp.test.conf 
+clear
+sudo service apache2 restart
+sudo nano /etc/apache2/sites-enabled/sports.newsbytesapp.test.conf 
+clera
+sudo service apache2 restart
+clear
+php artisan livescorecard:cache
+php ../artisan livescorecard:cache
+clear
+mv accesstoken.json accesstoken.txt
+clear
+php ../artisan livescorecard:cache
+cd ../
+ls
+clear
+mv accesstoken.txt accesstoken.json
+clear
+ls
+clear
+php artisan livescorecard:cache
+clear
+mv accesstoken.json accesstoken.txt
+clear
+php artisan livescorecard:cache
+ls
+clear
+redis-cli
+clear
+ls
+clear
+mv accesstoken.txt accesstoken.json
+clear
+php artisan livesorecard:cache
+php artisan livescorecard:cache
+mv accesstoken.json accesstoken.txt
+php artisan livescorecard:cache
+clear
+mv public/accesstoken.txt public/accesstoken.json
+php artisan livescorecard:cache
+clear
+mv public/accesstoken.json public/accesstoken.txt
+ls
+clear
+ls
+clear
+ls -a
+celar
+clear
+ls
+ll
+cd public/
+ls
+ll
+sudo chmod 664 accesstoken.txt 
+ll
+clear
+ls
+clear
+ls -a
+ll
+ls -l
+clear
+ll
+sudo nano web.config 
+clear
+sudo nano /etc/apache2/sites-enabled/sports.newsbytesapp.test.conf 
+clear
+cd ../
+ls
+mv accesstoken.txt accesstoken.json
+php artisan schedule:run
+php artisan livescorecard:cache
+mv accesstoken.json accesstoken.txt
+ls
+clear
+php artisan livescorecard:cache
+clear
+ls
+clear
+cd public/
+ll
+sudo chmod 660 accesstoken.txt 
+sudo chown www-data:www-data accesstoken.txt 
+ll
+clear
+ls
+clear
+ls
+clear
+cd ../
+ls
+clear
+redis-cli
+crontab -e
+clear
+sudo /etc/init.d/cron restart
+clear
+ls
+clear
+cd /var/www/newsbytes/stats-updater/
+ls
+clear
+cd src/
+ls
+celar
+clear
+cd app/Models/
+l
+celar
+clear
+sudo cp * ../../../stats-update-automater/app/Models/
+redis-cli
+clear
+composer require predis/predis
+clear
+php artisan cache
+sudo chmod 777 -R storage/*
+php artisan cache:clear
+clear
+su
+clear
+su --help
+sudo su -l
+clear
+grep .env | pgrep
+clear
+git status -uno
+clear
+git log
+clear this shit jarvis
+clear
+jarvis
+jarvis clear this shit
+clear this shit jarvis
+clear
+sudo u
+clear
+sudo -i
+-i
+clear
+sudo -h
+sudo -A
+clear
+php artisna
+php artisan
+cd ../../
+clear
+php artisan
+nithyashree
+clear
+php artisan
+php artisan route:list
+sudo chmod 777 -R storage/*
+php artisan route:list
+ls
+clear
+php artisan
+clear
+php artisan route:list
+ls -a
+clear
+php artisan
+clear
+php artisan route:list
+sudo nano /etc/apache2/sites-enabled/stats-updater.conf 
+clear
+sudo service apache2 restart
+ls -a
+clear
+mv accesstoken.txt accesstoken.js
+clear
+php artisan route:list
+clear
+sudo a2ensite stats-updater.conf 
+clear
+sudo service apache2 restart 
+ls
+clear
+php artisan route:list
+clear
+mv accesstoken.js accesstoken.txt
+clear
+php artisan route:list
+clear
+sudo nano /etc/apache2/sites-enabled/stats-updater.conf 
+lear
+clear
+sudo service apache2 restart
+clear
+php artisan route:list
+locate accesstoken.txt 
+locate accesstoken.txt .
+clear
+lla
+ll -a
+clear
+ll -a
+whereis accesstoken.txt
+nano webpack.mix.js 
+clear
+l -a -l
+clear
+l
+clear
+ls -a
+clear
+sudo this shit
+clear
+sudo nano /etc/hosts
+sudo service apache2 restart
+ls -a
+clear
+sudo su
+clear
+sudo nano /etc/hosts
+clear
+ls -a
+clear
+ls -a
+clear
+chown
+clear
+chown --help
+clear
+ls --help
+clear
+lA -l
+ll -A
+clear
+ll -h
+ll --help
+cler
+clear
+ls -A -l
+clera
+clear
+ls -a lclearhs
+clear
+ls -a public/
+clear
+ll -a public/
+nano public/robots.txt 
+clear
+redis-cli
+cler
+clear
+redis-cli
+clear
+ls
+celar
+clear
+composer create-project --prefer-dist laravel/laravel blog
+clear
+ls
+clear
+composer create-project --prefer-dist laravel/laravel .
+clear
+sudo chmod 777 -R storage/
+ls
+clear
+cd ../
+ls
+clear
+ls
+cd sports/
+ls
+clear
+ls
+cd app/Console/Commands/
+sudo nano CacheLiveScoreCard.php 
+fg
+celar
+clear
+cd ../../
+cd ../
+clear
+php artisan schedule:run
+clear
+php artisan livescorecard:cache
+clear
+cd ../stats-update-automater/
+ls
+clear
+nano ../sports/.env
+clear
+composer require roanuz/php-cricket
+clear
+ls
+clear
+git init
+clear
+composer dump-autoload
+clear
+ll
+cd public/
+ll
+clear
+ll
+clear
+cd ../
+ls
+clear
+git status
+clear
+ls
+clear
+ls
+sudo chmod 777 public/accesstoken.txt 
+clear
+ls
+clear
+locate .gitignore
+locate .gitignore .
+clear
+locate .gitignore
+clear
+ls
+cd app/mo
+cd app/Models/
+ls
+clear
+ll
+sudo chmod 664 *
+ll
+clear
+ll
+sudo chown sarthak:sarthak *
+ll
+clear
+ls
+clear
+ls
+ll
+clear
+ssh 192.168.42.218
+ssh http://192.168.42.218
+ssh 192.168.42.218
+ssh 192.168.0.105
+clear
+ssh -i 192.168.42.218
+clear
+ssh root@192.168.42.218
+clear
+ssh dev.ecell-iitkgp.org
+ssh ecellnew324@dev.ecell-iitkgp.org
+clear
+sudo su
+sudo -i
+clear
+sudo su
+sudo su rooot
+clear
+sudo su sarthak
+sudo su root
+sl
+clear
+sudo apt install sl
+clear
+sl
+clear
+sl
+sudo apt remove sl
+clear
+redis-cli 
+clear
+]
+[[][][][][][][][][][][][][][][][][][][][][][][][][][][[][][][][][][][][][][][][][][][][][][][][][][]]
+clear
+clear this shit jarvis
+wake up jarvis
+cl
+php artisan cache:celar
+php artisan cache:clear
+clear
+php artisan
+php artisan inspire
+clear
+sudo su root
+clear
+redis-cli
+clear
+php artisna
+php artisan
+clear
+php artisan anv
+clear
+php artisan env
+php artisan cache
+php artisan cache:forget
+php artisan cache:forget *
+php artisan cache:forget --key=*
+clearrrrr
+php artisan cache:clera
+php artisan cache:cleear
+php artisan cache:clear
+clear
+redis-cli 
+exit
+clear
+cd ../../
+clear
+ll
+ls storage/
+clear
+ls -a
+clear
+nano .editorconfig 
+clear
+redis-cli
+clear
+php artisan config:cache
+clear
+php artisan cache:clear
+ls
+clear
+php artisan
+php artisan config:clear
+redis-cli
+clear
+redclear
+clear
+redis-cli
+clear
+redis
+redis-server
+redis-server --port=6380
+redis-server 6380
+cd /etc/redis
+ls
+cp redis.conf redis-6380.conf
+sudo cp redis.conf redis-6380.conf
+sudo nano redis-6380.conf 
+clear
+cd
+redis-server 6380
+clear
+cd /etc/redis
+la
+ls
+clear
+mv redis.conf redis_6379.conf
+sudo mv redis.conf redis_6379.conf
+ls
+sudo mv redis-6380.conf.conf redis_6380.conf
+sudo mv redis-6380.conf redis_6380.conf
+ls
+clear
+sudo service redis restart
+redis-server 6380
+clear
+ls
+sudo mv redis_6379.conf redis.conf
+ls
+sudo rm redis_6380.conf 
+clear
+sudo service redis restart
+redis-cli
+redis-cli 6379
+redis-cli --port=6379
+clear
+redis-server
+clear
+redis-cli monitor
+clear
+redis-cli
+cler
+clear
+redis-cli
+redis-cli monitor
+cleaer
+clear
+redis-cli monitor
+clear
+redis-cli
+clear
+git diff
+clear
+git diff modules/DbHandler/Http/Controllers/DbHandlerController.php
+clear
+git diff modules/DbHandler/Http/Controllers/DbHandlerController.php
+clear
+sudo su root
+lear
+clear
+redis-cli
+c
+clear
+ls -a
+clear
+git status
+clear
+git diff
+git status
+clear
+lllllllllllllllllllllllllll
+clear
+ls -a
+clear
+cd database/
+ls
+la
+clear
+ls
+cd seeds/
+ls
+nano DatabaseSeeder.php 
+clear
+ks
+clear
+sl
+clear
+sudo apt install sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl --help
+clear
+l
+cd ../../
+ls
+clear
+cd tests/
+ls
+nano TestCase.php 
+php TestCase.php 
+clear
+sl
+redis-cli -u redis://127.0.0.1:6379 ping
+redis-cli -u redis://127.0.0.1:6380 ping
+redis-cli KEYS *
+redis-cli KEYS '*'
+redis-check-rdb
+redis-check-aof
+redis-cli FLUSHALL
+clear
+git status
+cler
+clear
+_of_month
+clear
+$this->_month
+clear
+$this
+ls
+clear
+$this->is
+$this.is
+clear
+this
+thin
+clear
+redis-cli keys '*'
+redis-cli FLUSHALL
+composer dump-autoload
+clear
+php artisan cache:clear
+clear
+git clear
+git clean --help
+clear
+redis-cli FLUSHALL
+clear
+rm ~/Downloads/f.txt 
+composer dump-autoload
+clear
+ls
+clear
+php artisan clear:cache
+sudo chmod 755 -r storage/
+sudo chmod 755 -R storage/
+clear
+la
+ll
+cd storage/
+ll
+cd logs/
+ls
+ll
+clear
+sudo chmod 777 *
+ll
+clear
+php ../../artisan cache:clear
+clear
+cd ../../
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+exit
+redis-cli
+clear
+exit
+php artisan tinker
+clear
+exit
+redis-cli
+clear
+redis-cli
+clear
+redis-cli
+clear
+composer require longman/multi-lang
+composer require longman/laravel-multilang
+composer dump-autoload
+php artisan vendor:publish --provider="Longman\LaravelMultiLang\MultiLangServiceProvider"
+clear
+php artisan
+cd ../../
+clear
+php artisan
+clear
+crontab -e
+sudo /etc/init.d/cron 
+exit
+crontab -e
+sudo /etc/init.d/cron
+clear
+php artisan make:command scorecard:live:build
+php artisan make:command scorecard:full:update
+php artisan 
+php artisan make:command --help
+php artisan make:command BuildLiveScoreCard
+php artisan make:command UpdateFullScoreCard
+php artisan
+clear
+php artisan
+clear
+cd app/Http/Controllers/
+ls
+sudo mv Controller.php ScheduleController.php
+ls
+celar
+clear
+ls
+clear
+php artisan schedule:run
+php artisan
+clear
+php artisan schedule:run
+composer dump-autoload
+clear
+php artisan
+php artisan schedule:run
+php artisan sports:schedule:update
+clear
+ls
+clear
+cd storage/logs/
+ls
+nano laravel-2019-06-07.log 
+clear
+cd ../../
+clear
+php artisan
+clear
+php artisan schedule:run
+clear
+php artisan sports:schedule:update
+clear
+php artisan schedule:update
+php artisan schedule:run
+php artisan
+clear
+php artisan schedule:run
+clear
+php artisan schedule:run
+crontab -e
+clear
+su root
+clear
+sl
+clear
+php artisan
+php artisan schedule:run
+clear
+php artisan cache:clear
+php artisan
+php artisan queue:listen
+clear
+grep "dd(" *
+grep -r "dd(" *
+clear
+cd app/
+grep -r "dd(" *
+clear
+git status
+cd ../
+clear
+git add
+git status
+clear
+git add .
+git status
+git log
+clear
+php artisan queue:listen default
+clear
+php artisan queue:listen default
+clear
+php artisan queue:listen
+clear
+ls -a
+clear
+ll
+clear
+php artisan schedule:run
+php artisan cache:clear
+php artisan schedule:run
+clear
+ls
+clear
+php artisan list
+crontab -e
+clear
+sudo /etc/init.d/cron 
+clear
+crontab
+crontab -e
+sudo /etc/init.d/cron
+clear

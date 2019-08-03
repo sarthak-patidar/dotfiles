@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/www/newsbytes/translator/.idea/misc.xml" timestamp="1561203630967" />
+    <file path="/var/www/newsbytes/translator/.idea/modules.xml" timestamp="1561203631003" />
+    <file path="/var/www/newsbytes/translator/.idea/translator.iml" timestamp="1561203714076" />
+    <file path="/var/www/newsbytes/translator/.idea/workspace.xml" timestamp="1562225778154" />
+  </project-files>
+</conversion>
+

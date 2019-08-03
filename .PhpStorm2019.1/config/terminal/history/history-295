@@ -1,0 +1,1000 @@
+cd stats-updater-jobs/
+cp -r vendor/ ../stats-updater/vendor
+ls
+cd ../
+ls
+cd stats-updater
+ls
+cd bootstrap/
+cd ../vendor/
+ls
+ls -a
+clear
+cd ../
+l
+cd ../stats-updater-jobs/bootstrap/
+ls -l
+cd ../../stats-updater/
+ls
+ls -l
+clear
+cd bootstrap/
+ls
+ls -l
+sudo chmod 755 app.php 
+ls -l
+clear
+sudo chmod 777 -R cache/
+ls
+cd ..
+ls
+clear
+ls
+touch accesstoken.txt
+ls
+clear
+sudo chmod 777 accesstoken.txt 
+cd public/
+ls
+ls -a
+ls -l
+clear
+touch accesstoken.txt && sudo chmod 777 accesstoken.txt
+ks
+ls
+clear
+sudo apt install wget php-cli php-zip unzip
+clear
+cd
+mkdir cookies
+cd cookies/
+mkdir fb
+vi fb_cookies.json
+ls
+mv fb_cookies.json fb/
+ls
+cd fb/
+ls
+cd ../../
+ls
+sudo chmod 600 cookies/
+ls
+cd cookies/
+ls
+cd /var/www/newsbytes/stats-updater
+ls
+clear
+ls
+vi composer.json 
+ls
+clear
+sudo nano .styleci.yml 
+clear
+git status
+clear
+git diff
+exit
+cd /etc/apache2/sites-enabled/
+ls
+sudo nano blog.vitaldocz.test.conf 
+sudo a2ensite blog.vitaldocz.test.conf 
+sudo service apache2 restart 
+sudo apt update
+apt list --upgradable
+sudo apt upgrade
+clear
+cd ~/
+ls
+cd sftwrs_src_bld/
+ls
+mkdir composer
+ls
+cd composer/
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ls
+php -r "if (hash_file('sha384', 'composer-setup.php') === '48e3236262b34d30969dca3c37281b3b4bbe3221bda826ac6a9a62d6444cdb0dcd0615698a5cbe587c3f0fe57a54d8f5') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php 
+ls
+sudo apt install zlibc
+clear
+php composer-setup.php 
+ls
+clear
+sudo nano composer-setup.php 
+clear
+php composer-setup.php 
+clear
+ls
+rm composer-temp.phar 
+ls
+clear
+php composer-setup.php -vvv
+ls
+php composer.phar 
+clear
+composer
+clear
+sudo apt install composer
+composer
+clear
+ls
+clear
+cd ../
+rm -r composer/
+ls
+clear
+cd /var/www/newsbytes/stats-updater
+ls
+composer
+clear
+composer install
+clear
+composer dumpa-autoload
+composer dump-autoload
+clear
+redis-cli 
+clear
+ls
+clear
+sudo
+clear
+sudo apt install --fix-missing
+sudo apt upgrade --fix-missing
+clear
+ls
+clear
+exit
+show-memory 
+clear
+exit
+cd /etc/apache2/sites-available/
+ls
+sudo nano home.public
+ls
+cp live-scorecard.generator.conf sarthak-home.public.conf
+sudo cp live-scorecard.generator.conf sarthak-home.public.conf
+ls
+clear
+sudo nano sarthak-home.public.conf 
+sudo nano /etc/hosts
+sudo a2ensite sarthak-home.public.conf 
+sudo service apache2 restart 
+sudo nano /etc/hosts
+sudo mv sarthak-home.public.conf sarthak-home.com.conf 
+clear
+sudo ls
+sudo nano sarthak-home.com.conf 
+clear
+sudo a2dissite sarthak-home.public.conf 
+sudo a2ensite sarthak-home.com.conf 
+sudo service apache2 restart 
+cd 
+ls -l
+clear
+cd /home/
+ls
+cd sarthak/
+ls
+ls -l
+cd ../
+ls
+ls -l
+ls -l /var/www/newsbytes/
+ls -l
+sudo chmod 775 -R sarthak/
+ls -l
+clear
+sudo chmod 755 -R sarthak/
+clear
+sudo nano /etc/hosts
+ls
+clear
+sudo nano /etc/apache2/sites-enabled/sarthak-home.com.conf 
+clear
+ls
+cd
+ls
+ls -l
+clear
+sudo nano /etc/hosts
+sudo a2dissite sarthak-home.com.conf 
+clear
+sudo service apache2 restart 
+sudo rm /etc/apache2/sites-available/sarthak-home.com.conf 
+ks
+ls
+clear
+cd ../stats-updater
+ls
+sudo nano composer.json 
+clear
+exit
+i[
+ip
+ip addr show
+clear
+ls
+cd ../stats-updater
+ls
+clear
+sudo nano .env
+clear
+php artisan cache:clear
+composer dump-autoload
+clear
+ls
+mv vendor/ vendor_back
+clear
+ls
+clear
+composer install
+clear
+rm -r vendor/
+clear
+sudo rm -r vendor
+ls
+sudo mv vendor_back/ vendor/
+ls
+clear
+composer dump-autoload
+sudo chmod 777 -R storage/
+composer dump-autoload
+ls
+cd vendor/
+ls
+cd ../
+ls
+celar
+clear
+cd vendor/
+ls
+cd l
+cd laravel/
+ls
+clear
+cd ../../
+ls
+composer dump-autoload
+sudo nano composer.json 
+ls
+clear
+ls
+sudo nano .env
+clear
+ls
+clear
+cd vendor/nesbot/
+ls
+cd carbon/
+ls
+ls -a
+cd ../
+ls
+ls -a
+clear
+cd ../
+sudo rm -r nesbot/
+cd ../
+clear
+composer install
+clear
+ls
+cd vendor/nesbot/
+ls
+cd carbon/
+ls
+cd src/
+ls
+clear
+cd Carbon/
+ls
+cd ../../../../
+cd ../
+ls
+clear
+usod
+clear
+sudo nano sudo
+clear
+rm -r sudo 
+ls
+clear
+ls
+clear
+cd ../live-scorecard/
+ls
+sudo chmod 777 -R storage/
+cd public/
+ls
+ls -l
+clear
+sudo chmod 775 accesstoken.txt 
+sudo chmod 757 accesstoken.txt 
+cd ../../
+cd sports/
+ls
+clear
+cd ../stats-updater
+ls
+clear
+cd public/
+ls
+ls -l
+clear
+cd ../
+ls
+clear
+cd bootstrap/
+ls
+cd .../
+ls
+cd ../
+clear
+ls -l
+clear
+sudo nano server.php e
+sudo nano server.php
+clear
+vi .env
+clear
+ls -l
+clear
+ls -l
+clear
+ls -la
+lce
+show-memory
+clear
+ls
+cd app/
+ls
+cd Services/
+ls
+clear
+sudo nano ApiHandlerService.php 
+nano ApiHandlerService.php 
+clear
+nano ApiHandlerService.php 
+clear
+cd ../
+ls
+cd Exceptions/
+ls
+nano Handler.php 
+clear
+ls -al
+clear
+cd ../../
+ls
+cd config/
+ls
+sudo nano database.php 
+clear
+cd ../../sports/config/
+sudo nano database.php 
+clear
+cd ../../stats-updater
+ls
+clear
+grep env
+clear
+grep env
+clear
+ls
+cd bootstrap/
+ls
+nano app.php 
+clear
+cd cache/
+ls
+nano packages.php 
+nano services.php 
+clear
+ls -al
+clear
+cd ../../
+ls
+clear
+members sarthak
+members *
+members --all
+members --all sarthak
+members --all root
+clear
+ls
+cd vendor
+ls
+ls ../vendor_back/
+clear
+cd .ls
+ls
+clear
+ls -l
+clear
+sudo nano install
+clear
+cd ../
+ls
+show-memory 
+ls
+clear
+watch -n 5 free -m
+clear
+wath -n 5 free -m
+watch -n 5 free -m
+watch free -m
+clear
+watch
+watch -cd 
+watch -c -d
+watch -c -d free -n
+watch -c -d free
+clear
+watch -cdn free -m
+clear
+cd vendor
+ls
+clear
+curl https://stats-updater.test
+curl http://stats-updater.test
+wget http://stats-updater.test
+clear
+curl
+curl --help
+curl --post http://stats-updater.dev
+curl --post301 http://stats-updater.dev
+clear
+curl --post301 http://stats-updater.test
+curl --post301 --post302 --post303 http://stats-updater.test
+ls
+clear
+ls -a
+ls -l
+cleaar
+clear
+cd ../
+ls
+clear
+KEYS *
+redis-cli
+php artisan tinker
+clear
+php artisan ticker
+clear
+ls -l
+sudo chown www-data:www-data storage/
+;s
+ls
+clear
+ls
+ls -l
+clear
+ls
+cd storage/
+ls
+cd logs/
+la
+ls
+sudo nano laravel-2019-06-19.log 
+clear
+cd ../../
+clear
+php artisan cache:clear
+clear
+cd storage/logs/
+ls
+sudo rm -r *
+ls
+clear
+cd ../../
+ls
+clear
+cd storage/logs/
+ls
+ls -a
+clear
+cd ../
+ls
+cd framework/
+;s
+ls
+cd ../../
+ls
+clear
+sudo nano /var/log/apache2/newsbytes_
+sudo nano /var/log/apache2/newsbytes_error.log
+sudo nano /var/log/apache2/newsbytes_access.log
+clear
+ls
+clear
+php artisan serve
+clear
+cd ../sports/
+ls
+sudo nano .env
+clear
+ls
+ls -l
+clear
+sudo chmod 777 -R storage/
+php artisan cache:clear
+clear
+clear
+exit
+git diff app/Services/ApiHandlerService.php
+clear
+exit
+cd ../sports/
+ls
+git status
+clear
+git pull
+clear
+git remote show origin
+clear
+git config
+clear
+git conifg --show-origin
+git config --show-origin
+clear
+cd /var/
+ls
+ls -a
+clear
+cd www/newsbytes/stats-updater
+ls
+clear
+php artisan server
+php artisan serve
+clear
+git status
+git diff app/Http/Controllers/FullScoreCardController.php
+cleare
+clear
+git diff
+clear
+git log
+clear
+sudo apt update
+pt list --upgradable
+apt list --upgradable
+sudo apt upgrade
+clear
+ls -a
+clear
+ls -l
+clear
+cd storage/
+ls
+cd logs/
+ls
+ls -l
+clear
+ls -l
+clear
+cd ../../
+ls
+clear
+ls -l
+clear
+cd storage/
+l
+cd b
+cd framework/
+ls
+clear
+ls
+clear
+ls -l
+clear
+ls -l
+clear
+cd ../../
+ls
+nano composer.json 
+clear
+ls
+clear
+sudo su root
+clear
+ls -l
+clear
+sudo nano webpack.mix.js 
+clear
+cd app/Http/Controllers/
+ls
+cd Auth/
+ls
+cd ../
+ls
+clear
+vi Controller.php 
+vi *
+clear
+ls
+clear
+vi FullScoreCardController.php 
+vi LiveScoreCardWidgetController.php 
+vi ScheduleController.php 
+clear
+cd ../../
+ls
+cd ../
+ls
+clear
+git sta
+git status 
+clear
+git status
+clear
+grep -c ^processor /proc/cpuinfo
+show-memory 
+clear
+ls
+clear
+lss /proc/
+ls /proc/
+nano /proc/cpuinfo 
+clear
+redis-cli
+clear
+sudo nano ~/.bashrc
+exec bash
+l
+clear
+sudo nano ~/.bashrc
+clear
+exec bash
+clear
+ls -a
+clear
+python -m http.server /
+python -m http.server 8088
+clear
+ls
+clear
+python http.server
+python -m http.server
+clear
+grep -r "dd(" ./app/
+clear
+git status
+clear
+git status
+clear
+php artisan cache:clear
+clear
+git add .
+git status
+clear
+git commit
+clear
+git status
+clear
+git status
+clear
+git commit
+clear
+git log
+git push origin master
+clear
+git status
+clear
+git status
+clear
+git log
+clear
+git log
+clear
+git log
+clear
+git status
+clear
+git diff
+git log
+git show --pretty="" --name-only 0e3df1c3efc67065defc800d1b131f597f392e50 
+git show --name-only 0e3df1c3efc67065defc800d1b131f597f392e50 
+git show 0e3df1c3efc67065defc800d1b131f597f392e50 
+clear
+git show 0e3df1c3efc67065defc800d1b131f597f392e50 --name-only
+clear
+git show  0e3df1c3efc67065defc800d1b131f597f392e50 --name-only
+git show  0e3df1c3efc67065defc800d1b131f597f392e50 --name-only -r
+clear
+cd app/Services/
+ls
+clear
+vi ApiHandlerService.php 
+clear
+ls -a
+clear
+tail ApiHandlerService.php 
+clear
+cat ApiHandlerService.php 
+clear
+git status
+clear
+git diff
+clear
+git status
+git diff CacheService.php
+git diff ResponseProcessorService.php
+git diff DBHandlerService.php
+clear
+git diff DBHandlerService.php
+clear
+git add ApiHandlerService.php 
+git commit
+clear
+git commit --ammend
+git commit --amend
+clear
+git log
+git status
+git push -f origin master
+git diff
+clear
+git add .
+git commit -amend --no-edit
+git commit --amend --no-edit
+git push -f origin master
+celar
+clear
+git add .
+git commit --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+cd ../../
+ls
+clear
+git add .
+git status
+clear
+git commit --amend --no-edit
+clear
+git status
+clear
+git push -f origin master
+git status
+clear
+ls -al
+cd storage/
+ls
+cd logs/
+ls
+sudo nano laravel-2019-06-20.log 
+clear
+cd ../../
+ls
+clear
+sudo nano composer.json 
+clear
+git status
+clear
+git log
+cd .git/
+ls
+cd H
+nano HEAD 
+cd refs/heads/
+ls
+nano master 
+clear
+d ../
+ls
+cd ../
+ls
+cd remotes/
+ls
+cd origin/
+ls
+nano master 
+clear
+ls -a
+cd ../
+ls
+cd ../
+ls
+cd heads/
+;s
+ls
+clear
+ls
+cd ../../
+ls
+nano COMMIT_EDITMSG 
+cd branches/
+;s
+ls
+ls -a
+clear
+cd ../
+ls
+cd hooks/
+;s
+ls
+nano pre-applypatch.sample 
+clear
+cd ../../
+ls
+clear
+git status
+clear
+git commit -a --amend --no-edit
+git status
+clear
+git push -f origin master
+clear
+git diff
+clear
+git diff
+clear
+git commit -a --amend --no-edit
+git push -f origin master
+clear
+git status
+clear
+sudo apt update
+apt list --upgradable
+sudo apt upgrade
+clear
+sudo apt autoremove
+clear
+clear
+git status
+git remove app/Jobs/Jobs.php
+git add -remove app/Jobs/Jobs.php 
+git reset app/Jobs/Jobs.php 
+clear
+ls
+clear
+git status
+clear
+php artisan make:job Job
+clear
+mv ~/Downloads/CricketStatsCalculation.php ./
+ls
+clear
+mv CricketStatsCalculation.php app/Services/
+ls
+ls app/Services/
+clear
+git staut
+git status
+clear
+cd app/Services/
+ls
+mv CricketStatsCalculation.php ../Jobs/
+ls
+cd ../Jobs/
+ls
+clear
+git status
+clear
+cd ../
+ls
+cd ../
+ls
+celar
+clear
+git status
+clear
+ls 
+clera
+ls -l
+clear
+cd app/Jobs/
+ls
+nano Job.php 
+clear
+git status
+clear
+git pull
+clear
+git status
+clear
+git pull
+clear
+exit
+grep -r "competitiongroup.home" .
+clear
+grep -r "cricket/ipl" .
+sudo nano storage/framework/views/2bdefbd2be86b7300fc4c6b1a4682cd07d545c60.php 
+clear
+ls -a
+clear
+php artisan cache:clear
+php artisan schedule:run
+clear
+php artisan lit
+clear
+laravel 
+show-memory 
+grep -r "newsService" .
+clear
+sudo nano /etc/hosts
+clear
+sudo nano /etc/hosts
+sudo service apache2 restart 
+clear
+sudo nano /etc/hosts
+clear
+sudo service apache2 restart
+show-memory 
+clear
+show-memory 
+lcear
+clear
+show-memory 
+clear
+ls
+clear
+git status
+clear
+custody
+celar
+clear
+show-memory
+show-memory 
+php artisan schedule:run
+npm run dev
+clear
+git status
+clear
+git stash list
+git stash --help
+git stash drop 0
+git stash list
+clear
+ls
+clear
+exit
+python3 translate.py 
+source venv/bin/activate
+clear
+python translate.py 
+python3 translate.py 
+gnome-open ./
+python3 translate.py 
+curl https://google.com
+curl https://www.google.com
+clear
+cd ../translator/
+ls
+clear
+source venv/bin/activate
+ls
+clear
+python translate.py 
+ls
+cd jsons/
+ls
+clear
+ls -l  | wc -l
+l
+clear
+cd ../
+python translate.py 
+clear
+cd jsons/
+ls -l | wc -l
+clear
+cd ../
+clear
+xdg-open translate.py 
+clear
+exit
+$DIR
+$PATH
+clear
+$PWD
+clear
+cd ../translator/
+clear
+ls
+activate-env
+clear
+sudo nano ~/.bashrc
+clear

@@ -1,0 +1,1000 @@
+grep -r "$fillable" .
+clear
+cd ../
+grep -r "$fillable" ./
+clear
+grep -r "$fillable"
+grep -r "$fillable" Models/
+clear
+cd Models/
+ls 
+ls -l | wc -l
+ls -l ../../../app/Models/ | wc -l
+clear
+ls -l
+clear
+ls
+ls ../../../app/Models/
+clear
+cd ../
+ls
+cd Jobs/
+ls
+cd Sports/
+ls
+sudo cp * ../../../../app/Jobs/Sports/
+clear
+cd ../../
+ls
+clear
+ls
+ls -l
+clear
+cd Http/
+ls
+l
+cd Controllers/
+ls
+sudo cp LiveScoreCardWidgetController.php ../../../../app/Http/Controllers/
+sudo cp ScheduleController.php ../../../../app/Http/Controllers/
+sudo cp FullScoreCardController.php ../../../../app/Http/Controllers/
+clear
+ls
+rm FullScoreCardController.php ScheduleController.php LiveScoreCardWidgetController.php 
+ls
+clear
+vi Controller.php 
+clear
+ls
+clear
+cd ../Middleware/
+ls
+sudo cp CheckResponse.php ../../../../app/Http/Middleware/
+cd ../../../../app/Http/Middleware/
+ls
+ls -l
+sudo chown sarthak:sarthak CheckResponse.php 
+clear
+mv CheckResponse.php ValidateResponse.php
+ls
+clear
+git status
+cd ../../../
+clear
+git status
+clear
+crontab -e
+clear
+sudo service cron restart 
+clear
+redis-cli 
+clear
+ls -l
+sudo chown :www-data -R storage/
+sudo chmod 777 -R storage/
+clear
+php artisan queue:listen --queue=ScoreCardBuilder
+clear
+exit
+php artisan queue:listen --queue=ScheduleUpdater
+exit
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+exit
+php artisan schedule:run
+clear
+git status
+clear
+crontab -e
+clear
+php artisan schedule:run
+clear
+redis-cli 
+clear
+sudo apt install pstfix
+sudo apt install postfix
+clear
+grep CRON /var/log/syslog
+clear
+grep CRON /var/log/syslog
+crontab -e
+clear
+sudo service cron restart 
+clear
+php artisan schedule:run
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+php artisan schedule:run
+claer
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+clear
+php artisan queue:listen --queue=ScheduleUpdater
+ls -l
+clear
+git status
+clear
+php artisan schedule:run
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+sudo chown sarthak:sarthak -R app/
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+grep CRON /var/log/syslog
+php artisan view:clear
+cd storage/framework/views/
+ls
+rm -r *
+sudo rm *
+clea
+clear
+ls
+sudo rm *
+ls 
+clear
+cd ../
+ls
+cd cache/
+ls
+cd ../../
+php artisan route:clear
+php ../artisan route:clear
+clear
+grep -r "$fillable" Models/
+clear
+grep CRON /var/log/syslog
+clear
+show-memory 
+clear
+php artisan schedule:run
+php artisantinker
+php artisan tinker
+clear
+exit
+redis-cli 
+clear
+cd resources/views/pages/
+ls
+clear
+grep -r "slugify" .
+grep -r "@t(slugify" .
+grep -r "function slugify" .
+clear
+cd ../../../
+clear
+vi ../stats-updater/app/Http/Controllers/Controller.php 
+clear
+php artisan queue:listen
+clear
+exit
+cd ~/Downloads/
+ls
+rm competition_stats 
+ls
+clear
+mysql -u root -p newsbytes_sports < competition_stats.sql 
+ls
+clear
+mysql -u root -p newsbytes_sports < competition_stats.sql
+mv competition_stats.sql competition_stats2.sql
+ls
+clear
+mysql -u root -p newsbytes_sports < competition_stats.sql
+mysql -u root -p newsbytes_sports < competition_stats2.sql
+ls
+vi competition_stats2.sql 
+clear
+mysqlcheck -u root -p --auto-repair --all-databases
+clear
+mysql -u root -p newsbytes_sports < competition_stats2.sql
+mv competition_stats2.sql competition_stats.sql
+mysql -u root -p newsbytes_sports < competition_stats2.sql
+mysql -u root -p newsbytes_sports < competition_stats.sql
+clear
+mysql -u root -p
+clear
+exit
+cd ~/Downloads/
+mysql -u root -p newsbytes_sports < competition_stats.sql 
+/usr/local/mysql/bin/mysqlcheck --all-databases -u root -p Srth#hak2411 -r
+cd /usr/local/
+ls
+cd src/
+ls
+cd ../
+ls
+cd etc/
+ls
+cd ../
+whereis mysqlcheck
+/usr/bin/mysqlcheck --all-databases -u root -p Srth#hak2411 -r
+/usr/bin/mysqlcheck --all-databases
+/usr/bin/mysqlcheck --all-databases -u root -p
+clear
+cd ../
+ls
+d
+ccd
+d
+cd
+clear
+cd /etc/
+ls
+cd mysql/
+ls
+clera
+clear
+cd /var/lib/
+ls
+cd mysql
+ls
+sudo su
+clear
+xdg-open ~/Downloads/competition_stats.sql 
+sudo service mysqld restart
+sudo /etc/init.d/mysql restart
+clear
+cd
+cd /var/www/newsbytes/sports/
+ls
+cler
+clear
+ls -a
+clear
+git branch
+git branch -a
+clear
+show-memory 
+clear
+cd /var/www/newsbytes/sports/
+ls
+clear
+git status
+clear
+git add .env.example .gitignore app/Console/
+git add app/Http/Controllers/
+git add app/Models/
+ls
+clear
+git add routes/web.php 
+git add resources/views/pages/sport.blade.php resources/views/components/live-widget.blade.php 
+git add resources/views/pages/competition/
+git add app/Jobs/Sports/
+git add app/Services/
+git commit
+git status
+clear
+git log
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+git status -uno
+git add app/Console/Kernel.php app/Jobs/Sports/UpdateMatchScoreCard.php app/Jobs/Sports/UpdateSportsSchedule.php 
+git commit
+git push origin stats-automater
+git reset --soft HEAD ~1
+git reset --soft HEAD~1
+git status
+git commit --amend --no-edit
+git status
+clear
+git push -f origin stats-automater
+git log -3
+clear
+curl 10.0.0.128
+clear
+exit
+php artisan queue:listen --queue=ScoreCardWidgetBuilder
+clear
+exit
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+php artisan queue:listen --queue=ScoreCardUpdater
+clear
+exit
+php artisan tinker
+exit
+ls
+cd storage/
+l
+cd logs/
+ls
+clear
+ls
+clear
+vi laravel-2019-07-02.log 
+clear
+cd /var/www/newsbytes/sports/
+vi storage/logs/laravel-2019-07-03.log 
+clear
+exir
+exit
+php artisan tinker
+clear
+php artisan tinker
+exit
+redis-cli
+clear
+redis-cli
+clear
+grep -r "default" app/Http/Controllers/
+grep -r "flag" app/Http/Controllers/
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+php artisan queue:listen
+clear
+grep -r  "slugify" .
+cd ../../../../sports/
+clear
+grep -r "slugify" ./
+grep -r "function slugify" ./
+clear
+grep -r "function slugify" ./app/ ./resources/
+clear
+git status -uno
+clear
+git diff composer.json
+clear
+git status -uno
+git add app/Http/Controllers/FullScoreCardController.php app/Http/Controllers/LiveScoreCardWidgetController.php 
+git add app/Services/
+clear
+git status -uno
+git add resources/views/components/live-widget.blade.php app/Jobs/Sports/Job.php app/Jobs/Sports/UpdateSportsSchedule.php 
+clear
+git status -uno
+clear
+git log -2
+git commit
+clear
+git push origin stats-automater
+clear
+git status
+git stash list
+clear
+git stash
+git stash list
+git status
+clear
+git stash list
+git stash pop
+clear
+sudo chmod 777 -R storage/
+clear
+git status -uno
+git log
+clear
+show-memory 
+cd resources/views/pages/competition/
+ls
+clear
+cp match.blade.php match_clone.blade.php 
+clear
+cd ../../../
+clear
+cd ../
+clear
+php artisan view:clear
+lear
+clear
+php artisan view:clear
+clear
+show-memory 
+cleaar
+clear
+show-memory 
+clear
+show-memory 
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+sudo chmod 777 -R storage/
+clear
+cd storage/logs/
+vi laravel-2019-07-03.log 
+clear
+show-memory 
+clear
+php artisan view:clear
+clear
+git status
+clear
+git status -uno 
+clear
+git status
+clear
+git status -uno
+clear
+git status -uno
+git diff resources/views/pages/competition/match.blade.php
+clear
+git add resources/views/pages/competition/match.blade.php 
+clear
+git commit --amend --no-edit
+clear
+git push -f origin stats-automater
+clear
+php artisan queue:listen
+ls
+activate-env 
+activate-env ./
+vi ~/.bash_al
+vi ~/.bash_aliases 
+clear
+restart-bash 
+activate-env 
+clkear
+clear
+git log -2
+clear
+git log
+clear
+cd scraper/scraper/
+ls
+cd ../crawlData/
+ls
+clear
+ls
+clear
+mkdir updater
+cler
+cd ../
+clear
+git status
+cd scraper/scraper/
+clear
+scrapy crawl statsupdaterbot
+clear
+pip freeze
+pip install
+clear
+pip3
+clear
+pip3 freeze
+vi ~/.bash_aliases
+clear
+restart-bash 
+clear
+exit
+clear
+pip freeze
+clear
+pip install -r ../../requirements.txt 
+clear
+activate-env 
+cd ../../
+activate-env 
+clear
+pip install -r requirements.txt 
+clear
+sudo apt install mysql-server
+clear
+pip freeze
+cd ../
+deactivate 
+clear
+ls
+cd CricketPlayerDataScrapper/
+ls
+clear
+rm -r venv/
+ls
+clear
+python -m venv venv
+clear
+ls
+activate-env 
+clear
+pip install -r requirements.txt 
+mysql_config_editor 
+mysql_config
+sudo apt install libmysqlclient-dev
+clear
+pip install -r requirements.txt 
+clear
+pip install wheel
+clear
+mv requirements.txt requirements2.txt 
+clear
+pip freeze < requirements.txt 
+touch requirements.txt 
+pip freeze < requirements.txt 
+pip freeze > requirements.txt 
+cd scraper/scraper/
+clera
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+cler
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+cler
+clear
+cler
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo apt upgrade
+clear
+sudo apt update
+sudo apt upgrade
+clear
+sudo apt upgrade --fix-missing
+clear
+sudo apt install --fix-missing
+clear
+exit
+ping google.com
+clear
+curl https://google.com
+curl https://www.google.com
+clear
+cd scraper/scraper/
+clear
+scrapy crawl statsupdaterbot.py
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clera
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+ssh nbsite
+clear
+ssh stage.sports.newsbytesapp.com
+ssh https://stage.sports.newsbytesapp.com
+ssh stage.sports.newsbytesapp.com
+clear
+exit
+ls
+clear
+exit
+clear
+exit && clear
+clear && exit
+exit
+clear
+exit
+scrapy crawl statsupdaterbot
+clear
+clera
+clear
+scrapy crawl statsupdaterbot
+clear
+lear
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+supervisorctl
+clear
+jupyter
+snap info jupyter
+clear
+snap info jupyter
+clear
+update this shit
+clear
+sudo apt update this shit
+clear
+sudo su shit
+clear
+sudo su sarthak
+clear
+su
+clear
+su sarthak
+clear
+su sarthak
+clear
+sudo su sarthak
+clear
+frg
+sudo su sarthak
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+show-memory 
+clear
+tail spiders/statsupdaterbot.py 
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+ls
+clear
+scrapy crawl statsupdaterbot
+sudo apt update
+sudo apt upgrade
+clear
+cd ../crawlData/updater/
+ls
+mv all.json ban_ind.json
+mv stats404.json wi_afg.json
+clear
+cd ../../scraper/
+lc
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl statsupdaterbot
+cler
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo su sarthak
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl statsupdaterbot
+clear
+scrapy crawl statsupdaterbot
+mv ~/Downloads/participant_players.json ../crawlData/updater/
+ls
+clear
+scrapy crawl statsupdaterbot
+clear
+cd ../../../sports/
+ls
+clear
+vi .env
+clear
+susdo chmod 777 -R storage/
+sudo chmod 777 -R storage/
+clear
+cd ../CricketPlayerDataScrapper/scraper/scraper/
+clear
+sudo rm -r __pycache__/ spiders/__pycache__/
+clear
+cd ../../../sports/
+cd app/Http/Controllers/
+vi PlayerController.php 
+clear
+git status .
+clear
+git diff PlayerController.php
+vi PlayerController.php 
+clear
+git diff PlayerController.php
+git checkout PlayerController.php
+git diff PlayerController.php
+clear
+cd ../../../../
+cd CricketPlayerDataScrapper/
+ls
+clear
+cd ../sports/
+php artisan tinker
+clear
+cd ../CricketPlayerDataScrapper/scraper/scraper/
+scrapy crawl cricketbot
+sudo rm -r __pycache__/ spiders/__pycache__/
+git status
+git add .
+git commit
+git push origin master
+clear
+scrapy crawl statsupdaterbot
+php artisan tinker
+clear
+php artisan tinker
+clear
+redis-cli
+clear
+php artisan tinker
+clear
+php artisan tinker
+clea
+clear
+git status -uno
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git diff app/Http/Controllers/FullScoreCardController.php
+clear
+git status -uno
+clear
+php artisan tinekr
+clear
+php artisan tinker this shit
+clear
+git status -uno
+git diff app/Jobs/Sports/Job.php
+php artisan tinker
+clear
+git status -uno
+clear
+git status
+git diff app/Services/DBHandlerService.php
+clear
+git diff app/Jobs/Sports/UpdateMatchScoreCard.php
+clear
+sudo apt update
+clear
+exit
+clear
+cd ../sports/
+clear
+deactivate
+clear
+cd ../CricketPlayerDataScrapper/
+clear
+deactivate
+exit
+clear
+cd ../sports/
+clear
+exit && deactivate
+clear
+exir
+exit
+git status -uno
+git status -uno app/
+clear
+ls -l
+clear
+git diff
+git diff app/
+clear
+sudo su root
+clear
+cd ../CricketPlayerDataScrapper/
+activate-env 
+clear
+sudo su sarthak
+clear
+sudo su sarthak
+deactivate 
+clear
+cd ../sprots
+cd ../sports
+clear
+grep -r "is_started" app/
+ckear
+clear
+grep -r "started" app/
+git diff -30
+clear
+git diff app/Http/Controllers/
+clear
+crontab -e
+clear
+vi crontab
+clear
+crontab
+clear
+crontab --help
+crontab -l
+crontab -e -u sarthak
+clear
+crontab -e
+claer
+clear
+show-memory 
+clear
+top
+clear
+top
+clear
+pgrep chrome
+clear
+sudo pmap 2243 | grep total
+sudo pm 2243
+sudo ps 2243
+clear
+pmap 2243 | grep total
+clear
+pgrep chorme
+pgrep chrome
+pmap pgrep chrome | grep total
+clear
+pmap (pgrep chrome) | grep total
+clear
+pgrep chrome | grep total
+pgrep chrome | grep 22
+pmap 2243 2253 2257 2277 2283 | grep total
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+php artisan tinker
+clear
+show-memory 
+clear
+show-memory 
+tail accesstoken.txt 
+clear
+tail accesstoken.txt
+tail clear
+clear
+cat
+clear
+cat accesstoken.txt 
+clear
+tail -50 storage/logs/laravel-2019-07-05.log 
+clear
+sudo su sarthak
+clear
+exit
+git status
+clear
+rm -r resources/views/pages/competition/match_bkp.blade.php 
+clear
+git status
+clear
+git add app/
+git status
+git status -uno
+git diff storage/multilang/global.yml
+sudo chmod 644 storage/multilang/global.yml 
+clear
+git status -uno
+git diff public/mix-manifest.json
+clear
+git status
+git status -uno
+ls ~/ .* 
+clear
+ls ~
+ls -a ~
+vi ~/.karen.sh 
+restart-bash 
+clear
+vi ~/.bash_aliases 
+clear
+restart-bash 
+clear
+git status
+restart-bash 
+clear
+git status -uno
+clear
+git status -uno
+clear
+git status
+clear
+git commit --amend --no-edit
+git push -f origin stats-automater
+clear
+git log -2
+git log
+clear
+this shit fucking sucks
+clear
+exit

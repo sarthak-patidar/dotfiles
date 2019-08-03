@@ -1,0 +1,146 @@
+mysqld_ernamemysqlx_ernamemysqlx_versionplugin_keyringmy_thread_localplugin_ftparsersslopt-longoptsbinary_log_typesmysql_com_serverbyte_order_genericplugin_auth_commonbyte_order_generic_x86plugin_group_replicationplugin_validate_passwordnssptypwdsoundtlvasochdsphdspm	asound
+emu10k1firewiresb16_csp	asound_fm	sfnt_info
+asequencer
+usb_streamsnd_sst_tokenscompress_paramscompress_offloadtarvideoedidsisfb
+uvesafbargpargzcpioenvzfenvgloblinkmath	netashash	netipxipx	netrom	netrom	nodejssrcenvnodeutil	base64	v8abbr
+env-inlfreelistnode_apinode_urlreq-wraptcp_wraptls_wraptty_wrapudp_wraputil-inl	js_stream	node_i18n	node_perf	node_wrap	pipe_wrap
+async_wrap
+node_http2
+node_lttng
+node_mutex
+spawn_syncbase-objecthandle_wrapmodule_wrapnode_buffernode_cryptonode_dtracenode_revertstream_basestream_wrapconnect_wrapinspector_ionode_versionreq-wrap-inlstring_bytesnode_countersnode_lttng_tpnode_platformnode_watchdogstring_searchaliased_bufferasync_wrap-inlnode_api_typesnode_constantsnode_internalsbase-object-inlconnection_wrapinspector_agentnode_crypto_bionode_javascriptnode_root_certsstream_base-inlinspector_socketnode_http2_statenode_object_wrapnode_perf_commonnode_stat_watchernode_crypto_groupsnode_debug_optionsnode_lttng_providerinspector_socket_servernode_crypto_clienthellonode_win32_etw_providernode_crypto_clienthello-inlnode_win32_etw_provider-inlnode_win32_perfctr_providerdepsuv
+includeuv
+uv-unixuv-errnouv-linux
+uv-versionuv-threadpoolv8
+includev8
+v8-utilv8-debugv8configlibplatformDEPS
+v8-tracinglibplatformlibplatform-export
+v8-testing
+v8-versionv8-platformv8-profilerv8-inspectorv8-version-stringv8-inspector-protocolv8-value-serializer-version	commonpoll	reglibregdb	reglib
+nl80211	rpcsvcypypnisnisrexrexmountmountrstatrstatspraysprayypupd	nislib	rquota	rquota	rusers	rusers	ypclnt
+yp_protkey_protkey_protklm_protklm_protnfs_protnfs_protnis_tagsnlm_protnlm_protsm_intersm_interyppasswdyppasswd	bootparam
+nis_objectnis_callbacknis_callbackbootparam_protbootparam_protstabtimeutmpwaitzlibcryptctypedlfcnerrnoerrorexpatfcntlfstabgconviconvlibio
+netax25ax25netdb
+netinetinipip6tcpudpigmpethericmp6if_tr
+if_fddi
+ip_icmpif_etherin_systm
+netiucviucv
+netroserose
+opensslbndhectsuiaesbiocmsdesdsadsoerrevpmd4md5pemrc2rc4rsashasrpsslasn1castcmaccompconfecdhhmacksslocsppem2randseedsrtpssl2ssl3tls1x509asn1tdtls1e_os2ecdsalhashmodespkcs7ssl23stack	buffer	crypto	ebcdic	engine	pkcs12	pqueue	ripemd	txt_db	x509v3
+des_old
+obj_mac
+objectsasn1_macblowfishcamelliaconf_apikrb5_asnopensslvossl_typsymhackswhrlpoolx509_vfy	safestack	ui_compatpathsregexschedsgttyspawnstdioucharustatutimeutmpxwcharzconf	alloca	assert	dirent	endian	fmtmsg	getopt	libgen	limits	locale	malloc	mcheck	memory	mntent	mqueuenetatalkat	printf	regexp	resolv	search	setjmp	shadow	signal	stdint	stdlib	string	syslog	termio	tgmath	ttyent	ulimit	unistd	values	wctype
+aliases
+complex
+fnmatch
+gnumake
+gshadow
+ifaddrs
+lastlog
+libintl	neteconetec	netpacket	packet
+obstack	protocolsrwhodtalkdtimed	routed
+pthread
+python3astaccuasdlcodedtoaevalnodepgenImDibcevalpyfpepymemtoken	Python	bitset	codecs	import	object	opcode	osdefs	pyhash	pymath	pyport	pytime
+Imaging
+compile
+errcode
+grammar
+marshal
+objimpl
+pyarena
+pyctype
+pydebug
+pyexpat
+pymacro
+pystate
+ucnhashabstractdatetimegraminitosmoduleparsetokpyatomicpyconfigpydtracepyerrorspygetoptpystrcmppystrhexpystrtodpythreadsymtablewarnings	fileutils	genobject	intrcheck	py_curses	pycapsule	pythonrun	setobject	structseq	sysmodule	traceback	typeslots
+ImPlatform
+Python-ast
+boolobject
+cellobject
+dictobject
+enumobject
+fileobject
+funcobject
+iterobject
+listobject
+longobject
+modsupport
+patchlevelbltinmodulebytesobjectclassobjectdescrobjectfloatobjectframeobjectlongintreprmetagrammarodictobjectpgenheaderspylifecyclepymacconfigrangeobjectsliceobjecttupleobjectImagingUtilsmemoryobjectmethodobjectmoduleobjectstructmemberbytes_methodscomplexobjectunicodeobjectweakrefobjectbytearrayobjectnamespaceobjectdynamic_annotations
+re_comp
+strings
+stropts
+syscall
+termios
+uv-unix
+wordexpbyteswapexecinfofeaturesinttypeslanginfomonetarynl_typessysexitsucontextuv-errnouv-linux	_G_configasm-genericmmanpollstatswaberrnofcntlioctlparamsetuptypes	auxvec	ioctls	ipcbuf	msgbuf	sembuf	shmbuf	signal	socket	statfs	unistd
+int-l64
+siginfo
+sockios
+termiosint-ll64kvm_pararesourceshmparamtermbitsucontext
+errno-basebitsperlongmman-commonposix_typessignal-defsbpf_perf_eventhugetlb_encode	semaphore	stdio_ext	thread_db
+uv-versionstdc-predefsudo_plugingnu-versionsproc_serviceuv-threadpoolexpat_externalx86_64-linux-gnuasmistkvmldtmcemsrsvmvmxboote820mmanmtrrpollstatswabvm86a.outerrnofcntlioctlparamprctlsetuptypes	auxvec	hwcap2	hyperv	ioctls	ipcbuf	msgbuf	ptrace	sembuf	shmbuf	signal	socket	statfs	unistd
+siginfo
+sockios
+termiosdebugregkvm_parakvm_perfresourcetermbitsucontextvsyscall	bootparam	byteorder	perf_regs	unistd_32	unistd_64
+ptrace-abi
+sigcontext
+unistd_x32bitsperlongposix_typessigcontext32hw_breakpointbpf_perf_eventposix_types_32posix_types_64posix_types_x32processor-flagsc++7ext
+opt_randombitsgthrc++io	extc++	stdc++	c++config	c++locale	stdtr1c++
+basic_file
+ctype_base
+gthr-posix
+opt_random
+os_definesatomic_wordcpu_definesgthr-singlec++allocatorctype_inlinegthr-defaulttime_memberscxxabi_tweakserror_constantsmessages_membersgnustubsstubs-64	lib-nameslib-names-64libc-versionsysiokdunvtdirelfipcmsgpcirawregsemshmuiovfsacctauxvfilegmonklogmmanmtiopermpollstatswaptimeuservm86waitcdefsepollerrnofcntlfsuidioctlmountparamprctlqueuequotatimebtimestimextypesustatxattr	procfs	profil	ptrace	random	reboot	select	signal	socket	statfs	sysctl	syslog	unistd	vlimit	vtimes
+bitypes
+eventfd
+inotify
+statvfs
+stropts
+syscall
+sysinfo
+termios
+timerfd
+utsnamedebugregfanotifygmon_outresourcesendfilesignalfdttycharsucontext	socketvar	soundcard	sysmacrospersonalityttydefaultsbitsinipcmsqsemshmtypesFILE	__FILE	time_t	wint_t
+clock_t
+stack_t
+timer_tlocale_tsigset_tsigval_t	clockid_t	mbstate_t	res_state	siginfo_t	struct_tm
+__locale_t
+__sigset_t
+__sigval_t
+sigevent_t__mbstate_tsig_atomic_tstruct_iovecstruct_rusagestruct_timevalstruct_sigstackstruct_timespecstruct_osockaddrstruct_itimerspecauxvfenvlinkmmanpollstattimeutmpa.outdlfcnepollerrnoerrorfcntlhwcaplibionetdbparampoll2schedstdiotimextypesustatutmpxwchar	dirent	endian	fcntl2	floatn	ioctls	locale	mqueue	select	setjmp	signum	socketstab	statfs	stdio2	stdlib	sysctl	syslog	unistd	wchar2
+cpu-set
+eventfd
+fp-fast
+fp-logb
+inotify
+mathdef
+mqueue2
+select2
+setjmp2
+socket2
+statvfs
+stropts
+syscall
+termios
+timerfd
+uio-ext
+uio_lim
+utsnamebyteswapconfnameelfclassinitspinipctypesresourcesignalfdsigstacksockaddrss_flagswordsizextitypes	_G_config	local_lim	mathcalls	posix_opt	semaphore	sigaction	sigthread	stdio_lim	sysmacros	typesizes	waitflags	xopen_lim
+cmathcalls
+fenvinline
+getopt_ext
+libio-ldbl
+mathinline
+mman-linux
+posix1_lim
+posix2_lim
+sigcontext
+stdio-ldbl
+waitstatus
+wchar-ldblbyteswap-16fcntl-linuxgetopt_coreioctl-typesiscanonicallong-doublemath-finitemath-vectormman-sharedprintf-ldblsocket_typestdint-intnstdlib-ldblsys_errlistsyslog-ldblsyslog-pathenvironmentsgetopt_posixpthreadtypessiginfo-archstdint-uintnstdlib-floatwctype-wcharfloatn-commonmonetary-ldblptrace-sharedsiginfo-constssignum-genericstdlib-bsearchuintn-identityflt-eval-methodsigevent-constsstring_fortifiedlibc-header-startpthreadtypes-archstrings_fortifiedsiginfo-consts-archthread-shared-typeslibm-simd-decl-stubsmathcalls-helper-functionsa.out
+opensslopensslconf
+ieee754
+python3pyconfigfpu_controlexpat_configtestmain.cppCXX	depend	clion-logtest.873b812ctest misctest
+modules	workspacemain
+CMakeListsa9e56228mainmain	clion-logtest.a9e56228reverse_arraytestStudentRegistrationCard

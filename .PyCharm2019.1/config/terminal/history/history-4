@@ -1,0 +1,1000 @@
+clear
+ls -a
+nano __init__.py 
+clear
+nano items.py 
+clear
+ls -a
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+ls
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+CLEAR
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+scrapy crawl redirectbot
+cd scraper/scraper/
+scrapy crawl redirectbot
+clear
+scrapy crawl redirectbot
+clear
+exot
+exit
+telnet localhost 6023
+sudo telnet localhost 6023
+clear
+exit
+clear
+scrapy crawl cricketbot
+cd scraper/scraper/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/\
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+ll -a
+clear
+ll
+clear
+la
+clear
+ls
+clear
+la
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl redirectbot
+clear
+scrapy crawl redirectbot
+clear
+scrapy crawl redirectbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+celar
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r ../crawlData/players/*
+clear
+telnet localhost 6023
+clear
+rm -r __pycache__/ spiders/__pycache__/
+scrapy crawl cricketbot
+clear
+rm -r ../crawlData/players/
+mkdir ../crawlData/players
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+rm ../crawlData/players/*
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__p
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+pip uninstall BeautifulSoup4
+pip freeze > ../../requirements.txt 
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl redirectbot
+clear
+ls
+clear
+rm -r __pycache__/
+rm -r spiders/__pycache__/
+clear
+ls
+clear
+scrapy crawl cricketbot
+clear
+cd ../crawlData/players/
+ls -l | wc -l
+clear
+ls
+ls -a
+clear
+ls -l | wc -l
+clear
+ll
+ls -l
+clear
+ls -l
+cd ../
+ls -l
+;;
+ll
+clear
+ls -l | wc
+ls -l | wc -l
+clear
+cd ../scraper/
+ls
+clear
+rm -r __pycache__/ spiders/__pycache__/
+cd ../
+cd scraper/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+ls
+rm -r __pycache__/ scraper/scraper/__pycache__/ scraper/scraper/spiders/__pycache__/
+clear
+cd scraper/scraper/
+scrapy crawl redirectbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot_backup
+clear
+scrapy crawl cricketbot_backup
+scrapy crawl redirectbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot_backup
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot_backup
+clear
+rm -r __pycache__/ spiders/__pycache__/
+deactivate
+clear
+source ../../venv/bin/activate
+clear
+scrapy crawl redirectbot
+clear
+scrapy crawl cricketbot_backup
+clear
+scrapy crawl cricketbot_backup
+clear
+ls
+cd __pycache__/
+ls
+cd ../
+clear
+cd spiders/
+ls
+cd __pycache__/
+lc
+ls
+rm *
+ls -a
+clear
+cd ../
+ls
+cd ../
+ls
+clear
+python spiders/cricketbot.py 
+clear
+scrapy crawl cricketbot
+cd ../crawlData/
+ls
+ls -a
+ll
+sudo chmod 777 -R players/
+ll
+clear
+cd ../
+cd scraper/
+ls
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+cd ../
+ls
+cp scraper/ ../backup
+cp -r scraper/ ../backup
+ld
+ls
+clear
+laer
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+pip uninstall bs4 beautifulsoup4
+clear
+pip uninstall djongo django payabbhi pymongo
+clear
+pip uninstall django
+clear
+exit
+scrapy crawl cricketbot
+cd scraper/scraper/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+cd ../../
+clear
+ls -a
+nano .gitignore
+clear
+git status
+clear
+git init
+git status
+nano .gitignore 
+clear
+git status
+nano .gitignore 
+clear
+git status
+git remote add origin https://github.com/sarthak-patidar/CPSP.git
+git remote -
+git remote
+clear
+git remote origin
+clear
+git remote show origin
+git add .gitignore 
+git commit -m "Add gitignore"
+git push origin master
+clera
+clear
+git status
+git add scraper/
+git stats
+git status
+clear
+git commit -m "Added Scrapper"
+git add requirements.txt 
+git commit -m "Added requirements.txt"
+ckear
+clear
+git push origin master
+touch installer.py
+clear
+touch installer.sh
+git add installer.sh 
+ls -a
+ll
+clear
+ll installer.sh 
+chmod +x installer.sh 
+ll installer.sh 
+./installer.sh 
+clear
+deactivate 
+dpkg -s 'virtualenv' &> /dev/null
+dpkg -s 'virtualenv'
+clear
+./installer.sh 
+sudo rm -r venv2/
+clear
+git status
+git diff installer.sh
+git diff
+clear
+git diff
+clear
+git add installer.sh 
+git commit -m "Added Installer for linux and macos"
+git status
+clear
+git push origin master
+mkdir test
+cd test/
+clear
+git status
+clear
+git clone https://github.com/sarthak-patidar/CPSP.git
+git statu
+git status
+clear
+cd CPSP/
+;s
+ls
+clear
+cd 
+cd Programming/CricketPlayerDataScrapper/test/
+mv -r CPSP/ ./
+mv CPSP/ ./
+mv CPSP/* ./
+ls -a
+clear
+cd CPSP/
+ls
+ls -a
+mv .gitignore ../
+ls -a
+mv .git/ ../
+ls -a
+cd ../
+clear
+ls -a
+rm CPSP/
+clear
+rm -r CPSP/
+clear
+ls
+./installer.sh 
+clear
+pip freeze
+pip uninstall youtube-dl
+clear
+pip freeze
+clear
+cd ../
+rm -r test/
+clear
+sudo rm -r test/
+clear
+git status
+clear
+source venv/bin/activate
+clear
+git log
+git revert dab94936adccc3399b5f7063ccd7d3e7bbace0be
+clear
+git status
+clear
+git log
+clear
+git push origin master
+clear
+touch readme.md
+git status
+clear
+ 
+clear
+git commit -m "Added Readme and Installation Instructions"
+git push origin master
+clear
+ls
+git status
+clear
+scraper crawl cricketbot
+cd scraper/scraper/
+clear
+cd scraper/scraper/
+scraper crawl cricketbot
+scrapy crawl cricketbot
+clear
+git add ../../.gitignore
+git commit -m "Updated gitignore"
+clear
+git push origin master
+git status
+clear
+git status
+clear
+git status
+clear
+git add spiders/cricketbot.py 
+git commit -m "Updated Crawler"
+clear
+git add ../../.gitignore 
+git commit -m "Updated Gitignore included cache and logs dir to ignore"
+git push origin master
+clear
+exit
+webstorm 
+pycharm 
+clear
+pycharm 
+clear
+exit
+cd scraper/scraper/
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+celar
+clear
+celar
+clear
+python items.py 
+lcear
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+python items.py 
+clear
+git status
+clear
+git diff
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+celar
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+clear
+scrapy crawl cricketbot
+clear
+rm -r __pycache__/ spiders/__pycache__/
+celar
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+cler
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+python items.py 
+clear
+python items.py 
+celar
+clear
+mv spiders/cricketbot.py spiders/cricketbot2.py
+clear
+git diff
+clear
+git diff
+git status
+git update-index --assume-unchanged ../../struct.json
+git status
+clear
+git status
+clear
+mv ../crawlData/players/8180.json ../crawlData/players/watson.json
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+git checkoout master
+git checkout master
+clear
+git checkout db_dump
+clear
+scrapy crawl cricketbot
+mv spiders/crciketbot.py spiders/cricketbot.py 
+git status
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+mv db.txt db.py
+clear
+scrapy crawl cricketbot
+cd scraper/scraper/
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+celar
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+celar
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+cleafr
+clear
+scrapy crawl cricketbot
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+lcear
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+cleara
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+pip install mysql
+pip install mysql-connector
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+clear
+python db_meta.py 
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+celar
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+ls
+clear
+python settings.py 
+pip freeze
+pip install python-PIL
+clear
+sudo pip install pillow
+clear
+pip install pillow
+clear
+python settings.py 
+clear
+python settings.py 
+clear
+python settings.py 
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot
+clear
+scrapy crawl cricketbot

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/gmail-automater.iml" timestamp="1557059758000" />
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/jsLibraryMappings.xml" timestamp="1557583937000" />
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/misc.xml" timestamp="1557059758000" />
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/modules.xml" timestamp="1557059758000" />
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/vcs.xml" timestamp="1557060747000" />
+    <file path="/home/sarthak/Programming/gmail-automater/.idea/workspace.xml" timestamp="1558874799000" />
+  </project-files>
+</conversion>
+

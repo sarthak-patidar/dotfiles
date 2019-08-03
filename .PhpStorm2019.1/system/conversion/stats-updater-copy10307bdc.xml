@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/var/www/html/stats-updater-copy/.idea/dictionaries/sarthak.xml" timestamp="1559045448000" />
+    <file path="/var/www/html/stats-updater-copy/.idea/misc.xml" timestamp="1559045448000" />
+    <file path="/var/www/html/stats-updater-copy/.idea/modules.xml" timestamp="1559045448000" />
+    <file path="/var/www/html/stats-updater-copy/.idea/php.xml" timestamp="1559045448000" />
+    <file path="/var/www/html/stats-updater-copy/.idea/statsUpdater.iml" timestamp="1559045448000" />
+    <file path="/var/www/html/stats-updater-copy/.idea/workspace.xml" timestamp="1559045448000" />
+  </project-files>
+</conversion>
+
