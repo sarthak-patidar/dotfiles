@@ -1,0 +1,26 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.0.0-pre" last-modified="1538926904000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PLUGIN_FILTER" value="markdown" />
+    <property name="SettingsSearchHistory" value="desk" />
+    <property name="SplitFileEditor.Proportion" value="0.5415301" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.191" value="15" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/localhost.sql&#10;/home/sarthak/Programming/gmail-automater&#10;/home/sarthak/Programming/nodeTut&#10;/home/sarthak/Programming/Chrome_Extensions/Gmail/beil&#10;/home/sarthak/Programming/Chrome_Extensions/Youtube/YT_Playlist&#10;/home/sarthak/Programming/Chrome_Extensions/Youtube/Play_next&#10;/home/sarthak/Programming/Chrome_Extensions/Youtube&#10;/home/sarthak/Programming&#10;/home/sarthak/PWA&#10;/home/sarthak/mentornet/ui&#10;/home/sarthak/VitalDocz/blog_template&#10;/home/sarthak/VitalDocz/template/wp-json/index.html&#10;/home/sarthak/nodeStarter" />
+    <property name="file.gist.reindex.count" value="15747" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>
