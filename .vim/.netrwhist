@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/var/www/vitaldocz/blog/blog'
+let g:netrw_dirhist_2='/var/www/newsbytes/stats-updater/app/Http/Controllers/Auth'
+let g:netrw_dirhist_3='/var/www/newsbytes/sports/storage'
+let g:netrw_dirhist_4='/home/sarthak/Programming/brahmastra-server/requirements'
+let g:netrw_dirhist_5='/home/sarthak/Programming/jupyter_notes/.ipynb_checkpoints'
+let g:netrw_dirhist_6='/home/sarthak/.vim'
