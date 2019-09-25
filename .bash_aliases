@@ -1,5 +1,8 @@
 ### Register all custom bash aliases in this file. ###
 
+# Executing package manager as root by default
+alias apt='sudo apt'
+
 
 # Restart bash without exiting terminal
 restart-bash () {
@@ -19,6 +22,7 @@ alias pycharm='$HOME/IDE/Pycharm/bin/pycharm.sh'
 alias webstorm='$HOME/IDE/Webstorm/bin/webstorm.sh'
 alias phpstorm='$HOME/IDE/Phpstorm/bin/phpstorm.sh'
 alias clion='$HOME/IDE/Clion/bin/clion.sh'
+alias idea='$HOME/IDE/Idea/bin/idea.sh'
 
 # Activate Virtual Env for python packages
 activate-env(){
@@ -34,3 +38,9 @@ crwl(){
 proxy (){
 	sh ~/.proxy.sh $1;
 }
+
+# ssh remote login scripts
+ssh_login(){
+	exec $HOME/.ssh/login_scripts/$1.sh
+}
+
