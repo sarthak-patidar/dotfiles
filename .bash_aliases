@@ -1,8 +1,8 @@
 ### Register all custom bash aliases in this file. ###
 
-# Executing package manager as root by default
-alias apt='sudo apt'
-
+# Executing utility managers as root by default
+alias apt='sudo apt'  # Package Manager
+alias service='sudo service'   # Service Manager
 
 # Restart bash without exiting terminal
 restart-bash () {
